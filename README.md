@@ -103,6 +103,8 @@ print(response)
 |-----------|-------|------------------|
 | ChemGPT-QA | ChemGPT2-QA-72B | [🤗 ALmonster/ChemGPT2-QA-72B](https://huggingface.co/ALmonster/ChemGPT2-QA-72B) |
 | ChemGPT-web | Braingpt1-Chem | [🤗 ALmonster/Braingpt1-Chem](https://huggingface.co/ALmonster/Braingpt1-Chem) |
+| ChemGPT-Retro | ChemGPT2-RETRO-770M | [🤗 jerryfusion/ChemGPT2-RETRO-770M](https://huggingface.co/jerryfusion/ChemGPT2-RETRO-770M) |
+
 
 ## 📚 Documentation
 
