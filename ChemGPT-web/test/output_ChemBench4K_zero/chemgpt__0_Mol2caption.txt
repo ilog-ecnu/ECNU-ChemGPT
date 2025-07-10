@@ -1,0 +1,608 @@
+
+0 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a benzofuran derivative.
+
+1 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a carboxylic ester functionally related to benzyl alcohol.
+
+2 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product from Streptomyces miharaensis.
+
+3 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is the sodium salt of rigosertib, an anti-cancer agent with Orphan Drug Designation by the FDA for myelodysplastic syndromes (MDS). It functions as a microtubule-destabilising agent, antineoplastic agent, polo kinase (EC 2.7.11.21) inhibitor, and apoptosis inducer, containing a rigosertib(1-) anion.
+
+4 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product sourced from Bruguiera cylindrica.
+
+5 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product found in Taiwanofungus camphoratus and Antrodia cinnamomea.
+
+6 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product from Glehnia littoralis.
+
+7 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a 1,2-dihydropyrimidin-2-one derivative with the hydrogen at position 4 replaced by a 5,6-diamino-2-oxo-2,3,4,5-tetrahydropyrimidin-4-yl group. It belong to the pyrimidones class and acts as a Mycoplasma genitalium metabolite. It features a pyrimidone core, a ring assembly, and an aminopyrimidine.
+
+8 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product isolated from Roseofilum reptotaenium.
+
+9 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a carboxylic ester and a secondary carboxamide.
+
+10 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is the trianion of N(2)-succinyl-L-glutamic acid, formed by deprotonation of all carboxy groups. It is the conjugate base of N(2)-succinyl-L-glutamic acid.
+
+11 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. This molecule is the monocarboxylic acid anion form of (S)-dihydrocamalexic acid, produced by deprotonation of its carboxyl group. It is the conjugate base of (S)-dihydrocamalexic acid and an enantiomer of (R)-dihydrocamalexate.
+
+12 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a polychlorinated biphenyl (PCB), a synthetic compound with multiple chlorine atoms on a biphenyl structure. PCBs, once widely used in......
+
+Sorry, it looks like I may have gone into a bit too much detail for a multiple choice question. The answer is:
+
+C. The molecule is a polychlorinated biphenyl (PCB), a synthetic compound with multiple chlorine atoms on a biphenyl structure. PCBs,一旦广泛使用，因生物累积和健康危害而被禁止使用。
+
+13 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product found in Asarum sieboldii.
+
+14 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product found in Humulus lupulus, Daucus carota, and other organisms.
+
+15 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is the 1,6-anhydro derivative of N-acetyl-beta-muramic acid and a conjugate acid of 1,6-anhydro-N-acetyl-beta-muramate.
+
+16 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a glycerophosphoglycerol.
+
+17 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product found in Jasminum sambac.
+
+18 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a dicarboxylic acid diamide衍生自丁基（羟基）苹果酸，其中一个羧基与1,2-二苯肼形成肼，另一个羧基与6-氨基己酸形成酰胺。它也是一个羟基酰胺。
+
+19 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product derived from Penicillium.
+
+20 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a 1-acyl-sn-glycerol 3-phosphate(2-) formed by deprotonation of both phosphate OH groups in 1-stearoyl-sn-glycero-3-phosphate; it is the conjugate base of 1-stearoyl-sn-glycero-3-phosphate.
+
+21 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product isolated from Bletilla striata.
+
+22 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a carboxylic ester formed from the condensation of azilsartan's carboxyl group with 4-(hydroxymethyl)-5-methyl-1,3-dioxol-2-one's hydroxy group. It is a prodrug of azilsartan used in hypertension treatment, functioning as an angiotensin receptor antagonist and antihypertensive agent. The molecule belongs to the chemical classes of benzimidazoles, dioxolanes, cyclic carbonate esters, 1,2,4-oxadiazoles, aromatic ethers, and carboxylic esters. It is(structurally related to azilsartan and is the conjugate acid of azilsartan medoxomil(1-).
+
+23 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product found in Nostoc.
+
+24 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is an oligosaccharide.
+
+25 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D.
+
+26 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product from Glaucium flavum.
+
+27 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. Androsta-1,4,6-triene-3,17-dione is an androstanoid derivative of androsta-1,4,6-triene with oxo groups at positions 3 and 17. It functions as an inhibitor of the enzyme aromatase (EC 1.14.14.14) and can be a metabolite in humans. It is classified as a 17-oxo steroid, an androstanoid, and a 3-oxo-Delta(1),Delta(4)-Steroid.
+
+28 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a carboxamide.
+
+29 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a polypeptide consisting of Gly-Arg dipeptide units linked by peptide bonds, originating from glycine and L-arginine.
+
+30 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a lipid A derivative with a branched decasaccharide comprising two galactose, five glucose, one N-acetylglucosamine, and two Kdo units, one at the reducing end, linked to lipid A through an alpha-(2->6)-linkage. It belongs to the lipid As family and is a dodecanoate ester.
+
+31 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a methoxybenzene derivative.
+
+32 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product present in Crataegus monogyna and Passiflora coactilis.
+
+33 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product found in Picrasima javanica.
+
+34 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product from Stypopodium flabelliforme.
+
+35 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product孤立 from Handroanthus impetiginosus. Data on the molecule is available.
+
+36 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a pentacyclic triterpenoid natural product isolated from Azadirachta indica and Cedrela odorata. It functions as an antimalarial, antineoplastic agent, Hsp90 inhibitor, and plant metabolite. Chemical structure-wise, it is categorized as a limonoid, acetate ester, epoxide, enone, member of furans, and lactone.
+
+37 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product from Andrographis paniculata.
+
+38 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product from Baccharis dracunculifolia.
+
+39 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is an azamacrocycle with a lactam moiety.
+
+40 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product found in Fusicoccum.
+
+41 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product found in Petasites hybridus.
+
+42 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product found in Staphisagria macrosperma and Amaranthus cruentus.
+
+43 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. O-hexanoyl-L-carnitine is an O-hexanoylcarnitine with L configuration, acting as a human metabolite. Itbelongs to the class of saturated fatty acyl-L-carnitine and is naturally found in Pseudo-nitzschia multistriata.
+
+44 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product from Crossopetalum gaumeri.
+
+45 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a benzene derivative.
+
+46 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a peptide.
+
+47 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product found in Briareum stechei.
+
+48 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is an organosulfate oxoanion, the conjugate base of 2-acetamido-2-deoxy-3-O-(6-O-sulfo-beta-D-glucosyl)-beta-D-galactose, formed by deprotonation of the sulfate OH group. It is a conjugate base of a 2-acetamido-2-deoxy-3-O-(6-O-sulfo-beta-D-glucosyl)-beta-D-galactose.
+
+49 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule features a furan ring with a nitro group at position 5 and a carboxamido group at position 2, which is extended by a long-chain multifunctional N-alkyl group. It belongs to the chemical classes of C-nitro compounds, furans, indoles, polyethers, and monocarboxylic acid amides.
+
+50 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product found in Mentha spicata and Mentha longifolia.
+
+51 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a 3beta-sterol, specifically a 24-methylidenelophenol with the methyl group at position 4 oxidized to a hydroxymethyl group. It is also a 3beta-hydroxy steroid and aDelta(7)-sterol,衍生自一个 24-methylidenelophenol 和一个 stigmastane hydride.
+
+52 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product found in the plants Fatsia polycarpa and Mulguraea tridens.
+
+53 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product from Ganoderma applanatum.
+
+54 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a cyclohexenone derivative.
+
+55 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is found in Stemona tuberosa and Dioscorea japonica.
+
+56 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is analpha-D-galactosyl-(1->4)-beta-D-galactosyl-(1->4)-N-acetyl-beta-D-glucosamine with a 2-(2-aminocarbonylethylthio)ethyl group attached to the reducing end anomeric center. It is classified as an aliphatic sulfide, glycoside, trisaccharide derivative, and a member of acetamides.
+
+57 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product from Capparis spinosa.
+
+58 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product present in Tetracentron sinense and Epimedium sagittatum.
+
+59 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is an oligosaccharide.
+
+60 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a harmala alkaloid.
+
+61 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is an aromatic amine.
+
+62 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a cinnamate ester.
+
+63 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is an aromatic ether.
+
+64 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product found in the genus Malus.
+
+65 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product from Amphimedon compressa.
+
+66 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product derived from Penicillium.
+
+67 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is the conjugate base of methoxymycolic acid type-2 (VIII), a mycolic acid with a trans C=C double bond near the carboxyl end and an (S,S) stereochemistry in the distal (CH-CH3)-(CHO-CH3) section of the meromycolate chain.
+
+68 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a Coenzyme A ester of ascorbate-29.
+
+69 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product found in the marine bacteria genus Thalassospira.
+
+70 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a tetracyclic triterpenoid identified as 5alpha-lanosta-8-ene with an epoxy group at positions 24 and 25, a hydroxy group at position 26, and oxo groups at positions 3 and 7. It is sourced from Ganoderma pfeifferi fruiting bodies and demonstrates antiviral effects against influenza A virus. It functions as a metabolite and inhibits EC 3.2.1.18 (exo-alpha-sialidase). The compound is categorized as a diketone, a primary alcohol, a tetracyclic triterpenoid, and an epoxide and is a derivative of lanostane.
+
+71 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a carbazole and functions as a metabolite.
+
+72 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a glycoside.
+
+73 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a cinnamate ester from the condensation of cis-ferulic acid's carboxy group and a hydroxy group of D-tartaric acid, playing a role as a metabolite. It originates from cis-ferulic acid and D-tartaric acid and is the enantiomer of (2R,3R)-cis-fertaric acid.
+
+74 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is an aromatic ether.
+
+75 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a triglyceride.
+
+76 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product孤立 from Phaeosphaeria sowerbyi.
+
+77 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product found in Gnetum hainanense.
+
+78 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is an oligosaccharide.
+
+79 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. The molecule is a synthetic polymer used in high-strength materials with data available.
+
+80 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product found in Bellendena montana.
+
+81 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is the conjugate base of 2-keto-3-deoxy-L-galactonic acid, a carbohydrate acid anion derived by deprotonating the carboxyl group. It is functionally related to galactonic acids.
+
+82 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. The molecule is a member of the class of pyrimidines that is cytosine with the hydrogen on the 4-amino group replaced with a butanoyl group. It is functionally related to thymidine.
+
+83 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a flavonoid and a C-glycosyl compound.
+
+84 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product found in the species Aplysinella.
+
+85 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule contains benzene rings, a fused ring system, and an azetidine moiety.
+
+86 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a member of quinazolines.
+
+87 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product found in Favolaschia. Data on this compound is available.
+
+88 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product found in Viburnum wrightii.
+
+89 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is an odorless dark purple to blackish-brown powder.
+
+90 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule in question, O=S=O, does not correspond to a natural product found in Angelica gigas; instead, it is the chemical formula for sulfur dioxide.
+
+91 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a C-glycosyl compound.
+
+92 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product found in Magnolia compressa and Xylopia parviflora.
+
+93 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a peptide.
+
+94 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product isolated from Terminalia arjuna.
+
+95 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule Br[Hg]Br is a白色 rhombic结晶物质 that is光敏感且微溶于水。它比水密度高，若吸入或摄入则高度有毒。
+
+96 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product from Reidispongia coerulea. Data on this compound are available.
+
+97 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product present in Glycyrrhiza glabra, Glycyrrhiza uralensis, and Glycyrrhiza aspera.
+
+98 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B.
+
+99 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product found in Leonurus japonicus and Ageratum conyzoides.
+
+100 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a lactam and an azamacrocycle.
+
+101 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is exiguamine.
+
+102 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product isolated from Termitomyces albuminosus.
+
+103 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a human protein produced in the skin, lung, and breast, serving as a protector of these tissues from immune system-mediated destruction. Elafin inhibits enzymes associated with inflammation, positioning it as a potential treatment for inflammatory lung diseases and severe reperfusion injuries following heart attacks, injuries, and organ transplants. Elafin has shown good tolerability in humans during a Phase I clinical trial.
+
+104 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a dihydroxyflavone with hydroxy groups at the 2' and 5' positions and methoxy groups at the 3, 7, 8, and 4' positions. It is isolated from Mimosa diplotricha and functions as a plant metabolite. It belongs to the class of dihydroxyflavones and tetramethoxyflavones,(structurally related to flavones.
+
+105 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D.
+
+106 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a benzothiazole derivative.
+
+107 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product found in Eutrema salsugineum.
+
+108 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. The molecule is a high-energy intermediate typically used in explosive formulations.
+
+109 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a metabolite found in or produced by Saccharomyces cerevisiae. 
+
+Actually, [Ca+2] is a cation of calcium, not a molecule as described in the options. If you meant to ask about a different molecule,please clarify.
+
+110 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a sulfonamide.
+
+111 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a member of the neuraminic acids.
+
+112 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. (3S,5S)-(+)-3,5-Heptanediol is a chiral diol with two hydroxyl groups on a七-carbon skeleton, with S-configuration at the third and fifth carbons. Its IUPAC name is (3S,5S)-3,5-dihydroxyheptane. The "(+)" indicates it is dextrorotatory. In chemical synthesis, it can participate in hydrogen bonding, nucleophilic substitution, and oxidation reactions and is utilized in the production of pharmaceuticals, asymmetric catalysis, and materials science. Handling precautions include use of personal protective equipment and working in a ventilated space.
+
+113 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a 16beta-hydroxy steroid with the estra-1,3,5(10)-trien-16beta-ol structure, featuring a methoxy group at position 3,衍生 from an estrane hydride.
+
+114 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a C18 polyunsaturated环氧脂肪酸 with double bonds at positions 9 and 11 and a (13S)-12,13-环氧基团，衍生自十八碳-9,11-二烯酸。
+
+115 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is the conjugate base of 4-hydroxybenzoic acid with a deprotonated hydroxyl group, resulting in a negative charge. It is a plant metabolite and a Saccharomyces cerevisiae metabolite derived from a benzoate. It functions as a conjugate base of 4-hydroxybenzoic acid.
+
+116 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a quinoline derivative.
+
+117 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is an aromatic ether.
+
+118 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product from Amycolatopsis.
+
+119 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a lactam and an azamacroycle.
+
+120 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product from Arnebia euchroma.
+
+121 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a member of the ureas.
+
+122 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is an acyclic monophosphate nucleotide analog of deoxycytidine with antiviral properties, primarily used against cytomegalovirus (CMV). Inside the host cell, cidofovir is transformed into its active form, cidofovir diphosphate, through phosphorylation by cellular enzymes. This active metabolite mimics natural nucleotides, allowing it to compete with deoxycytosine-5 hot 403044e for incorporation by viral DNA polymerase into the viral DNA. This incorporation disrupts DNA polymerization and halts virus replication.
+
+123 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is an argininium(2+), a conjugate acid of D-argininium(1+), and an enantiomer of L-argininium(2+).
+
+124 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is an acyl-CoA(4-) resulting from deprotonation of the phosphate and diphosphate groups of odescr33-CoA, which is the predominant species at pH 7.3, and a conjugate base of odescr33-CoA.
+
+125 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product found in Mucor.
+
+126 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. The molecule is a proteinaceous enzyme inhibitor used in pharmaceutical drug formulations with data available.
+
+127 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a member of the triazoles family.
+
+128 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product from Cladosporium.
+
+129 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a 3a,4,7,7a-tetrahydrophthalimide derivative wherein the nitrogen's attached hydrogen is substituted by a trichloromethyl group, classifying it as a dicarboximide. It functions as an antifungal agrochemical and has been widely utilized since the 1950s to control fungal diseases in fruits, vegetables, and ornamental crops. The molecular structure encompasses characteristics of isoindoles, organochlorine compounds, organosulfur compounds, and phthalimide fungicides.
+
+130 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a 1,2Diacyl-sn-glycero-3-phosphate with octanoyl groups at the 1 and 2 positions. It is also an octanoate ester and the conjugate acid of a 1,2-dioctanoyl-sn-glycero-3-phosphate(2-).
+
+131 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A
+
+132 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 2,6-Bis[(4S)-5,5_diethyl-4,5-dihydro-4-(1-methylethyl)-2-oxazolyl]pyridine is a complex organic molecule with a pyridine core substituted at the 2 and 6 positions with chiral oxazoline ligands. These ligands harbor diethyl substituents and an isopropyl group, contributing steric bulk. The oxazoline rings are saturated, featuring oxygen and nitrogen heteroatoms and possessing the (4S) absolute configuration at the chiral center. This compound is a potential ligand in asymmetric catalysis due to its chiral centers. Its reactivity and safety protocols would be dictated by its susceptibility to hydrolysis or oxidation based on the attached groups.
+
+133 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a peptide.
+
+134 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a monoterpene glycoside with formula C23H28O12, isolated from Paeoniae species. It functions as a plant metabolite and is characterized as a cyclic acetal, lactol, bridged compound, beta-D-glucoside, 4-hydroxybenzoate ester, and a monoterpene glycoside.
+
+135 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule has been used in clinical trials for the treatment of anesthesia.
+
+136 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product from Trattinnickia burserifolia.
+
+137 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a steroidal acyl-CoA formed from the condensation of coenzyme A's thiol group with deoxycholic acid's carboxy group. It is derived from coenzyme A and deoxycholic acid and is the conjugate acid of deoxycholoyl-CoA(4-).
+
+138 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product found in Bridelia glauca.
+
+139 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product from Saccharopolyspora pogona.
+
+140 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. The molecule is a polysaccharide that results from the polymerization of glucose monomers linked by glycosidic bonds. It has a role as a plant structural component. It衍ves from a glucose unit. It is a conjugate base of a cellulose(1+).
+
+141 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a purine nucleoside.
+
+142 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product found in Stephania cephalantha and Stephania tetrandra.
+
+143 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a lactam and an azamacrocycle.
+
+144 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product found in Phyllanthus niruri and Phyllanthus urinaria.
+
+145 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The compound [S(R)]-N-[(S)-[5-(Diphenylphosphino)-9,9-dimethyl-9H-xanthen-4-yl]phenylmethyl]-N,2-dimethyl-2-propanesulfinamide is a chiral phosphine ligand utilized in asymmetric catalysis. It features a xanthene structure with a 4-position diphenylphosphino group and a 9-position dimethyl substitution, enabling coordination to metal centers in transition metal-catalyzed reactions. The 'S(R)' and 'S' designate the绝对 configurations at its chiral centers. The ligand includes a sulfinamide group bonded to a phenylmethyl moiety, which affects the catalyst's selectivity through steric and electronic modulation. Soluble in organic solvents, this compound necessitates inert atmosphere handling to prevent phosphine oxidation, and safety measures are imperative due to its potential irritancy or harm upon improper exposure.
+
+146 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a carbamate农药. Carbamates, similar to organophosphate pesticides, have been widely used in agriculture and lawn care due to their efficacy against a range of pests. They have a lower mammalian toxicity compared to some other pesticides, making them a
+n 1956, carbaryl, a leading carbamate, rose to prominence for its”““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““
+
+147 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product found in Schisandra chinensis.
+
+148 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is an N-acylpiperidine with a piperidin-4-amine structure. It has a furan-2-ylcarbonyl group substituted at the 1-position andbelongs to the classes of furans, tertiary carboxamides, and aminopiperidines.
+
+149 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product found in Ziziphus spina Christi.
+
+150 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. The molecule is a polysaccharide containing multiple beta-D-glucopyranose units linked by (1->6) glycosidic bonds, indicative of a highly branched structure similar to glycogen.
+
+151 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a triglyceride.
+
+152 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product from Cocculus laurifolius.
+
+153 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a metabolite produced by Escherichia coli (strain K12, MG1655).
+
+154 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule CC(C)(N)N is a natural product present in Trapa natans and Avena sativa, among other organisms.
+
+155 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is an aminopyridine.
+
+156 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a corticosteroid hormone.
+
+157 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product found in Physalis longifolia.
+
+158 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a 4-hydroxybenzoate ester.
+
+159 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product originating from Penicillium decumbens.
+
+160 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product found in Dalea aurea and Maackia tenuifolia.
+
+161 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule belongs to the acetamides class.
+
+162 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is avibactam, a beta-lactamase inhibitor.
+
+163 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product found in Decodon verticillatus and Heimia salicifolia.
+
+164 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. The molecule is a member of benzodiazepines.
+
+165 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product from Schisandra chinensis.
+
+166 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is the conjugate base of (S)-warfarin, formed by deprotonation of the hydroxy group. It is an enantiomer of (R)-warfarin(1-).
+
+167 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product from Scoparia Dulcis.
+
+168 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a para-nitrobenzaldehyde, where a nitro group is para-substituted on a benzaldehyde ring.
+
+169 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product from Lithospermum erythrorhizon.
+
+170 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product found in Piper sintenense and Piper melanocladum.
+
+171 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. The molecule is a high-energy intermediate in nitrogen fixation by microorganisms with data available.
+
+172 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. The molecule appears as a viscous liquid with a strong acidic odor, the commercial product is a透明 gel. Used as a flame retardant in polymers, it is effective in both halogenated and non-halogenated systems. Mildly hazardous to humans and the environment.
+
+173 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is the conjugate acid of 5-aminopentanal, formed by the protonation of the amino group, which is the dominant species at pH 7.3. It functions as a plant metabolite and is classified as an ammonium ion derivative, an organic cation, and anomega-ammonioaldehyde.
+
+174 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a 3-oxo-fatty acyl-CoA(4-) from deprotonated phosphate and diphosphate groups of (23Z,26Z,29Z,32Z)-3-oxooctatriacontatetraenoyl-CoA. It is an 11,12-saturated fatty acyl-CoA(4-) and an ultra-long-chain 3-oxoacyl-CoA(4-), and a conjugate base of a (23Z,26Z,29Z,32Z)-3-oxooctatriacontatetraenoyl-CoA.
+
+175 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule described is a copper(II) aspirinate, where aspirin acts as a chelating agent with copper(II) cations. It has potential applications in the treatment of rheumatoid arthritis. Copper is an essential trace element needed for the proper function of numerous enzymes and is found naturally in the environment.
+
+176 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product found in Syzygium aromaticum. Data on it is available.
+
+177 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product found in Glycyrrhiza uralensis and Glycyrrhiza aspera.
+
+178 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product identified in Davallia divaricata and Davallia griffithiana.
+
+179 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product derived from Streptomyces tateyamensis.
+
+180 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a pentacyclic triterpenoid olean-12-ene derivative with hydroxy substitutions at the 3β and 6β positions. It is isolated from the seeds of Datura innoxia and acts as a plant metabolite. The structure is a diol and a derivative of an oleanane hydride.
+
+181 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a cholestanoid.
+
+182 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is altrarate(1-), the conjugate base of D-altraric acid and the conjugate acid of D-altrarate(2-). It is an enantiomer of L-altrarate(1-).
+
+183 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a palmitate ester formed through the condensation of palmitic acid's carboxy group with the hydroxy group of icosan-1-ol. It is classified as a hexadecanoate ester and a wax ester, and is structurally related to icosan-1-ol.
+
+184 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is an oligopeptide.
+
+185 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product from Streptomyces albus.
+
+186 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is an aryl sulfide.
+
+187 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a glycosyl alditol composed of beta-D-galactopyranose and D-galactitol linked through a (1->6) glycosidic bond, functionally related to beta-D-galactose and galactitol.
+
+188 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a member of the pyrazines and contains both tertiary and secondary carboxamide groups.
+
+189 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product found in Pentas lanceolata and Morinda morindoides.
+
+190 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a peptide.
+
+191 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a glycosylated flavonoid.
+
+192 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a prenylcysteine with the prenyl group attached to the side-chain sulfur atom of L-cysteine. It is classified as a L-cysteine thioether and a S-hydrocarbyl-L-cysteine, and represents a tautomer of a S-prenyl-L-cysteine zwitterion.
+
+193 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is the conjugate base of isobutyric acid, resulting from deprotonation of the carboxylic acid group. It is a branched, short-chain, saturated fatty acid anion, also functioning as a plant and human metabolite, related to propionate, and categorized as a branched-chain saturated fatty acid anion and a fatty acid anion 4:0.
+
+194 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is the conjugate base of prostaglandin F2beta, formed by deprotonation of the carboxylic acid group; it is the MatDialog species at pH 7.3.
+
+195 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a pentasaccharide derivative of jalapinolic acid隔离从 Ipomoea pes-caprae。它对人类乳腺癌细胞系的多药耐药性有抑制作用，并作为代谢物功能。其结构包括树脂糖苷、肉桂酸酯、宏观环内酯和十二烷酸酯基团。它与反式肉桂酸、（S）-2-甲基丁酸、十二烷酸和 jalapinolic 酸相关。
+
+196 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a 6-O-butanoyl ester derivative of castanospermine, derived from the Australian chestnut with activity against hepatitis C virus. Celgosivir转换为castanospermine in the body, acting as a potent inhibitor of alpha-glucosidase I, an enzyme essential for viral assembly, release, and infectivity.
+
+197 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product from Microcystis aeruginosa.
+
+198 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product from Pecten maximus.
+
+199 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product from Eurycoma longifolia.
+
+200 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a pyrene derivative.
+
+201 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a purine ribonucleoside 5'-monophosphate with adenine as its nucleobase. It acts as an inhibitor of enzymes EC 3.1.3.11 (fructose-bisphosphatase) and EC 3.1.3.1 (alkaline phosphatase), an agonist of adenosine A1 receptor, and serves as a nutraceutical,微量营养素,基本代谢物和辅因子。它属于腺苷5'-磷酸和嘌呤核苷酸5'-单磷酸的类别。它是腺苷5'-单磷酸(1+)的共轭碱和腺苷5'-单磷酸(2-)的共轭酸。
+
+202 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a polysaccharide.
+
+203 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product from Gymnema sylvestre.
+
+204 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C
+
+205 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product isolated from Trichoderma asperellum.
+
+206 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product from Taiwania cryptomerioides.
+
+207 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product from Xylaria.
+
+208 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product found in Ascochyta pisi.
+
+209 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a straight-chain fatty acid, specifically heptadecanoic acid, with a terminal double bond and a triple bond at the 12th position.
+
+210 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a mimotope of the pyruvate dehydrogenase E2 component (PDC-E2) with a (2,2,2-trifluoroethoxy)acetyl group attached to the lipoated PDC-E2 core dodecapeptide (DKATIGFEVQEE) at N-6 of lysine. It functions as a mimotope and is classified as both a polypeptide and a lipopeptide.
+
+211 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product found in Salvia aurea and Micromeria sinaica.
+
+212 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a tetracyclic diterpenoid, specifically the 1aR,2S,5R,5aR,6S,8aS,9R,10aR diastereomer of 1a,2,5,5a,6,9,10,10a-octahydro-1H-2,8a-methanocyclopenta[a]cyclopropa[e][10]annulen-11-one. It features hydroxy substituents at positions 5, 5a, and 6, methyl groups at positions 1, 1, 7, and 9, a hydroxymethyl group at position 4, and an oxo group at position 1. It is also classified as a cyclic terpene ketone.
+
+213 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a primary aliphatic ammonium ion formed by protonating the guanidino and amino groups of streptothricin D. It also constitutes a guanidinium ion and is the conjugate acid of streptothricin D.
+
+214 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a phenylindole.
+
+215 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. The molecule is a synthetic polymer used extensively in biodegradable plastics with data available.
+
+216 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. The molecule is a complex polyketide natural product.
+
+217 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a pale yellow to brownish yellow liquid, non-corrosive, and used as an herbicide.
+
+218 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a beta-D-xylopyranose with the hydroxy group at position 2 converted to a 2-O-beta-D-glucopyranoside, characterizing it as a beta-D-glucoside and a glycosylxylose.
+
+219 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is hexadecenoyl-CoA, formed by the condensation of coenzyme A's thiol group with the carboxy group of (14Z)-hexadecenoic acid. It is the conjugate acid of a (14Z)-hexadecenoyl-CoA(4-).
+
+220 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product from Junceella fragilis.
+
+221 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a clear colorless liquid with a sour milk-like odor. It has a freezing point of -52.9 °F (-46.6 °C) and a boiling point of 136.4 °F (58 °C). Decomposes at 302 °F (150 °C). Exposure to vapors, whether prolonged at low concentrations or short at high concentrations, is toxic. The density is 0.61 g/cm³. If heated intensely for a prolonged period, containers may rupture violently.
+
+222 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product隔离 from Thalictrum foetidum and Thalictrum simplex.
+
+223 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule contains a carbonyl group and a halogen substituent.
+
+224 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product from Schisandra arisanensis.
+
+225 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is found in Saussurea medusa, Urtica dioica, and other organisms.
+
+226 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product found in Penicillium solitum.
+
+227 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is an ergoline alkaloid.
+
+228 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product found in Lilium mackliniae.
+
+229 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a metabolite produced by Escherichia coli (strain K12, MG1655).
+
+230 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. PC(16:1(9Z)/18:3(6Z,9Z,12Z)) is a 1,2ediacyl-sn-glycero-3-phosphocholine and a metabolite found in or produced by Saccharomyces cerevisiae.
+
+231 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. The molecule is a synthetic polymer commonly used in the production of plastics and has no known natural occurrence.
+
+232 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a hydroxy fatty acid functioning as a metabolite.
+
+233 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. The molecule is a volatile organic compound contributing to atmospheric pollution with data available.
+
+234 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a selective inhibitor of the enzyme 11beta-hydroxysteroid dehydrogenase type 1 (11b-HSD1), which is associated with various metabolic effects. AZD4017, by inhibiting 11b-HSD1, blocks the conversion of cortisone to cortisol, a hormone that activates glucocorticoid receptors. This action potentially mitigates glucose intolerance, hyperinsulinemia, systolic hypertension, increased adiposity, myoatrophy, and dermal atrophy associated with the excessive production of cortisol in metabolic tissues where 11b-HSD1 is abundant, such as liver, skeletal muscle, and adipose tissue.Furthermore, AZD4017 does not affect the anti-inflammatory activity of glucocorticoids.
+
+235 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product found in Acacia melanoxylon.
+
+236 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a hydroxylated derivative of midazolam, specifically an imidazobenzodiazepine, where a hydrogen of the methyl group is replaced by a hydroxy group. It is the major metabolite of midazolam and serves as a drug metabolite, a human blood serum metabolite, and a human urinary metabolite. Structurally, it is an imidazobenzodiazepine, an organochlorine compound, a monofluorobenzene, and an aromatic primary alcohol,衍生自midazolam。
+
+237 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product found in Paraconioorthyrium.
+
+238 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is L-selenomethionine with an adenosyl group attached to the selenium atom. It acts as a mouse metabolite, belonging to the classes of adenosines and selenomethionines, and is an organic cation. It exists as a tautomer of L-adenosylselenomethionine zwitterion.
+
+239 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is an L-lysinate, an optically active lysine derivative with L-configuration. It functions as a metabolite in Escherichia coli, Saccharomyces cerevisiae, and plants. It is classified as an L-alpha-amino acid anion and is the conjugate base of L-lysine, which is the enantiomer of D-lysinate.
+
+240 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. The molecule is a pentasaccharide with one free anomeric centre consisting of three glucosyl residues, one galactosyl residue, and one mannose residue in a branched sequence, linked as shown.
+
+241 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is an indole alkaloid.
+
+242 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product found in Chartella papyracea.
+
+243 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a diisocyanate with two isocyanate groups connected by an isophorone substituent. It is functionally related to isophorone.
+
+244 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is an ether derivative of the flavonoid class.
+
+245 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a sulfonamide.
+
+246 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product found in Cymbastela cantharella.
+
+247 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a 19-hydroxyeicosatetraenoic acid (19-HETE), a hydroxylated derivative of arachidonic acid. It属于 the family of hydroxyeicosatetraenoic acids and results from the oxidation at the 19th carbon of arachidonic acid, which is anicosa-5,8,11,14-tetraenoic acid. It acts as the conjugate acid of a 19-HETE anion (19-HETE(1-)).
+
+248 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product from Mesua ferrea.
+
+249 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C.
+
+250 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product衍生自链霉菌（Streptomyces）。
+
+251 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. Narlaprevir is an azabicyclohexane derivative with a structure featuring a (1R,5S)-6,6-dimethyl-3-azabicyclo[3.1.0]hexane core. It is modified with [(3S)-1-(cyclopropylamino)-1,2-dioxoheptan-3-yl]aminoacyl and N-({1-[(tert-butylsulfonyl)methyl]cyclohexyl}carbamoyl)-3-methyl-L-valyl groups at the 2S and 3 positions, respectively. This compound acts as an inhibitor of the hepatitis C virus NS3/4A serine protease with a Ki of 6 nM and is utilized in treating chronic hepatitis C. As a biological agent, it functions as a hepatitis C protease inhibitor, antiviral drug, EC 3.4.22.69 inhibitor, and anticoronaviral agent. Additionally, narlaprevir belongs to the chemical classes of sulfones, ureas, tertiary carboxamides, azabicyclohexanes, pyrrolidinecarboxamides, secondary carboxamides, and cyclopropanes.
+
+252 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. Rosanilin free base is a 4-methylidenecyclohexa-2,5-dien-1-imine derivative where the methylidene group's hydrogens are replaced by 4-aminophenyl and 3-methyl-4-aminophenyl. Its monohydrochloride salt form serves as the histological dye 'rosanilin'. It functions as a histological dye, fluorochrome, and carcinogenic agent. Itbelongs to the classes of imines and substituted anilines and is the conjugate base of rosanilin(1+).
+
+253 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a carbohydrate derivative.
+
+254 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a hydrazone formed by the condensation of anthracene-9,10-dicarbaldehyde with 2-hydrazinyl-4,5-dihydro-1H-imidazole. It acts as an antineoplastic agent and belongs to the classes of hydrazones, imidazolidines, and anthracenes.
+
+255 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. The molecule is a member of peptides, a polymeric chain and a member of carboxylic acids.
+
+256 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product from Kickxia elatine.
+
+257 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. The molecule is a monomeric unit commonly used in the production of plastic bottles with data available.
+
+258 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product found in Clinopodium gracile and Verbascum densiflorum.
+
+259 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. Clodoniamide G with a hydrogen instead of a chlorine on the methoxy-bearing indole moiety. It is classified as an organic heteropentacyclic compound, a cladoniamide, an organochlorine compound, a tertiary alcohol, a lactam, and a secondary carboxamide.
+
+260 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is methyl cellulose, a hydrophilic白色powder that dissolves in冷water to form a clear viscous solution or gel. Typically, there are 1.3 to 2.6 substituted hydroxyl groups per glucose unit, out of a theoretical maximum of 3. It is used to treat constipation and is not digestible, toxic, or allergenic.
+
+261 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a sulfonamide.
+
+262 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is an oligosaccharide.
+
+263 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product from Viscum coloratum.
+
+264 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a steroid saponin.
+
+265 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product from Zingiber officinale.
+
+266 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product found in Senecio chrysocoma.
+
+267 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product from Libocedrus yateensis.
+
+268 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product present in Camptacra gracilis and Senecio linearifolius.
+
+269 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a peptide.
+
+270 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. The molecule is a member of the polyketides.
+
+271 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product sourced from Streptomyces albidoflavus.
+
+272 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a naphthalene derivative.
+
+273 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is the S-enantiomer of nicardipine, functioning as an antihypertensive agent and calcium channel blocker. It is an enantiomer of R-nicardipine.
+
+274 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a triterpenoid saponin comprising a 24,25-epoxy-13,30-cyclodammarane-3,7,23-trool structure with a 6-O-acetyl-beta-D-glucopyranosyl residence attached at position 7 by a glycosidic bond. It is derived from Dysoxylum cumingianum and exhibits antileukemic properties, functioning as an antineoplastic agent and plant metabolite. Structurally, it is classified as a beta-D-glucoside, acetate ester, epoxide, monosaccharide derivative, pentacyclic triterpenoid, and secondary alcohol.
+
+275 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a member of the quinolines.
+
+276 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product found in Alstroemeria.
+
+277 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a phenylpyridine derivative.
+
+278 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product from Tomophagus cattienensis. Data on the molecule is available.
+
+279 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is an azamacrocycle and a lactam.
+
+280 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a CCR2/CCR5 antagonist with potential for immunomodulating and antineoplastic effects.
+
+281 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a glycerophosphoglycerol.
+
+282 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a nucleoside triphosphate analogue related to GTP.
+
+283 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is a natural product derived from Epicoccum nigrum.
+
+284 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product derived from Streptomyces.
+
+285 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a hydroxycoumarin derivative, specifically 4-hydroxycoumarin substituted at position 3 by a 1-phenylpropyl group. It functions as an anticoagulant and inhibits EC 1.6.5.2 [NAD(P)H dehydrogenase (quinone)].
+
+286 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a natural product found in Euphorbia helioscopia.
+
+287 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is an O-acylcarnitine.
+
+288 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product sourced from Streptomyces graminearus.
+
+289 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a glycoside.
+
+290 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is an amino sugar.
+
+291 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is an organometallic compound containing chromium, which acts as a catalyst for the hydrogenation of 1,3-dienes. Chromium has the symbol Cr and atomic number 24. It is naturally present in rocks, animals, plants, and soil, and is primarily提取 from chromite ore. Chromium in its +6 oxidation state is particularly toxic, as it readily进入 cells and has a high redox potential. In contrast, trivalent chromium is essential for the metabolism of sugars and lipids in humans.
+
+292 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a triglyceride.
+
+293 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product isolated from Cassinia subtropica.
+
+294 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The molecule is bortezomib, which acts as a proteasome inhibitor.
+
+295 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is an aromatic ether.
+
+296 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The molecule is a natural product from Tapinella atrotomentosa.
+
+297 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The molecule is a natural product found in Aspergillus subolivaceus, Aspergillus flavus, and Aspergillus parasiticus.
+
+298 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecule is a fatty amide formed from the condensation of (Z)-dodec-2-enoic acid with morpholine's nitrogen. It is classified as an enamide, a fatty amide, and a tertiary carboxamide and is derived from a morpholine.
+#####################
+#####################
+Overall Accuracy = 282/299 = 0.943

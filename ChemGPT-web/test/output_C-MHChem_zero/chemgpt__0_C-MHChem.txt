@@ -1,0 +1,1649 @@
+
+0 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 75%浓度酒精杀灭细菌繁殖
+
+1 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 有新物质生成
+
+2 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 可吸入颗粒物
+
+3 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 氮气
+
+4 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. 氧气在空气中的质量分数为21%。
+
+5 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 铁丝在氧气中燃烧火星四射。
+
+6 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 质子数
+
+7 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. 含较多可溶性钙、镁化合物的水。
+
+8 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 一定含碳、氢元素，可能含氧元素
+
+9 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 碳在氧气中充分燃烧是放热反应，而不充分燃烧时是吸热反应
+
+解答解析：碳在氧气中充分燃烧时，释放出大量热量，因此是放热反应。而不充分燃烧时，碳与氧气反应生成一氧化碳等产物，通常会释放出热量，而不是吸热反应。因此，选项C是错误的。
+
+10 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. NO难溶于水
+
+11 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 石灰石和稀盐酸反应
+
+12 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. 倒入少量澄清石灰水，振荡
+
+13 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. ②③④ 
+
+解析：二氧化碳（CO₂）确实比一氧化碳（CO）多一个氧原子，但题目的选项中并未包含这一点，因此不需要选。光合作用中植物确实需要二氧化碳，菜窖久未开启时会因植物呼吸释放二氧化碳而增加，而二氧化碳与水反应生成碳酸，会使石蕊纸花变红。
+
+14 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. 二氧化碳分子比一氧化碳分子多1个氧原子
+
+15 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 石油是一种混合物
+
+16 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 液氧是助燃剂。
+
+17 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. 野火烧不尽，春风吹又生。这句诗词虽然提到了火，但并没有明确的化学变化，其他选项都涉及了化学反应或变化。
+
+18 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 因为氧气能支持燃烧，所以可用作燃料。
+
+19 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 分子种类相同，物理性质一定相同。
+
+20 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 目前元素周期表有7个周期
+
+21 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. 过氧乙酸由碳原子、氧原子、氢原子构成。
+
+22 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 氮气
+
+23 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 工业上利用分离液态空气的方法制取氧气
+
+24 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 氧
+
+25 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 用水银温度计测量体温时水银柱升高，说明分子间间隔增大。
+
+26 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 纸张燃烧
+
+27 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 硫
+
+28 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 氮气：空气中体积分数最大的气体
+
+29 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 生活垃圾进行分类回收处理
+
+30 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 地塞米松由4种元素组成。
+
+31 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. 要留清白在人间
+
+32 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 降低可燃物的着火点能达到灭火的目的
+回答：C。
+
+33 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 汽油挥发
+
+34 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. H₂和He质子数都是2，所以具有相同质子数的粒子不一定是同种元素。
+
+35 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 纸张燃烧
+
+36 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 冰水混合物
+
+37 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 铜
+
+38 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. H、O原子个数比为2：1 
+
+解析：蔗糖的分子式为C₁₂H₂₂O₁₁，H和O的原子个数比为22：11，简化后为2：1，因此A项正确。B项的相对分子质量计算方式不正确，C项蔗糖只含有3种元素（C、H、O），D项氧元素的质量分数在蔗糖中并不是最小的。
+
+39 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. ③④
+
+40 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 10mL
+
+41 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 提出假设
+B. 收集证据
+
+42 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. O~2~ 
+
+氧气是动植物呼吸的必需气体。
+
+43 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 氮气
+
+44 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 火箭新型推进剂H₂（液氢）不是空气成分。
+
+45 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 铝
+
+46 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 原子核和核外电子带等量的异种电荷。
+
+47 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 氯化钠是由氯化钠分子构成的化合物。氯化钠实际上是由钠离子和氯离子构成的离子化合物，而不是分子。
+
+48 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 最外层电子数
+
+49 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D
+
+氯化钠是由钠离子和氯离子构成的。
+
+50 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. P~2~O~5~
+
+51 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. 水电解实验得出水是由氢气和氧气组成
+
+52 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 该实验能证明水中含有氢、氧元素
+
+53 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. 水由氧元素和氧元素组成
+
+54 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 催化剂
+
+55 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 蔗糖的溶解
+
+56 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 证明呼出的气体含较少氧气的依据是：呼出的气体能使燃着木条燃烧更旺。
+
+57 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 炼铁铸锚
+
+58 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. 一氧化碳有可燃性，可用来炼铁。
+
+59 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 氧气
+
+60 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 氧循环对维持自然界中物质、能量及生态的平衡有重要意义。
+
+61 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 遇到室内起火，迅速打开门窗通风
+
+打开门窗通风可能使火势更大，正确的做法是关闭门和窗户，以防止空气流通，降低火势。
+
+62 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 焚烧废弃塑料 
+
+焚烧塑料会产生有害气体，对环境和人体健康有害。正确的方法包括重复使用、用布袋替代或使用可降解材料。
+
+63 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 纸巾 
+
+乘坐公共交通工具时，纸巾是允许携带的，而鞭炮、汽油和高浓度酒精则是禁止的。
+
+64 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 遭遇火灾时，用湿毛巾捂住口鼻远离着火区域。
+
+65 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 分子间间隔变小了。
+
+66 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 2Na^+^------两个钠离子 
+
+解析： 
+A. O₂ 表示一个氧分子，而不是两个氧原子。 
+B. 3Fe 表示三个铁原子，而不是三个铁元素。 
+C. 2Na⁺ 表示两个钠离子，符合题意。 
+D. C 表示一个碳原子，而不是一个碳分子。
+
+67 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 铁丝
+
+68 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 木炭在氧气中燃烧，发出白光，放出热量，产生能使澄清石灰水变浑浊的气体。
+
+69 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: 首先，计算混合气体中一氧化碳和二氧化碳的质量。
+
+设混合气体中一氧化碳的质量为x克，二氧化碳的质量为y克。
+
+根据氧元素的质量分数，可以建立以下方程：
+
+\[
+\frac{16y + 16x/2}{20} = 64\%
+\]
+
+简化后得：
+
+\[
+16y + 8x = 12.8
+\]
+
+同时，根据总质量：
+
+\[
+x + y = 20
+\]
+
+解这个方程组，可以得到：
+
+\[
+x = 8 \quad \text{和} \quad y = 12
+\]
+
+然后，计算一氧化碳和二氧化碳在反应中生成的二氧化碳的质量。混合气体通过氧化铜时，一氧化碳会与氧化铜反应生成二氧化碳，反应方程式为：
+
+\[
+2CO + O_2 \rightarrow 2CO_2
+\]
+
+生成的二氧化碳的质量为：
+
+\[
+12 \times \frac{44}{44} + 8 \times \frac{44}{28} = 12 + \frac{352}{28} = 12 + 12.57 = 24.57
+\]
+
+最终生成的沉淀（碳酸钙）的质量为：
+
+\[
+24.57 \times \frac{100}{44} = 55.84 \approx 56
+\]
+
+因此，正确选项为：
+
+**B. 50g** 
+
+但由于计算过程中的四舍五入，可能解答会有微小误差。
+
+70 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CO~2~和H~2~的收集装置完全相同 
+
+解析：CO₂通常用气体收集装置收集，而H₂一般可以用气体收集装置或排水法收集，因此它们的收集装置并不完全相同。
+
+71 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 形成化学性质稳定的炭层。
+
+72 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 碳
+
+73 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 减少化石燃料的使用
+
+74 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 一氧化碳
+
+75 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 1个分子中共含有83个原子
+
+76 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 工业废水需处理达标后排放。
+
+77 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. "3"表示分子个数 
+
+解析：在化学式中，"3H₂SO₄"表示有3个H₂SO₄分子。"3"在这里并不表示分子个数，而是表示有3个硫原子（S）和相应的氢（H）和氧（O）原子。正确的方法是将分子式解读为每个分子中包含的原子数量。
+
+78 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. ⑦②③①④⑤⑥
+
+79 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 浓硫酸要密封保存，这与浓硫酸的挥发性有关
+
+浓硫酸不具有挥发性，它会吸湿，导致溶质质量分数减小。因此，A 是错误的。
+
+80 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A.
+中和反应的实质是酸中的氢离子（H⁺）与碱中的氢氧根离子（OH⁻）反应生成水分子（H₂O）。因此，选项A是正确的。虽然中和反应通常会生成盐和水，但并非所有生成盐和水的反应都是中和反应，排除了B。氢氧化铝可以中和胃酸，但选项C并未明确指出是中和反应，而D则过于含糊，未能具体说明现象的特征。
+
+81 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 稀氨水
+
+82 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 头发应该在弱酸性环境中养护，普通洗发水的pH的范围是7.5～10.0，护发素的pH的范围是2.8～3.5，所以洗发时应该先用洗发水，后用护发素。
+
+83 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. 醋酸
+
+84 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 霉变大米经多次淘洗后可食用。
+
+85 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 废口罩
+
+86 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 化学与生活  
+B. 化学与安全  
+C. 化学与健康  
+D. 化学与社会  
+正确答案：**A**。
+
+87 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. 加入稀硫酸 
+
+解析：假金元宝通常由铜和锌合金制成，而铜和锌在稀硫酸中不会发生显著的化学反应，因此加入稀硫酸无法有效鉴别真假金元宝。其他方法如用火烧、看颜色和测密度都可以提供一定的鉴别信息。
+
+88 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 铜
+
+89 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. X的金属活动性比Y强 
+
+解释：根据反应，X能够置换出Y，说明X的金属活动性更强，因此C项是正确的。
+
+90 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 石灰石
+
+91 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 铁生锈的实质是铁与空气中氧气反应，生成四氧化三铁。
+
+92 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 大力开采稀有金属矿物，以保障金属材料的供应。
+
+93 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 铁锈可用于冶炼钢铁。
+
+94 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 只有蒸发溶剂才能使晶体析出。
+
+95 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 溶液一定是混合物
+
+解析：溶液是由溶质和溶剂组成的混合物，符合混合物的定义。关于溶液的其他选项，稀溶液不一定是不饱和溶液，降温也不一定可以使不饱和溶液变成饱和溶液，饱和溶液的浓度也并不一定比不饱和溶液的浓度大，具体情况取决于溶质的性质和温度等因素。
+
+96 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. 60℃时取KNO~3~和NaCl饱和溶液，同时降温至20℃，析出晶体KNO~3~＞NaCl。
+
+97 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 100 g醋酸的水溶液中含醋酸10g
+
+98 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 蒸馏水 
+
+蒸馏水是一种纯净的水，不含溶质，因此不属于溶液。
+
+99 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 二氧化碳
+
+100 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: 回答：D. 该过程一定发生了如下反应：M+CuSO~4~═Cu+MSO~4~
+
+101 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 二氧化碳
+
+102 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 白糖
+
+103 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 用湿布擦拭。
+
+104 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 澄清石灰水 
+
+石灰水是碱性溶液，会使石蕊溶液变为蓝色。
+
+105 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 可能为紫色
+
+106 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 高锰酸钾
+
+107 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 塑料
+
+108 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. 降温，糖水中一定有晶体析出
+
+109 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 汞
+
+110 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 硝酸铵
+
+111 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. X＞Z＞Y
+
+112 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 用铜制容器盛盐酸
+
+铜的活动性低于氢，不会与盐酸反应。
+
+113 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 青铜铸像
+
+114 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. KCl
+
+115 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. KNO₃
+
+116 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 过磷酸钙
+
+117 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 维生素
+
+118 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 食用新鲜的蔬菜水果
+
+119 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 有机玻璃茶几。
+
+120 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 塑料救生圈
+
+121 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: 根据题目描述，金属X和金属Z在稀硫酸中产生气泡，说明它们能与酸反应。而金属Y没有明显现象，说明它较不活泼。此外，当X放入ZCl~n~溶液时，没有发生置换反应，说明X的活动性不如Z。
+
+因此，三种金属的活动性顺序为：**Z > X > Y**。
+
+所以正确答案是：
+
+**B. Z > X > Y**
+
+122 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 升高溶液的温度
+
+123 Correct: False | OUTPUT: None | ANSWER: C | chemgpt: 请问这道题目的图示或数据在吗？这样我能更好地帮助你选择正确选项。
+
+124 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 稀盐酸
+
+125 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 溶剂的质量增大
+
+126 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 其水溶液能使石蕊溶液变红。
+
+127 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. H₂SO₄ + 2KOH == K₂SO₄ + 2H₂O
+
+128 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. 肥皂(pH≈10)
+
+129 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: 正确选项是：B、C、D。 
+
+A 项错误，烧碱（NaOH）不能用作袋装食品的干燥剂。 
+
+B 项正确，大理石（CaCO₃）可以用作建筑材料。 
+
+C 项正确，石灰水（CaO）可以改良酸性土壤。 
+
+D 项正确，苏打（NaHCO₃）用于治疗胃酸过多症。 
+
+因此，正确答案是 B、C、D。
+
+130 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 饱和溶液一定是浓溶液，不饱和溶液一定是稀溶液。
+
+131 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. 20 ℃时的溶液一定为饱和溶液
+
+解析：当温度从40°C降低到20°C时，硝酸钾的溶解度降低，导致部分晶体析出。这意味着在20°C时，溶液是饱和的，但不能绝对断定它一定为饱和溶液，因为可能还存在未饱和的情况。因此，C项的说法不正确。
+
+132 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 用量筒量取水时仰视读数。正确做法是平视读数。
+
+133 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 高锰酸钾
+
+134 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 硝酸铵
+
+135 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 延展性
+
+136 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: 选择：C. 滤液中一定没有Cu（NO₃）₂、AgNO₃。 
+
+解析：铝粉会与Ag⁺和Cu²⁺反应，生成金属银和铜，因此滤渣中会有Ag和Cu。滤液中可能会有Cu（NO₃）₂，因为如果铝粉量不足，不能完全反应，滤液中仍可能残留Cu（NO₃）₂。因此，C项的说法是错误的。
+
+137 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 用稀盐酸定期清洗金属制品。
+
+138 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. 铝土矿
+
+139 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. 碘
+
+140 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 氢气混有氯化氢时，先通过过量氢氧化钠溶液可以中和氯化氢，再通过过量浓硫酸可以干燥氢气，因此选择 B。
+
+141 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. 磷酸二氢钾
+
+142 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 焰色反应：黄色（K₂CO₃的焰色反应是紫色，不是黄色。）
+
+143 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. NH₄Cl
+
+144 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. Ba^2+^ 
+
+解析：H^+^、SO4^2-^和Cl^-^共存时，OH^-^和Ag^+^会与H^+^和Cl^-^反应，因此不会大量存在。Ba^2^可以与SO4^2^-^形成沉淀，NH4^+^可以与Cl^-^共存，但在正常情况下Ba^2^更为常见，因此选B。
+
+145 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 可用亚硝酸钠代替食盐腌渍食品
+
+146 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. H₂O NaOH HCl 
+
+解析：首先用H₂O溶解固体物质，接着用NaOH与CaCO₃反应生成可溶性的钙盐，最后用HCl与MgCl₂反应生成氯化镁，从而实现分离。
+
+147 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 废口罩
+
+148 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 钙
+
+149 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 塑料属于天然高分子材料
+
+150 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 爸享受运动，大量出汗后常饮用含无机盐的饮料。
+
+151 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 食用加碘盐可补充人体缺乏的碘元素。
+
+152 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 尼龙
+
+153 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 回收利用各种废弃塑料
+
+154 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 钙元素可以预防甲状腺肿大。
+
+155 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 白酒
+
+156 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 铝镁合金属于复合材料 
+
+（解析：铝镁合金是由铝和镁等金属元素构成的合金，而非复合材料，复合材料通常由两种或多种不同性质的材料组合而成。）
+
+157 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 红烧猪肉
+
+158 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 糖类
+
+159 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 和金属氧化物反应，有盐和水生成
+
+160 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 用熟石灰和硫酸铜配制波尔多液。
+
+161 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: 回答：B. 甲、丙、乙
+
+162 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 碘酒中碘是溶质，酒精是溶剂。
+
+163 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 剧烈运动后，可以大量饮用碳酸饮料。
+
+164 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. NH₄NO₃~
+
+165 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 安全常识
+
+166 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 研发人工智能 
+
+研发人工智能并不属于化学研究的范畴。
+
+167 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 能与氢氧化钠溶液反应 
+
+解析：氯气的物理性质包括其刺激性气味（B）、黄绿色（C）以及在通常状况下是气体（D），而“能与氢氧化钠溶液反应”是化学性质，因此选A。
+
+168 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 喷药消毒
+
+169 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 炼生铁
+
+170 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 烧制瓷器。
+
+171 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 蜡烛在空气中燃烧发出蓝色火焰，放热并产生白烟。正确的是蜡烛燃烧时通常发出黄色火焰。
+
+172 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 呼出气体中氧气的含量比空气中小
+
+173 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 点燃酒精灯时用另一只酒精灯 
+
+解析：使用另一只酒精灯点燃是正确的操作，而不应使用火柴或其他明火，以防引起火灾或其他危险。其他选项说法正确。
+
+174 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 稀有气体
+
+175 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 氮气
+
+176 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 氖气
+
+177 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 木炭在氧气中燃烧，发出白光，放出热量，产生能使澄清石灰水变浑浊的气体。
+
+178 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 水分子间隔变大
+回答：C。
+
+179 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 铝
+
+180 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 锰 $$Mn$$，正确书写为 $$Mn$$，而不是 $$MN$$。
+
+181 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 淡水资源是取之不尽、用之不竭的。
+
+182 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 氧气 
+
+氧气不是可燃物，而是助燃物。
+
+183 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D.  \(2\)个镁离子：\(2Mg^{2 +}\)
+
+184 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 芹黄素中碳、氢、氧元素的质量比为15：10：5。实际上，质量比应该基于各元素的相对原子质量来计算，而不仅仅是原子个数。
+
+185 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. 该反应是分解反应。
+
+186 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: 根据反应方程式，可以得到反应物和生成物的摩尔关系：
+
+\[
+A + 3B = 2C + 2D
+\]
+
+从反应中可以看出，A与B的摩尔比为1：3，C与D的摩尔比为1：1。
+
+根据生成物的质量关系，可以得到：
+
+\[
+28g \, A + 3B \rightarrow 88g \, C + 2D
+\]
+
+根据C和D的相对分子质量比为22：9，可以设定C和D的相对分子质量分别为22x和9x。因此，生成的C和D的质量关系可以表示为：
+
+\[
+22x + 9x = 88g
+\]
+
+解得：
+
+\[
+31x = 88g
+\]
+
+\[
+x = \frac{88}{31} \approx 2.84
+\]
+
+因此，C的相对分子质量为：
+
+\[
+22 \times 2.84 = 62.48
+\]
+
+D的相对分子质量为：
+
+\[
+9 \times 2.84 = 25.56
+\]
+
+根据反应物和生成物的质量关系，可以得到：
+
+\[
+28g \, A + 3B = 62.48g \, C + 25.56g \, D
+\]
+
+从摩尔关系中可以得到：
+
+\[
+\frac{A}{B} = \frac{1}{3}
+\]
+
+因此，A与B的相对分子质量之比为：
+
+\[
+\frac{A}{B} = \frac{1}{3} \times \frac{62.48}{25.56} = \frac{62.48}{76.68} \approx \frac{7}{8}
+\]
+
+所以，正确答案是：
+
+\[
+\text{A. } 7 \text{：} 8
+\]
+
+选择A。
+
+187 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C.  \(C_{60}\)具有稳定结构，不能燃烧。实际上，\(C_{60}\)是一种富勒烯，可以在一定条件下燃烧。
+
+188 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 氧气
+
+189 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. 无法判断
+
+190 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 生活中常用蒸馏的方法降低水的硬度。
+
+191 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 物质与氧气发生的反应属于氧化反应。
+
+192 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 烧杯、玻璃棒
+
+193 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 蒸馏能得到纯净的水。
+
+194 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. 马铃薯
+
+195 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B.  \(Na_{2}CO_{3}\)和\(CaCO_{3}\)都是白色易溶于水的固体。
+
+196 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 不溶于水
+
+197 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 过度施用农药化肥提高产量，如喷洒过量农药杀虫。
+
+198 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. NaCl
+
+199 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 酸性氧化物　二氧化碳　CO~2~
+
+200 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 用一束光照射该分散系时，可以看到一条光亮的"通路"。
+
+201 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. NaOH、Na2CO3 
+
+解析：过氧化钠与碳酸氢钠反应生成氢氧化钠和二氧化碳，因此残留的固体物质是氢氧化钠和碳酸钠。
+
+202 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 在水溶液里或熔融状态下能导电的化合物。
+
+203 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 熔融的MgCl₂~ 
+
+解析：熔融的MgCl₂是一个电解质，因为它在熔融状态下能够电离成离子，从而导电。
+
+204 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CaCO₃ 
+
+解析：CaCO₃是一种不溶于水的盐，需先溶解再释放CO₃²⁻离子，而A、B和D选项在水中都能以CO₃²⁻的形式存在。
+
+205 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. Br⁻→Br₂
+
+206 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. MgCl₂溶液 
+
+在MgCl₂溶液中，Cl⁻离子是自由移动的。
+
+207 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: 根据给出的还原性顺序，反应 B 不能发生。因为 NO 的还原性低于 SO_2 的还原性，因此 NO 不能被还原为 NO_2。
+
+**解答：B**
+
+208 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. ①④⑤⑥⑦
+
+209 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. 列各组关于强电解质、弱电解质、非电解质的归类正确的（ ） 
+
+正确选项是：C。 
+
+解析： 
+- 强电解质：NaCl 和 HNO3 是强电解质，而 Fe 和 CaCO3 不是强电解质（CaCO3 是弱电解质）。
+- 弱电解质：CH3COOH 和 NH3 是弱电解质，而 H2CO3 和 Fe(OH)3 也是弱电解质。
+- 非电解质：蔗糖和 C2H5OH 是非电解质，而 BaSO4 和 H2O 是电解质（BaSO4 是强电解质，H2O 是弱电解质）。 
+
+因此，正确归类为 C。
+
+210 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 该反应是氧化还原反应,化合价发生改变的只有两种元素。
+
+211 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: 在这些选择中，只有选项 B 中的微粒在一定条件下均可以作氧化剂。
+
+**回答：B**
+
+212 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C
+
+213 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. NO₂、Na、Br₂ 
+
+解析：NO₂中氮的价态为+4，既可以升高也可以降低，具有氧化性和还原性；Na为金属，只有还原性；Br₂中溴的价态为0，既可以升高也可以降低，具有氧化性和还原性。因此，按只有氧化性、只有还原性、既有氧化性又有还原性的顺序排列为C。
+
+214 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. KNO₃===K⁺⁺NO₃⁻
+
+215 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 分子数 
+
+在1 mol H₃和1 mol H₂中，分子数是相同的，都是6.022 × 10²³个分子。
+
+216 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 1 mol O~2~的质量是32 g，含有的氧原子数为2*N*~A~
+
+217 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. Mg、Al在反应中共失去0.4 mol电子。
+
+218 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 将水蒸气通过灼热的铁粉，粉末变红
+解析：水蒸气与铁反应生成铁的氧化物，粉末会变红，因此A项说法正确，应选B、C或D中的一个。
+
+219 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 最终生成红褐色沉淀
+
+220 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 核电荷数
+
+221 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 同一元素各核素的质量数不同，但它们的化学性质几乎完全相同。
+
+222 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. ①④
+
+223 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. K层
+
+224 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 全部
+
+225 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 溴单质与水的反应比氯单质与水的反应更剧烈。
+
+226 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. Br^－^、I^－^、Cl^－^
+
+227 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. 已知Cs的原子半径比Na的原子半径大，故Cs与水反应不如Na与水反应剧烈。
+
+228 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. ①④
+
+229 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: 根据条件，Y元素的最高正价与最低负价的绝对值之差是4，说明Y元素的最高正价可能是+4或+5，最低负价可能是-4或-5。
+
+接下来，Y元素与M元素形成离子化合物，且在水中电离出电子层结构相同的离子，说明Y和M元素在化合物中形成的离子具有相同的电子层结构。
+
+结合选择项，考虑：
+
+- A. KCl：K是+1，Cl是-1，不符合条件。
+- B. Na₂S：Na是+1，S是-2，不符合条件。
+- C. Na₂O：Na是+1，O是-2，不符合条件。
+- D. K₂S：K是+1，S是-2，符合Y的最高正价为+4（如+5）和最低负价为-4的条件。
+
+**因此，正确答案是**：
+
+D. K₂S
+
+所以，回答是 D。
+
+230 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 微粒半径：H^+^>H>H^−^
+
+231 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. CuSO~4~溶液
+
+232 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 第八周期第ⅠA族
+
+233 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: 根据 u.io/03266X26，元素X、Y、Z的原子序数之和为36，X、Y在同一周期，X⁺与Z²⁻具有相同的核外电子排布。因此，可以推测：
+A. 同周期元素中X的金属性最强是正确的。
+B. 原子半径：X(Y)离子半径：X⁺(Y)不正确，因为X⁺的半径通常小于X的半径。
+C. 同族元素中Z的氢化物稳定性最高是正确的。
+D. 
+回答：B。
+
+234 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. NH₄NO₃
+
+235 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: 在这些反应中，过氧化氢的还原性主要体现在C项：H₂O₂ + HI = I₂ + 2H₂O。因此，正确答案是 **C**。
+
+236 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. I~2~
+
+237 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. 二氧化碳与水反应。
+
+238 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 焰色试验中需用盐酸洗净铂丝
+
+239 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. 氨水
+
+240 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 活性炭使红墨水褪色
+
+241 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 氯化钙溶液
+
+242 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. Fe的摩尔质量是56g/mol。 
+
+解释：A项中，1摩尔O₂含有2个氧原子，因此应该含有2N_A个氧原子；C项中，常温常压下1摩尔气体的体积大约是22.4升，但这个值是针对理想气体的，N₂在标准条件下（0°C，1 atm）下的体积才接近22.4升；D项中，1摩尔/L的MgCl₂溶液中Cl⁻的浓度为2摩尔/L，因为每摩尔MgCl₂中含有2摩尔Cl⁻。
+
+243 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 100mL容量瓶
+
+244 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 称取62.5 g CuSO4•5H2O，在烧杯中加适量水溶解，最终在250mL的容量瓶中配成250 mL溶液。
+
+245 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 1000mL，117.0g 
+
+解析：为了确保溶液的浓度准确，应该使用1000mL的容量瓶。根据公式 \(n = C \times V\)，可以计算出需要2mol/L的NaCl溶液中NaCl的摩尔数：
+\[
+n = 2 \, \text{mol/L} \times 1 \, \text{L} = 2 \, \text{mol}
+\]
+NaCl的摩尔质量约为58.44g/mol，因此所需NaCl的质量为：
+\[
+\text{质量} = n \times \text{摩尔质量} = 2 \, \text{mol} \times 58.44 \, \text{g/mol} \approx 116.88 \, \text{g}
+\]
+因此，正确答案是C。
+
+246 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. 500 mL溶液中Cl⁻总数为0.2N~A~
+
+247 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. 水 
+
+置换反应是指一种元素被另一种元素取代，通常涉及金属与金属离子之间的反应。稀盐酸、硫粉和硫酸铜都能与铁发生置换反应，而水与铁的反应通常涉及氢气的产生，但不涉及置换。
+
+248 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. SiO~2~→H~2~SiO~3~
+
+249 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. 《梦溪笔谈》中"取精铁锻之百余火......则纯钢也，虽百炼。不耗矣。"百炼钢熔点比纯铁低。
+
+250 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. C. D. 
+
+在这些实验中，只有 A、C 和 D 的现象和结论都正确且具有因果关系。B 的结论与现象不符，因为反应中并未涉及金属活泼性的比较。
+
+251 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 钢
+
+252 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 生铁
+
+253 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: 根据提供的信息，我们可以逐步分析各个元素的性质：
+
+1. **W的内层电子数和外层电子数的关系**：
+   W的原子序数是次外层电子数的3倍，说明W的外层电子数为3，因此W是铝（Al），原子序数为13。
+
+2. **X、Y、Z的周期分布**：
+   X、Y、Z分属不同的周期，结合W是铝，X可能是氧（O），Y可能是镁（Mg），Z是钾（K）或铷（Rb），但根据“含有元素Z的盐的焰色反应为紫色”，Z是钾（K），原子序数为19。
+
+3. **原子序数之和**：
+   W的原子序数是13，X的原子序数是8，Y的原子序数是12（镁），Z的原子序数是19。它们的原子序数之和是13 + 8 + 12 + 19 = 52，这符合“5倍”的条件。
+
+4. **各个元素的性质分析**：
+   - **A. 简单离子半径的大小**：Z（K⁺）的半径最大，Y（Mg²⁺）的半径次之，W（Al³⁺）的半径最小，X（O²⁻）的半径也相对较大，因此正确顺序为：Z > X > Y > W。因此，A选项是正确的。
+   - **B. 简单氢化物的沸点**：W的氢化物是铝氢化物（AlH₃），而X的氢化物是水（H₂O），水的沸点明显高于铝氢化物，因此B选项错误。
+   - **C. Y是地壳中含量最多的金属元素**：Y是镁，地壳中含量最多的金属元素是铝，因此C选项错误。
+   - **D. 工业上通过电解W、Y组成的化合物制备单质Y**：W是铝，Y是镁，工业上通过电解铝镁合金制备镁是可行的，因此D选项是正确的。
+
+综上所述，正确选项是：
+
+**A. 简单离子半径的大小Z > X > Y > W**
+**D. 工业上通过电解W、Y组成的化合物制备单质Y** 
+
+因此，正确答案是 **A** 和 **D**。 
+
+如果你需要选择一个单一的选项，通常情况下选择 **A**。
+
+254 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 属于卤族元素
+
+255 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 将打磨过的镁条和铝条分别和热水作用，并滴入酚酞溶液。
+
+256 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. 表中,对陈述Ⅰ、Ⅱ的正确性及两者间是否具有因果关系的判断都正确的是
+
+**C**
+
+257 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 钠在空气中长期放置，最终主要生成物为碳酸钠。
+
+258 Correct: False | OUTPUT: None | ANSWER: D | chemgpt: 请问您能否提供更具体的选项或数值？这样我可以更好地帮助您解答。
+
+259 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. ^15^N与^14^N互为同位素。
+
+260 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. Fe~2~O~3~―→Fe
+
+261 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. Fe(OH)₃胶体
+
+262 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 氧化铁与稀盐酸混合：Fe₂O₃＋6H⁺===2Fe³⁺＋3H₂O
+
+263 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. PM2.5是对空气中直径小于或等于2.5μm(2.5×10^-6^m)的固体颗粒或液滴的总称，其分散在空气中一定形成气溶胶。 
+
+解析：PM2.5虽然通常以气溶胶的形式存在，但并不一定在所有情况下都形成气溶胶。因此，D项的说法不够准确。
+
+264 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. K^+^、Al^3+^、SO~4~^2-^、MnO~4~^-^
+
+265 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 熔融氯化钾
+
+266 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. Al~2~(SO~4~)~3~===2Al^3＋^＋3SO^2－^
+
+267 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. SO₂的摩尔质量与SO₂的相对分子质量相等。
+
+268 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. 《梦溪笔谈》中"又石穴中水，所滴者皆为钟乳......"不涉及氧化还原反应
+
+解析：A项中成语"百炼成钢"和"水滴石穿"中涉及到的化学反应确实涉及氧化还原反应，B项中"忽如一夜春风来，千树万树梨花开"的场景描述主要是物理变化，而D项中"青雾"确实可以被视为胶体，只有C项的说法不正确，因为钟乳石的形成涉及矿物质的溶解和沉淀过程，可能涉及化学反应。
+
+269 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. 水溶液变成红色
+
+270 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 表中，对陈述Ⅰ、Ⅱ的正确性及两者间是否具有因果关系的判断都正确的是 C。 
+
+**解析：** 
+
+- A. 纯碱可用于治疗胃溃疡（Ⅰ对），纯碱可与盐酸反应（Ⅱ对），两者之间有因果关系（有）。
+- B. CO₂中的少量HCl杂质可将气体通入饱和Na₂CO₃溶液中（Ⅰ对），Na₂CO₃可与HCl反应（Ⅱ对），两者之间没有直接的因果关系（无）。
+- C. Na₂CO₃溶液中混有少量NaHCO₃杂质，可加入适量NaOH以去除（Ⅰ对），NaHCO₃可与NaOH反应生成Na₂CO₃（Ⅱ对），两者之间有因果关系（有）。
+- D. 向饱和Na₂CO₃溶液中通入CO₂气体，有白色晶体析出（Ⅰ对），NaHCO₃难溶于水（Ⅱ对），两者之间有因果关系（有）。
+
+在这些项中，C选项是对陈述Ⅰ和Ⅱ的正确性及两者间有因果关系的判断都正确的选项。
+
+271 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: 根据化合物中氯元素的化合价变化，可以从转化关系中推断出氯的化合价顺序。结合反应可以得出以下结论：
+
+1. G → Q + NaCl：G的氯化价较高（如G中氯为+5），Q中氯化价较低（如Q中氯为+3）。
+2. Q + H₂O → X + H₂：Q中氯化价较低（如Q中氯为+3），X中氯化价较高（如X中氯为+7）。
+3. Y + NaOH → G + Q + H₂O：Y的氯化价较低（如Y中氯为+1），G的氯化价较高（如G中氯为+5）。
+4. Z + NaOH → Q + X + H₂O：Z的氯化价较低（如Z中氯为+1），Q的氯化价较低（如Q中氯为+3），X的氯化价较高（如X中氯为+7）。
+
+综合考虑，氯的化合价由低到高的顺序为：
+
+A. G、Y、Q、Z、X 
+
+因此，正确选择为：
+
+A. G、Y、Q、Z、X 
+
+如果还有其他问题或需要进一步解释，请告诉我！
+
+272 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. ①②③④
+
+273 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 加入10 mol·L^－1^盐酸0.6*V* L，再将溶液稀释至2*V* L
+
+274 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. 实验室配制500 mL 0.2 mol·L⁻¹硫酸亚铁溶液，其操作是：用天平称15.2 g绿矾(FeSO₄·7H₂O),放入小烧杯中加水溶解,转移到500 mL容量瓶中,洗涤、稀释、定容、摇匀。
+
+275 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. Fe^2＋^与SCN^－^不能形成红色物质
+
+276 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: 解答这道选择题，可以从反应的化学方程式和气体体积的关系入手。
+
+1. **铁与盐酸反应**：
+   \[
+   \text{Fe} + 2\text{HCl} \rightarrow \text{FeCl}_2 + \frac{1}{2}\text{H}_2\uparrow
+   \]
+   根据反应方程式，1摩尔的铁与2摩尔的盐酸反应生成0.5摩尔的氢气。因此，气体体积与铁的物质的量成正比。
+
+2. **铝与氢氧化钠反应**：
+   \[
+   2\text{Al} + 2\text{NaOH} + 6\text{H}_2\text{O} \rightarrow 2\text{NaAl(OH)}_4 + 3\text{H}_2\uparrow
+   \]
+   根据反应方程式，2摩尔的铝与2摩尔的氢氧化钠反应生成3摩尔的氢气。
+
+3. **气体体积关系**：
+   题目中提到铁生成的气体体积为 \(V\) L，而铝生成的气体体积为 \(3V\) L。这意味着铝的物质的量是铁的物质的量的3倍。
+
+4. **浓度关系**：
+   铁与盐酸的反应中，铁的物质的量与盐酸的物质的量成正比，因此盐酸的浓度可以由反应的气体体积来推导。
+
+综上所述，正确答案是：
+
+D. 盐酸与NaOH溶液的物质的量浓度之比为1∶3。
+
+所以，正确选择是 **D**。
+
+277 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. ①④
+
+278 Correct: False | OUTPUT: None | ANSWER: D | chemgpt: 请问选项中的物质的量公式是什么？这样我能更好地帮助你。
+
+279 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: 根据原子半径的趋势，磷（P）的半径应该在硅（Si）和硫（S）之间。硅的半径为1.17，硫的半径为1.02。因此，磷的半径可能是1.10（A）。
+
+**回答：A**
+
+280 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B
+
+281 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. c的氧化物的水化物是强碱。
+
+282 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. ④组中的HCl既作还原剂，又起到酸的作用。
+
+283 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 同一主族元素，最外层电子数一定相同。
+
+284 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 它们都是强还原剂。
+
+285 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CaO
+
+286 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 分散质微粒直径的大小不同
+
+287 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 钠在空气中燃烧，生成淡黄色的过氧化钠。
+
+288 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. FeSO~4~溶液与K~3~\[Fe（CN）~6~\]溶液
+
+289 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: 请问这道题目的选项 D 是什么内容呢？这样我可以更好地帮助你。
+
+290 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. SeO2和NaOH溶液反应生成Na2SeO4和水不正确，反应生成的是Na2SeO3和水。
+
+291 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. NH~3~分子加热难分解
+
+292 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. Na⁺的物质的量浓度为1 mol·L⁻¹
+
+293 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: 首先，计算混合物中各成分的质量。
+
+1. **计算 Na₂CO₃·10H₂O 的摩尔数**：
+   \[
+   \text{摩尔数} = \frac{9.58 \, \text{g}}{286.14 \, \text{g/mol}} \approx 0.0335 \, \text{mol}
+   \]
+   其中 286.14 g/mol 是 Na₂CO₃·10H₂O 的摩尔质量。
+
+2. **计算 NaHCO₃ 的摩尔数**：
+   设 NaHCO₃ 的摩尔数为 \(x\)，则有：
+   \[
+   0.0335 + x = \frac{1 \, \text{mol/L} \times 0.1 \, \text{L}}{2} = 0.05 \, \text{mol}
+   \]
+   解得 \(x \approx 0.0165 \, \text{mol}\)。
+
+3. **计算 NaHCO₃ 的质量**：
+   \[
+   \text{质量} = 0.0165 \, \text{mol} \times 84.01 \, \text{g/mol} \approx 1.38 \, \text{g}
+   \]
+
+4. **计算 Na₂CO₃ 的质量**：
+   \[
+   9.58 \, \text{g} - 1.38 \, \text{g} = 8.20 \, \text{g}
+   \]
+
+5. **加热后 Na₂CO₃·10H₂O 失去水分，变为 Na₂CO₃**：
+   失去的水的质量：
+   \[
+   0.0335 \, \text{mol} \times 180 \, \text{g/mol} \approx 6.03 \, \text{g}
+   \]
+   因此，Na₂CO₃ 的质量：
+   \[
+   8.20 \, \text{g} - 6.03 \, \text{g} \approx 2.17 \, \text{g}
+   \]
+
+6. **加热后固体的总质量**：
+   \[
+   2.17 \, \text{g} + 1.38 \, \text{g} = 3.55 \, \text{g}
+   \]
+
+根据以上计算，选择题中的选项与计算结果不符，可能是选项中没有正确的一个。请确认数据和选项是否正确。在现有条件下，无法给出选项中的正确答案例。
+
+294 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. NaHCO₃溶液中滴加NaOH溶液
+
+295 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. ①③⑤⑥
+
+296 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 石墨烯是一种能导电的有机高分子材料。石墨烯是碳的一种形式，属于无机材料，而不是有机高分子材料。
+
+297 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C.  ①③④ 
+
+解析：
+- ① Na：金属钠会与空气中的氧气反应，形成氧化钠（2Na + O₂ → Na₂O），这是一个氧化还原反应。
+- ② NaOH：氢氧化钠在空气中吸湿但不直接参与氧化还原反应。
+- ③ FeSO₄：亚硫酸铁在空气中会氧化成硫酸铁（FeSO₄ + O₂ → Fe₂(SO₄)₃），这是一个氧化还原反应。
+- ④ 氯水：氯水中的氯气与水反应生成盐酸和次氯酸，涉及氧化还原过程。
+
+因此，正确选项是 C.  ①③④。
+
+298 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. Na₂O₂中Na与O的化合价分别为+1，-1 
+
+解析：Na₂O₂是过氧化钠，Na的化合价为+1，O的化合价为-1/2（因为是过氧化物）。根据化合物的性质，Na₂O₂是强氧化剂，与水反应生成氢氧化钠和氧气，因此B项正确。C项描述的反应正确，Na₂O₂与NaHSO₃反应会生成气体（O₂）和Na₂SO₃。D项中Na₂O₂与酚酞反应会生成气体（O₂），同时使酚酞溶液变红，因此D项也正确。综上所述，选择A项是正确的。
+
+299 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 大量氯气泄漏时，迅速离开现场并尽量应往低处去
+
+解析：氯气的密度比空气大，泄漏时会降低到地面，因此应该尽量去高处逃避。
+
+300 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. Mg^2+^、Na^+^、Cl^-^、SO~4~^2-^
+
+301 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 取a克混合物与足量稀硫酸充分反应，逸出气体用碱石灰吸收，增重b克。 
+
+在选择中，方案 C 不能测定 Na₂CO₃ 的质量分数，因为通过与稀硫酸反应逸出的气体主要是CO₂，但无法直接确定 Na₂CO₃ 和 NaHCO₃ 的具体质量。其他方案 A、B、D 都可以通过不同的方法来推算 Na₂CO₃ 的质量分数。
+
+302 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. 将40 g NaOH固体溶于1 L H₂O中，得到1 mol/L的NaOH溶液。
+
+303 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 向Na2CO3和NaHCO3固体中分别滴加等浓度的盐酸，后者反应更剧烈。
+
+304 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D.  保存FeCl₃溶液时需加入少量Fe粉。 
+
+解析：加入Fe粉会导致FeCl₃溶液还原，因此正确的做法是不加入Fe粉以避免反应。
+
+305 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 盐
+
+306 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 氧化铁与盐酸： Fe~2~O~3~＋6H^+^ =2Fe^3+^＋3H~2~O
+
+307 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. HCl
+
+308 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 稳定性：HF＞HCl
+
+309 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 稀释浓硫酸时，将水沿烧杯内壁倒入浓硫酸中。正确的方法是将浓硫酸缓慢倒入水中。
+
+310 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. Fe~2~O~3~→Fe
+
+311 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D.  与酸性氧化物SO2反应生成硫酸钠。 
+
+碱性氧化物通常不会与酸性氧化物反应生成酸，而是与水或酸反应。因此，Na2O与SO2的反应是有可能的，但生成硫酸钠的反应并不符合碱性氧化物的性质。
+
+312 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. 5个 
+
+解析：说法正确的是： 
+- ①“卤水点豆腐”、"黄河入海口处的沙洲形成"都与胶体的聚沉有关（正确） 
+- ②若将Fe(OH)₃胶体提纯，可以采用的方法是过滤（错误，应使用离心或透析等方法） 
+- ③沸水中滴加适量饱和FeCl₃溶液，形成带电的微粒，水导电能力增强（正确） 
+- ④明矾能作净水剂是因为铝离子与水作用生成氢氧化铝胶体具有吸附悬浮杂质的作用（正确） 
+- ⑤在制备Fe(OH)₃胶体实验中，可以长时间加热（错误，可能导致胶体聚沉） 
+- ⑥向Fe(OH)₃胶体中加入过量稀硫酸，先有红褐色沉淀生成，然后沉淀溶解为黄色溶液（正确） 
+
+因此，正确的说法有5个。
+
+313 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. NaHCO₃的电离方程式应为：NaHCO₃ = Na⁺ + HCO₃⁻。
+
+314 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 一定含Na^+^，也可含K^+^
+
+315 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 熔融的KNO3能导电，所以KNO3是电解质。
+
+316 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. D 
+
+解析：在选项D中，硫酸是酸，熟石灰是碱，小苏打是盐，氧化镁是碱性氧化物，而二氧化硫在水中可以形成酸，因此它也符合电解质的定义。其他选项中存在不对应的情况。
+
+317 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C.  黑暗的电影院中，放映口发出的光会在影院中形成光柱。这与胶体的散射现象（如泰勒斯散射）有关。
+
+318 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 纯碱------治疗胃酸过多
+
+319 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. 3 mol氢原子
+
+解析：选项A、B和C分别是0.3摩尔硫酸、1摩尔水和0.5摩尔氧，这些说法在化学上是正确的。然而，D选项中的“3 mol氢原子”是错误的，因为氢原子是单原子的元素，而3 mol氢原子应该对应3 mol的氢气体（H₂），而不是3 mol的单个氢原子。
+
+320 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. Cu(OH)~2~+2HNO~3~=Cu(NO~3~)~2~+2H~2~O
+
+321 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. C 
+
+解析：在选择 2 中，使用BaCl₂溶液来去除KNO₃中的K₂SO₄杂质是合理的，因为Ba²⁺和SO₄²⁻会形成不溶于水的BaSO₄沉淀，可以过滤去除。因此正确 answer 是 C。
+
+322 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. Al₂O₃
+
+323 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. +6
+
+324 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. SO₂ > I⁻ > Fe²⁺ > Cl⁻
+
+325 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. Mg
+
+326 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 过量的铜与浓硫酸
+
+327 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 用湿毛巾或蘸有肥皂水的毛巾捂住口鼻撤退。
+
+328 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B.  ②④⑤
+
+329 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 原子序数：X＞Y＞Z 
+
+根据最高价氧化物对应的水化物的酸性顺序，X的酸性最强，因此X的非金属性强于Y和Z，原子序数也相应地由X到Y到Z增加。
+
+330 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 为防止富脂食品氧化变质，常在包装袋中放入生石灰
+解答：生石灰（CaO）主要用于吸湿，而防止食品氧化变质一般使用抗氧化剂或惰性气体。
+
+331 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 硫是一种黄色的能溶于水的固体
+
+332 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 蒸发皿中出现大量固体时即停止加热。
+
+333 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: 正确答案是 **D**。将SO₂通入BaCl₂溶液中，生成BaSO₃沉淀和氢离子。
+
+334 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. ①③
+
+335 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: 根据描述，气体Y是氨气（NH₃），而Z是氨水（NH₄OH）。氨水与盐X反应可以再生出X，因此X必须能与氨反应。在四个选项中，只有NH₄Cl符合这个条件。
+
+**回答：C. NH₄Cl**
+
+336 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 氨气极易溶于水，烧瓶内外形成压强差。
+
+337 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. 用玻璃棒蘸取浓HNO₃点到红色石蕊试纸上，试纸变蓝色，说明浓HNO₃具有酸性。
+
+338 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 浓硝酸和稀硝酸都是强氧化剂
+
+339 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 滴一滴硝酸在币的表面，观察现象。
+
+340 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 计算机芯片
+
+341 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: 要判断反应速率的快慢，通常需要比较反应物和生成物的反应速率。根据反应方程式：
+
+\[ 3A(g) + B(g) \rightarrow 2C(g) + 2D(g) \]
+
+可以得到反应速率的关系：
+
+1. \( v(A) = 0.6 \, \text{mol/L·min} \)
+2. \( v(B) = 0.45 \, \text{mol/L·min} \)
+3. \( v(C) = 0.015 \, \text{mol/L·min} \)
+4. \( v(D) = 0.45 \, \text{mol/L·min} \)
+
+根据反应速率的关系，可以得到：
+
+- 反应物 A 的速率是 0.6 mol/L·min，而反应物 B 的速率是 0.45 mol/L·min，因此反应物 A 的速率较快。
+- 生成物 C 的速率是 0.015 mol/L·min，而生成物 D 的速率是 0.45 mol/L·min，因此生成物 D 的速率较快。
+
+综合考虑，可以选择速率较快的反应物和生成物，即：
+
+\[ \text{A} \text{和} \text{D} \]
+
+因此，正确选项是 **C. ②④**。
+
+342 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 乙、甲、丁、丙
+
+343 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. v(C)=1.2 mol·L^-1^·min^-1^
+
+344 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. 氯水与氢氧化钠反应
+
+345 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. ②③
+
+346 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. ①和③
+
+347 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 丙烷分子中三个碳原子在一条直线上
+
+丙烷（C₃H₈）的三个碳原子并不是在一条直线上，而是以一定的角度排列，形成分支或弯曲的结构。
+
+348 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. ①②③④
+
+349 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 尼龙绳
+
+350 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 无水硫酸铜
+
+351 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 水和苯
+
+352 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. ④ 
+
+乙酸乙酯在稀硫酸存在下水解生成乙醇和乙酸，而其他物质会生成多种产物。
+
+353 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 工业上可用空气、Cu、稀硫酸来制备CuSO4。
+
+354 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 电解法
+
+355 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 铝具有还原性，发生铝热反应时放出大量热。
+
+356 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 氢气是具有热值高、无污染等优点的燃料。
+
+357 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 铜离子和石灰乳使菌体蛋白质变性。
+
+358 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 用小苏打来作焙制糕点的发酵粉成分
+
+359 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 碘酸钾
+
+360 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. 臭氧空洞
+
+361 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. 皮肤接触浓硝酸变黄是蛋白质的显色反应。
+
+362 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. 等质量时耗氧量最大的是①。 
+
+解析：烃的耗氧量与碳和氢的原子数有关。等质量时，C4H10的耗氧量并不最大，而C7H8和C6H12的耗氧量会更高。
+
+363 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: 根据分子式 C₅H₁₀O₂ 和与饱和 NaHCO₃ 溶液反应放出气体的条件，可以推测该有机物中含有羧酸（–COOH）或酮等官能团。
+
+在 C₅H₁₀O₂ 的结构中，可能的羧酸包括：
+
+1. 乙酸（C₂H₄O₂）的衍生物（如戊酸）。
+2. 含有两个羧基的二羧酸（如最终气体释放的反应）。
+
+此外，还可能考虑含有酮基的化合物。在考虑这些可能性时，实际可生成的反应性物质数量会受到分子结构的限制。
+
+结合以上分析，由于分子式 C₅H₁₀O₂ 的多样性，可能的结构包括：
+
+1. 戊酸（C₅H₁₄O₂）
+2. 乙基丙酸（C₅H₈O₂）
+3. 二羧酸（如：丁二酸的衍生物）
+4. 酮类（如：戊酮等）
+
+综合来看，能够符合反应条件的化合物数量为 4 种（B）。因此，正确答案是：
+
+**B. 4种**
+
+364 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 实验室中不慎洒落的水银可用硫黄处理
+
+365 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. SO₂、H₂SO₃、H₂SO₄、H₂S、S
+
+366 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 氧
+
+367 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. 溶液的pH不断减小
+
+368 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. 2～4minX的平均反应速率为mol•L^-1^•min^-1^
+
+369 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: 根据表中的数据，收集相同体积的氢气所需时间最短的一组是：
+
+**D**，因为它使用的是粉末状锌（表面积大，反应速度快）且在较高的温度下（50°C），这两个因素都能加速反应速率。
+
+370 Correct: False | OUTPUT: None | ANSWER: C | chemgpt: 请问这道题目的完整反应方程式是什么？这样我能更好地帮助你。
+
+371 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. 常温下可以用铁或铝制容器盛装浓硝酸。
+
+372 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. ①④ 
+
+解析：增加Fe的量（①）对反应速率几乎无影响，因为反应速率主要由反应物的浓度和温度决定，铁是固体，浓度不随量的变化而改变。充入N₂使容器体积增大（④）也不影响反应速率，因为气体的浓度会保持不变。
+
+373 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. ②⑤⑦
+
+374 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. SO~2~通入水中无明显现象，说明SO~2~不与水反应。实际上，二氧化硫可以与水反应生成硫酸。
+
+375 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 0\~6.0 min内HCl的平均反应速率为1.9 mol·L^-1^·min^-1^是错误的。根据反应方程式，HCl的消耗量和Cl2的生成量是相关的，计算平均速率时需要考虑这一点。
+
+376 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: 根据题目描述，我们可以逐步分析金属的活动性顺序：
+
+1. **a与b的反应**：外电路电流从b流向a，说明b的电极电势更高，b比a更不活泼。
+2. **a与d的反应**：d比a反应剧烈，说明d的活动性更强，d>a。
+3. **铜与b的反应**：铜浸入b的盐溶液中无明显变化，说明b的活动性低于铜，b<c。
+4. **铜与c的反应**：铜浸入c的盐溶液中析出金属c，说明c的活动性低于铜，c<b。
+
+综合以上信息，我们可以得到活动性顺序：d>a>b>c。
+
+因此，正确答案是：
+
+**A. d＞c＞a＞b**。
+
+377 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. 100mL的盐酸与锌反应时，加入适量的氯化钠溶液，生成氢气的速率不变
+
+378 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 二氧化硅制成的光导纤维，由于导电能力强而被用于制造光缆。正确答案是 D。光导纤维的导电性不强，主要是利用光的全反射原理传输信号。
+
+379 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. ②④
+
+380 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. CO₂和Ca(OH)₂溶液
+
+381 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. 甲烷分子中的化学键是极性键。
+
+382 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 易失去最外层的电子形成离子
+
+383 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. 在光照条件下，烷烃易与溴水发生取代反应。
+
+384 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. 塑料分为天然塑料和合成塑料两类。
+
+385 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 全部
+
+386 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 植物油可与氢气在一定条件下发生加成反应。
+
+387 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. ②---a、③---c、①---b 
+
+解析：淀粉溶液与碘水反应，会变蓝色（a）；浓硝酸与蛋清反应，会变黄色（c）；新制Cu(OH)2悬浊液与葡萄糖反应，会形成砖红色沉淀（b）。
+
+388 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 蒸馏
+
+389 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. 2H~2~SO~4~(浓)+S=3SO~2~↑+2H~2~O，该反应中，浓硫酸既表现了强氧化性又表现了酸性。
+
+390 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 新型无机非金属材料光导纤维的成分是二氧化硅分子
+
+391 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C 
+
+二氧化硅用于制作光导纤维是因为其优良的光学性能，而不是因为导电性能。光导纤维主要依赖于光的全反射。
+
+392 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 工业常用的静电除尘装置是利用胶体带电的性质设计的。
+
+393 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 燃煤脱硫 
+
+解析：A、B、D选项都能有效减少CO₂排放或增加碳汇，但燃煤脱硫主要是减少二氧化硫的排放，并不能直接减少CO₂的排放。
+
+394 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 含硫化石燃料的大量燃烧。
+
+395 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 酸雨
+
+396 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. S
+
+397 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 镁
+
+398 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 碳酸氢钠可做食品膨松剂
+
+399 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. 尽量使用含^12^C的产品，减少使用含^13^C或^14^C的产品符合"促进低碳经济的宗旨"。
+
+400 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 氢气
+
+401 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. ①③④⑥
+
+402 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 速滑竞赛服使用了蜂窝样式的聚氨酯材料，属于天然有机高分子材料（错误，聚氨酯是合成高分子材料）。
+
+403 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. B 
+
+解析：B 选项中提到的厨余垃圾制肥料，与化学知识中厨余垃圾含有氮（N）、磷（P）、钾（K）等元素直接相关，这些元素是植物生长所需的重要营养成分，因此选择 B。其他选项的化学知识与对应的劳动项目没有直接的因果关系。
+
+404 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 火炬"飞扬"采用氢燃料，火焰呈明亮的黄色，这是氢气燃烧火焰的颜色。氢气燃烧火焰通常是蓝色的，而不是黄色。
+
+405 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: 根据描述，乙电极的质量增加，说明乙电极是还原电极（负极）。丙溶液中含有金属离子的情况下，乙电极会沉积金属。因此，正确答案是：
+
+C. 乙作负极，丙是硫酸铜溶液
+
+A、B、D 选项不符合电极质量增加的情况。
+
+406 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. ①②④⑥
+
+407 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 在原电池中，电子流出的一极是正极。正确的是电子流出的一极是负极。
+
+408 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. 加入少量CuSO4固体
+
+加入少量CuSO4可以形成一个电化学反应，从而提高反应速率。
+
+409 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A.  ①②③ 
+
+解析：耐高温的碳化硅陶瓷是新型无机非金属材料，现代建筑物确实大量使用玻璃和水泥（硅酸盐材料），而单质硅也可以用来制造太阳能电池。晶体项链和陶瓷并不都是硅酸盐材料，因此排除④。
+
+410 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C
+
+411 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: 为了计算断裂1molN≡N键吸收的能量，我们可以利用反应的焓变和键能的关系。根据反应：
+
+\[ N_2(g) + 3H_2(g) \rightleftharpoons 2NH_3(g) \]
+
+我们可以写出以下的能量变化等式：
+
+\[
+\Delta H = \text{反应物键能总和} - \text{生成物键能总和}
+\]
+
+反应物中包含1个N≡N键和3个H-H键，生成物中有6个H-N键，因此我们可以设定N≡N键的能量为x，代入方程得：
+
+\[
+\Delta H = (x + 3 \times 436) - (6 \times 391)
+\]
+
+已知反应的焓变为-92.4 kJ（在生成2 mol NH₃时），则：
+
+\[
+-92.4 = x + 3 \times 436 - 6 \times 391
+\]
+
+计算出x：
+
+\[
+-92.4 = x + 1308 - 2346
+\]
+
+\[
+x = 2346 - 1308 - 92.4 = 945.6 \text{ kJ}
+\]
+
+因此，正确答案是：
+
+**B. 945.6 kJ**
+
+412 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. 滴加酸性高锰酸钾溶液 
+
+解析：乙醇和乙酸都能被酸性高锰酸钾氧化，因此无法用这种方法来鉴别它们。
+
+413 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 将碘化钾溶液滴在土豆片上，可观察到蓝色。正确的是将碘溶液滴在土豆片上，可以观察到蓝色，因为土豆中含有淀粉。
+
+414 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. Al
+
+415 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 升高温度
+
+416 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. 用浓硫酸吸收氢气中的水蒸气。
+
+417 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. 铝
+
+418 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: 根据已知条件，X的最外层电子数是电子层数的3倍，说明X是铝（Al），因此Z是硅（Si）。Y的原子半径在短周期主族元素中最大，说明Y是钠（Na）。N元素在原子序数上比Z大，可能是氯（Cl）。
+
+在这些条件下，我们可以分析各个选择：
+
+A. 硅的单质可以用CS2洗涤，因此A正确。
+B. Na2Al和Na2Al2都状态碱性氧化物，因此B正确。
+C. 硅与铝形成的化合物对应的水化物不一定是强酸，因此C错误。
+D. 硅的非金属性比氯的非金属性弱，因此D错误。
+
+综上所述，正确答案是：
+
+**A和B**，但根据选择题的规则，可以选A。因此最终回答是：
+
+**A**
+
+419 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C
+
+420 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. 不需要通过化学反应就能从海水中获得食盐和淡水。
+
+421 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 过多的含磷洗涤剂、尿素进入水体会导致"赤潮"和"水华"现象
+
+422 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C~5~H~12~ 的同分异构体有 3 种，其沸点各不相同。
+
+423 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. 
+石墨和金刚石完全燃烧时，石墨的能量较低，因此石墨在完全燃烧时释放的热量（Q1）会少于金刚石（Q2）。此外，石墨可以转化为金刚石，说明石墨的能量较低，更不稳定。因此，A和B是对的，C也是正确的，所以D是错误的选择。选择D。
+
+424 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: 要计算二氧化碳重整反应的焓变（ΔH₃），我们可以利用已知的水蒸气重整反应的焓变。通过反应的组合，我们可以得到二氧化碳重整的焓变。
+
+首先，水蒸气重整反应的焓变为：
+\[ \Delta H_1 = +205.9 \text{ kJ/mol} \]
+
+然后，二氧化碳与水的反应焓变为：
+\[ \Delta H_2 = -41.2 \text{ kJ/mol} \]
+
+我们可以将这两个反应结合，得到二氧化碳重整的反应：
+\[ \text{CH}_4(g) + \text{CO}_2(g) \rightleftharpoons 2\text{CO}(g) + 2\text{H}_2(g) \]
+
+反应可以表示为：
+\[ \text{CH}_4(g) + \text{CO}_2(g) \rightleftharpoons \text{CO}(g) + \text{H}_2(g) + \text{CO}(g) + \text{H}_2(g) \]
+
+这个反应可以看作是：
+\[ \text{CH}_4(g) + \text{CO}_2(g) \rightleftharpoons \text{CO}(g) + \text{H}_2(g) + \text{CO}(g) + \text{H}_2(g) \]
+\[ \Delta H = \Delta H_1 + \Delta H_2 \]
+
+计算焓变：
+\[ \Delta H_3 = \Delta H_1 + \Delta H_2 = +205.9 \text{ kJ/mol} + (-41.2 \text{ kJ/mol}) \]
+\[ \Delta H_3 = +164.7 \text{ kJ/mol} \]
+
+因此，正确答案是：
+C. +164.7kJ/mol。
+
+425 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 保持容器体积不变，充入少量稀有气体。
+
+426 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. 实验1和3中参加反应的Na~2~S~2~O~3~和H~2~SO~4~浓度均约为0.05mol•L^-1^。
+
+427 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: 根据反应的平衡常数表达式，可以得到：
+\[ K = \frac{[NH_3][HI]}{[NH_4I]} \]
+在平衡状态下：
+\[ [H_2] = 0.25 \, mol/L \]
+\[ [HI] = 5 \, mol/L \]
+反应②的平衡常数表示为：
+\[ K_2 = \frac{[H_2][I_2]}{[HI]^2} \]
+由于 \( [H_2] = 0.25 \) 和 \( [HI] = 5 \)，代入 \( K_2 \) 的表达式中：
+\[ K_2 = \frac{0.25 \times [I_2]}{5^2} \]
+根据反应的平衡关系，反应①的平衡常数 \( K_1 \) 与反应②的平衡常数 \( K_2 \) 之间有关系：
+\[ K = K_1 \cdot K_2 \]
+代入已知的 \( K_2 \) 的值，可以求得 \( K_1 \) 的值。最终计算出 \( K_1 \) 的值为：
+\[ K_1 = \frac{5^2}{0.25} = 100 \]
+因此，正确选项是：
+C. 30.25 
+
+**解答：C**
+
+428 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 在工业合成SO~3~时，要同时考虑反应速率和反应能达到的限度两方面的问题。
+
+429 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. 导电能力：前者大于后者
+
+430 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 加热 
+
+离子积常数 \( K_w \) 随温度升高而增大。
+
+431 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. NaHCO₃
+
+432 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B
+
+433 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 1.0×10^-13^mol·L^-1^
+
+434 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 滴定时眼睛注视滴定管读数 
+
+解答：在滴定过程中，应该注视锥形瓶中的反应颜色变化而不是滴定管的读数，以确保在达到终点时及时停止滴定。
+
+435 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 明矾作净水剂
+
+436 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. 0.3mol/LBaCl~2~溶液 
+
+BaSO₄的溶解度在Ba²⁺离子浓度较高的情况下会降低，因此在BaCl₂溶液中，BaSO₄的溶解度最小。而在纯水中，BaSO₄的溶解度较大。
+
+437 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. ①③②④
+
+438 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 铅酸电池放电后两极质量均增加，溶液电导率减小。
+
+439 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 若在阳极附近的溶液中滴入KI溶液，溶液呈棕黄色。
+
+440 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: 要计算 \( C(s,石墨) + 2H_2(g) \rightarrow CH_4(g) \) 的焓变 \( \Delta H \)，可以使用热化学方程式中的焓变。
+
+1. 首先，根据热化学方程式可以得到：
+   - 从方程 1，石墨转化为二氧化碳的焓变为 \( \Delta H = -393.5 \, kJ/mol \)。
+   - 从方程 2，氢气与氧气反应生成水的焓变为 \( \Delta H = -571.6 \, kJ/mol \)。
+   - 从方程 3，甲烷燃烧反应的焓变为 \( \Delta H = -890.3 \, kJ/mol \)。
+
+2. 需要通过热化学的代数方法来求解。根据反应：
+   \[
+   C(s,石墨) + 2H_2(g) \rightarrow CH_4(g)
+   \]
+
+3. 通过加减反应来得到目标反应：
+   - 从方程 1，可以得到 \( C(s,石墨) + O_2(g) \rightarrow CO_2(g) \)，焓变为 \( -393.5 \, kJ/mol \)。
+   - 从方程 2，可以得到 \( 2H_2(g) + O_2(g) \rightarrow 2H_2O(l) \)，焓变为 \( -571.6 \, kJ/mol \)。
+   - 从方程 3，可以得到 \( CH_4(g) + 2O_2(g) \rightarrow CO_2(g) + 2H_2O(l) \)，焓变为 \( -890.3 \, kJ/mol \)。
+
+4. 反应的焓变计算：
+   \[
+   \Delta H = \Delta H_{CO_2} + \Delta H_{H_2O} - \Delta H_{CH_4}
+   \]
+   \[
+   \Delta H = -393.5 + \frac{1}{2} \times (-571.6) - (-890.3)
+   \]
+   \[
+   \Delta H = -393.5 - 285.8 + 890.3
+   \]
+   \[
+   \Delta H = 211.0 \, kJ/mol
+   \]
+
+所以，正确答案是 C. ﹣74.8 kJ/mol。 
+
+**解答：C. ﹣74.8 kJ/mol**
+
+441 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 用蒸馏水洗净锥形瓶后，再用NaOH溶液润洗，然后装入一定体积的NaOH溶液。
+
+442 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. HI⇌H^+^+I^﹣^
+
+HI是一个强酸，它在水中几乎完全电离，正确的电离方程式是：
+
+HI → H^+ + I^﹣^
+
+而不是可逆反应。
+
+443 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 醋酸中加水后，溶液的pH升高。
+
+解析：弱电解质在水中部分解离，因此在加水后，其浓度降低，导致更多的醋酸分子转化为离子，从而使pH升高，说明醋酸是弱电解质。其他选项都表明醋酸的弱酸特性。
+
+444 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A 是正确的。雨水淋湿的自行车，先用布擦净可以去除水分和污垢，再用带油的布擦可以防锈。
+
+445 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 具有六个碳原子的苯与环己烷的结构不同。
+
+446 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: 要解答这道题，需要考虑分子式为 \(C_{5}H_{9}O_{2}Cl\) 的有机物与饱和 \(NaHCO_{3}\) 溶液反应的条件。
+
+通常，能够与 \(NaHCO_{3}\) 反应的有机物往往是含有羧酸或能释放出酸性氢的化合物。在 \(C_{5}H_{9}O_{2}Cl\) 的情况下，分子中含有一个氯原子和两个氧原子，这表明分子可能包含羧酸或酯类结构。
+
+根据分子式，可以推测到它可能包含以下几种结构：
+
+1. 羧酸（-COOH）：可以与 \(NaHCO_{3}\) 反应。
+2. 酯（-COOR）：可能在某些条件下与 \(NaHCO_{3}\) 反应。
+3. 醇与氯原子的结合（如醇氯化物）。
+
+为了确定具体的化合物数量，需要考虑分子中可能的碳链结构以及其取代基的位置。由于分子式为 \(C_{5}H_{9}O_{2}Cl\)，可能存在多种不同的结构，但具体的数目需要通过系统地分析不同可能的异构体来进行。
+
+在没有更详细的结构信息的情况下，无法给出准确的数目，通常 A、B、C 中的某个选项可能是正确的，但需要具体的分析来确认。
+
+**答**：由于没有足够的信息来准确判断，无法给出 A、B 或 C 中的具体哪一个，但通常这道题目的答案会是 B 或 C。如果能提供更详细的背景信息，可以进一步探讨。
+
+447 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 蒸馏
+
+448 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 蒸馏
+
+449 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 分子式符合C~n~H~2n~的烃不一定是烯烃。
+
+450 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C₃H₈
+
+451 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 烷烃均能与氯水发生取代反应
+
+解析：烷烃的化学性质相对稳定，通常不与氯水发生取代反应，因此陈述 B 是错误的。
+
+452 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 苯不能使酸性高锰酸钾溶液褪色。
+
+453 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. 手机壳上贴的碳纤维膜是一种无机非金属材料。 
+
+解析：碳纤维膜通常是由有机聚合物基体和碳纤维增强材料制成，因此应该归类为复合材料而非单一的无机非金属材料。
+
+454 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 原子核外每个能层容纳的电子数都是n^2)（n表示能层序数）
+
+解析：能层的电子容纳数为2n^2，而不是n^2。
+
+455 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 原子的发射光谱
+
+456 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. 原子核外电子的运动无法作规律性描述。
+
+457 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. 能量最低原理 
+
+解析：碳原子的电子排布式应为 \(1s^{2}2s^{2}2p^{2}\)，其中2p轨道的电子应该尽可能地在不同的子轨道（\(2p_{x}\)、\(2p_{y}\)、\(2p_{z}\)）上分布，以降低能量。将其所有电子都放置在2p_x轨道上，会违反能量最低原理。
+
+458 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 能量守恒原理 
+
+基态原子的核外电子排布遵循能量最低原理、泡利原理和洪特规则，但不包括能量守恒原理。
+
+459 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 元素周期表中IIIB族到IIB族10个纵行的元素都是金属元素。
+
+460 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C原子有1个sp^3^杂化轨道由孤对电子占据。
+
+461 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 极性分子一定含有极性键。
+
+462 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. 非极性分子中，各原子间都应以非极性键结合。
+
+463 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. 元素的基态原子核外电子排布都遵循构造原理。
+
+464 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. H~2~O 的熔点、沸点高于 H~2~S，是由于 H~2~O 分子之间可以形成氢键。
+
+465 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. H~2~S和H~2~O均是分子晶体，因此在H~2~S和H~2~O晶体中，每个分子周围紧邻的分子数均是12。
+
+466 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 固态氖
+
+467 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. 金属键是金属阳离子和自由电子之间存在的强烈的静电吸引作用。
+
+468 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 熔点由高到低：Na＞Mg＞Al 
+
+正确排序应为：Al > Mg > Na。
+
+469 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. U元素可能在元素周期表的s区。
+
+470 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 某基态原子的价电子排布式为4s^2^4p^1^，该元素位于周期表第四周期IIIA族
+
+471 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: 选择：A. ---CH₃与---NH₂连接形成的化合物中，碳原子采取sp³杂化。
+
+472 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 砷的最高价含氧酸应该是强酸
+
+473 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. 12g金刚石中含有的C-C数目为1.5*N_A*。
+
+474 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. ②④①③
+
+475 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 2s^2^2p^5^
+
+476 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C.  ②④ 
+
+解释：原子序数为83的元素是铋（Bi），位于第六周期和ⅣA族。
+
+477 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. 4项
+
+正确选项为：  
+1. 分子晶体的构成微粒是分子，都具有分子密堆积的特征  
+4. 分子晶体中，分子间作用力越大，通常熔点越高  
+5. 分子晶体中，共价键键能越大，该分子晶体的沸点一定越高  
+6. 所有的非金属氢化物都是分子晶体  
+
+因此，正确答案是 D. 4项。
+
+478 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. HBr
+
+479 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 石油裂解、煤的干馏、玉米制醇、蛋白质的变性和纳米银粒子的聚集都是化学变化>> 
+
+解析：纳米银粒子的聚集通常被视为物理变化，因为它涉及粒子的重新分布而不涉及化学成分的改变。其他三种过程（石油裂解、煤的干馏、玉米制醇）确实都是化学变化，因此C项说法不完全正确。
+
+480 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. "天宫二号"航天器使用的质量轻强度高的材料------钛合金
+
+481 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. C
+
+482 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. C
+
+483 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 纯铁比生铁易生锈 
+
+解析：纯铁含有较少的杂质，因而相对更易生锈，而生铁因含有碳等元素，通常表现出更好的耐腐蚀性。
+
+484 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 纳米Fe₃O₄能与酸反应，可用作铁磁性材料。
+
+485 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 液化石油气是纯净物。液化石油气通常是多种气体的混合物，如丙烷和丁烷。
+
+486 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. 石灰石是制造玻璃和水泥的主要原料之一。石灰石主要用于水泥的生产，而玻璃的制造主要使用砂子、石灰石和纯碱等原料。
+
+487 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. Z元素最高价氧化物对应的水化物具有强氧化性。
+#####################
+#####################
+Overall Accuracy = 362/488 = 0.742

@@ -1,0 +1,1606 @@
+
+0 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 1-[1-[(4-Chlorothiophen-2-yl)methyl]piperidin-4-yl]-N-methylmethanamine hydrochloride
+
+1 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 3,4-bis(fluoranyl)pyrrolidine-2,5-dione
+
+2 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. 7-oxoheptyl acetate
+
+3 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. C1(C=CC2=CC=CC=C2)=CC=CC=C1N(C3=CC=C(C=C3)C4=CC=C(C=C4)C=C)C5=CC=C6C=CC=C(C6)C=C5
+
+4 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. (3aR,10bR)-3a,7,7,10a-tetramethyl-1,2,4,5,8,9,10-heptahydro-1H-furo[3,2-a]quinolizin-2-one
+
+5 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 5-methyl-1-phenyl-N-[2-(2,4,5-trimethylimidazol-1-yl)pyrimidin-5-yl]pyrazole-4-carboxamide
+
+6 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. C1COC2=C(O1)C=CC(=C2)NC3=NN=C(C=C3)NC(=O)NC4=CC=CC=C4
+
+7 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. (3S,3'S,4'R,5'S)-1-[(2E)-3,7-dimethylocta-2,6-dienyl]-4'-[dimethyl(oxidanyl)silyl]-5'-[2-[(3S)-3-(hydroxymethyl)-3,4-dihydro-1H-isoquinolin-2-yl]-2-oxidanylidene-ethyl]-3'-methyl-5-(2-oxidanylidenepiperazin-1-yl)spiro[indole-3,2'-oxolane]-2-one
+
+8 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC1=CC(=C(C=C1)OC)NC(=O)/C=C/C2=CC=NC=C2
+
+9 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. (1R,3S,6E,9E)-3,7,11,11,14-pentamethyl-3-oxidanyl-16-oxatricyclo[11.2.1.01,5]hexadeca-4,6,9,13-tetraene-8,15-dione
+
+10 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. (5S)-5,6-Dihydro-2-(2,3,4,5,6-pentafluorophenyl)-5-(phenylmethyl)-8H-1,2,4-triazolo[3,4-c][1,4]oxazinium tetrafluoroborate
+
+11 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. B1(C2=C(C=CC(=C2)OCC(=O)O[C@H]3C[C@@]([C@H]([C@@H]([C@]45CC[C@@H]([C@@]3([C@@H]4C(=O)[C@H](C5)O)C)C)C)O)(C)CC)C=NN1C)O
+
+12 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 1-[cyclohexyl(phenyl)phosphoryl]cyclohexan-1-ol
+
+13 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 2-[(2-methylphenyl)methylsulfanyl]-N-[(Z)-(3,4,5-trimethoxyphenyl)methylideneamino]ethanamide
+
+14 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC/C=C/C=C/C1(C(=O)C(=C(O1)CC(C)S)C(=O)O)C
+
+15 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. Methyl 6-methylthio-5-(tetrahydrofuran-3-yloxy)pyridine-3-carboxylate
+
+16 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The IUPAC name is (4aR,8aR)-4-[2-(2-ethylpyrazol-3-yl)ethyl]-1,3,4a,5,6,7,8,8a-octahydroquinoxalin-2-one.
+
+17 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. CCOC(=O)C1=C(C(=C2N1CC(C=C2C)SC)C#N)SCC(=O)C3=CC=C(C=C3)Cl
+
+18 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. C1=CC(=CC=C1C[C@H](C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O
+
+19 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 1-Fluoro-4-(2-phenylethoxy)benzene
+
+20 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. (9S)-5-[(2R)-2-(trifluoromethyl)pentyl]-1,6,8-triazatricyclo[7.3.1.0^2,7]trideca-3,5-diene
+
+21 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 2-methyl-N-[4-methyl-2-[(2-methylphenyl)carbonylamino]phenyl]benzamide
+
+22 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC[C@H]1CN2C3=C(N1CC4=CC=CC=C4)C=C(N=C3C(=N2)C5=C(C=C(C=C5)Cl)Cl)C
+
+23 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. O=C(OCC(=O)N1C[C@@H](C[C@@H](C1)C)C)c2cc1cccc(c1nc2CCC)C
+
+24 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC1=C(C(=NN1C)C(=O)NC)CCOC2=C(C=CC(=C2F)Cl)C3=CN4C(=NC=C4CCNC(=O)OC(C)(C)C)C=C3
+
+25 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 5-(methoxymethyl)-1,3-bis(prop-2-enyl)-3,4-dihydro-2H-borinine
+
+26 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. [H-].[H-].[H-].[H-].CC(Cl)(Cl)Cl.[Ti+4]
+
+27 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. C[C@@H](C1=CC=CS1)NC(=O)NC(C2=CC(=NC=C2)OC)
+
+28 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. CC1=CC(=CC=C1C)/C(=C/CN)/C2=CC=CC=C2
+
+29 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. N-[4-[(E)-2-[(2R)-1-methylpiperidin-2-yl]ethenyl]-1,3-thiazol-2-yl]-1-(pyridin-4-ylmethyl)pyrrole-2-carboxamide
+
+30 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C
+
+31 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. 2-(3-ethyl-pyrrolidin-1-yl)-1-(3a,4,5,6,7,7a-hexahydrobenzo[d][1,3]dioxol-5-yl)ethanone
+
+32 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CCN(CC)C1=C(C(=NO1)C2=CC=CC=C2)CN(CC3=CC=CO3)C[C@H](COCC)O
+
+33 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. N-propyl-5-[[(2S)-2-(3-pyridin-3-yl-1,2,4-triazol-5-yl)pyrrolidin-1-yl]methyl]pyrimidin-2-amine
+
+34 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. C1CC(=O)CCC1C(=O)N2CCSC2C3=CC=C(C=C3)Br
+
+35 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. CC(NC=O)CCC1=CC(=CC=C1)CN2CCN(CC2)C(=O)C
+
+36 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. CC(C)[C@H](C(=O)O)N1C(=S)/C(=C\C2=NC3=C(C=CC=C3)C=C2Cl)/SC1=O
+
+37 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C1=CC(=C(C=C1F)F)OCC(=O)NC2=C(C=C(C=C2)Br)F
+
+38 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. (3R)-3-ethyl-3-[4-[[4-[[4-(4-methylsulfonylphenyl)-3,6-dihydro-2H-pyridin-1-yl]methyl]phenyl]methoxy]phenyl]hex-4-ynoic acid
+
+39 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. N1,N1-diethyl-2-methylbenzene-1,4-diamine
+
+40 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: The SMILES string for the IUPAC name "CC1=C(C=C(C=C1)S(=O)(=O)NC2=CC=CC=C2)NC3=C(C(=O)NC(=N3)SC)C(=O)N" is选项D对应的SMILES。所以正确答案是：
+D. 4-[[2-methyl-5-(phenylsulfonyl)phenyl]amino]-2-methylthio-6-oxidanylidene-1H-pyrimidine-5-carboxamide
+
+41 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. CC(C)(C)C1=CC=CC=C1
+
+42 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. C1=CC=C(C(=C1)NN)S(F)(F)(F)(F)F
+
+43 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC1=CC=C(C=C1)CCCN2CCS(=O)(=O)C[C@@H]2C3=CN(N=C3)C
+
+44 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CCOC1=C(C=C(C=C1)/C=[NH+]/N=C(N)N)OCC
+
+45 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. [(1R,2E,6S)-6-[(4-ethanoylphenyl)methylcarbamoyl]-6-oxidanyl-cyclooct-2-en-1-yl] [2,3,4,5,6-pentakis(fluoranyl)phenyl] carbonate
+
+46 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. COC1=CC(C=C(C=C1)C(=O)NC2CCCCCCC2)C(=O)NCC3=CC=C(C=C3)OC
+
+47 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 3-ethoxy-N-[2-(furan-2-ylmethylamino)-2-oxidanylidene-ethyl]-4-methoxy-benzamide
+
+48 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 1-[1-[(2-methoxypyridin-3-yl)methyl]pyrrolidin-2-yl]-6-pyridin-3-yl-imidazo[1,5-a]pyridine; 2,2,2-trifluoroacetic acid
+
+49 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. N-[(2S)-4-methyl-1-oxidanylidene-1-[(3-oxidanylidene-1-propylsulfonyl-azepan-4-yl)amino]pentan-2-yl]-1-benzofuran-2-carboxamide
+
+50 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. N-[3-[4-[[2-[[2-(5-cyanopyridin-3-yl)-2,2-bis(fluoranyl)ethanoyl]amino]-2-cycloheptyl-ethanoyl]amino]-3-fluoranyl-phenyl]-1-(4-methylpiperazin-1-yl)-1-oxidanylidene-butan-2-yl]-1,2,3-thiadiazole-5-carboxamide
+
+51 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. Here is the molecular's IUPAC name without courtesy words or irrelevant text: 1-ethenyl-6-naphthalen-2-yl-3-[9-(4-naphthalen-1-ylquinazolin-2-yl)carbazol-3-yl]-2-[(Z)-prop-1-enyl]pyrrolo[2,3-c]carbazole.
+
+52 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 2,7-bis[3,5-bis(trifluoromethyl)phenyl]-9-[3-(4,6-diphenyl-1,3,5-triazin-2-yl)-4-(4-fluorophenyl)phenyl]carbazole
+
+53 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CCOC1=C(C=CC(=C1)C(CC2=CC=C(C=C2)C(=N)N)C3=NN(C(=O)N3)C4=C(C=CC=N4)OC)OCC(=O)NC.CC(=O)O
+
+54 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. [(5aR,9aS)-4-(oxan-4-yl)-2,3,5,5a,6,7,9,9a-octahydropyrido[4,3-f][1,4]oxazepin-8-yl]-[(1S,5R)-3-oxabicyclo[3.1.0]hexan-6-yl]methanone
+
+55 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: The correct answer is D. CC1=NN(C(=C1/C=C/C(=O)OCCCCN2C(=O)C3=CC=CC=C3C2=O)Cl)CC4=C(C=C(C=C4)Cl)Cl.
+
+56 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 6-[(4-chlorophenyl)methyl]-5-methyl-2-[1-(4-phenylpiperazin-1-yl)ethyl]-1H-[1,2,4]triazolo[1,5-a]pyrimidin-7-one
+
+57 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CC1=CC=C(C=C1)S(=O)(=O)N(CC(=O)N(CC2=CC=CC=C2F)[C@H](C)C(=O)NC3CCCC3)C4=CC=C(C=C4)Br
+
+58 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. CCOC1=CC=C(C=C1)OCC(C)C(=O)NCC2=NC(=CC=N2)C3=CC=C(C=C3)OC
+
+59 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 1-[4-[4-(4-hydroxyphenyl)piperazin-1-yl]carbonylphenyl]pyrrolidin-2-one
+
+60 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The SMILES representation for 2-diazanylidene-4-methylpentan-1-imine is CC(C)CC(=NN)C=N.
+
+61 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 3-[2-[[3-carboxy-4-(4-ethoxycarbonylpiperazin-1-yl)-4-oxidanylidene-butyl]carbamoyl]quinolin-4-yl]oxy-4-methyl-benzoic acid;2,2,2-tris(fluoranyl)ethanoic acid
+
+62 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. COC(=O)[C@H]([C@H]([C@H]([C@@H](C(=O)O)O)O)O)O
+
+63 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. COC1=CC=C(C=C/C=C/C=C/C=C/C2=CC=C(S2)OC)S1
+
+64 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. C1CN(CCN1CC2=CC=C(C=C2)OCO3)C(=O)C4=CC5=C(C=C4)N=C(N5)C6=CC=CC=C6
+
+65 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: The answer is A. 2,4-bis(chloranyl)-6-[[(4-methyloxan-4-yl)methylamino]methyl]phenol.
+
+66 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. N1CC(C2CC2)CN(C3CCC4=C3C=C(C=C4)F)CC1
+
+67 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 3-[4-[(4-cyanophenyl)methyl]-1,4-diazepan-1-yl]-N-(3-nitrophenyl)propanamide
+
+68 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. (phenylmethyl) 4-[1-[tert-butyl(dimethyl)silyl]-4-oxidanylidene-azetidin-2-yl]-3-oxidanylidene-butanoate
+
+69 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. CC(CC(=O)NC(CC(C)N)C1=CC=C(F)C=C1)
+
+70 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CN(C1CCCCC1)S(=O)(=O)C2=CC(=C(N=C2)N)[N+](=O)[O-]
+
+71 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. ethanedioic acid;1-methyl-5-(4-phenylphenyl)-N-[(3,4,5-trimethoxyphenyl)methyl]imidazol-2-amine
+
+72 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 6-azanyl-1-(3-chlorophenyl)-4-(2,5-dimethoxyphenyl)-3-methyl-4H-pyrano[2,3-c]pyrazole-5-carbonitrile
+
+73 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. C1CC2=CC=CC=C2CC1C(=O)OCC3=CC=CC=C3
+
+74 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The CAS number is 94041-16-4.
+
+75 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 4-bromanyl-1-methyl-3H-imidazo[4,5-c]pyridin-2-one
+
+76 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CCC1=CC(=NC=N1)NC(C)C(=O)NCC(C)C
+
+77 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. (9Z,12Z,15Z)-1-[3-[2-(dimethylamino)ethyl]-5-methoxyindol-1-yl]octadeca-9,12,15-trien-1-one
+
+78 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CCOC1=C(C=C(C=C1)I)N2C(=O)C=C3C(=C2N)C(=O)NC3=O
+
+79 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecular weight of C22H21O2P is 348.38 g/mol.
+
+80 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. C1CNCCC1S(=O)(=O)CH2F
+
+81 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. CCCCCCCCCCCC(CCCCCCCCC[C@H]1C[C@H](C1)CCCCCCCC)N
+
+82 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. (CC(C)(C)S(=O)N=C(C1=C(C=CC(=C1)Br)F)OCC2=CC=C(C=C2)OC)
+
+83 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 3-[3-[3-(2,3-dicarboxyphenyl)-5,7-dimethyl-1-adamantyl]-5,7-dimethyl-1-adamantyl]phthalic acid
+
+84 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC(C)N(C)CC(C)N(C)CCOC1=CC=CC(=C1)OC(C(=O)O)
+
+85 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. (1S)-N-[(2-tert-butyl-1,3-thiazol-4-yl)methyl]-1-(3-methylphenyl)ethanamine
+
+86 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C1C[C@H](N(C1)C(=O)C2=CC(=C(C=C2)F)F)C3=NC(=NO3)C4=C(C=C(C=C4)F)F
+
+87 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. CC1=CC=C(C=C1)NC(=O)CSC2=NN=C(S2)NC3=CC=C(C=C3)OCN(C)C(=O)CN
+
+88 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. C1=CC=C(C=C1)C2=C(C3=CC=CC=C3)C4=CC=C(N5C6=CC=CC=C6C7=CC=CC=C7C8=CC9=CC(=C(C=C92)O8)C=C54)C=C2
+
+89 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: The question asks for the SMILES string, which is not提供的 in the options. However, based on the options, I cannot provide a direct answer as requested. If the intention is to ask for the SMILES string corresponding to the IUPAC name, that information is not included in the options.
+
+90 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 2-(3-chloranyl-5-phenyl-phenyl)-4,6-bis(4-phenylphenyl)-1,3,5-triazine
+
+91 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. C1=CC=C2N=CC=NN2C=C1C3=CC=C(C=C3)C=O
+
+92 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. C1=CC=C(C=C1)C2=CC(=CC=C2OC)CNCC(F)F
+
+93 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CCNC(CC1=C(C=CS1)Cl)CSC2CCCC2
+
+94 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 2-[2,5-bis(oxidanylidene)-3-phenyl-imidazolidin-1-yl]-N-(2-nitrophenyl)ethanamide
+
+95 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC/C=C\C/C=C\C/C=C\CC/C=C\C=C/CCCCCC(=O)OCC1CCC(O1)N2C=CC(=NC2=O)NC(=O)CCCCC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CC
+
+96 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. C1CC(=O)NC(=O)C1N2C(=O)C3=C(C2=O)C(=CC=C3)OCC(=O)N4CCC(CC4)C5CCNCC5.C(=O)(C(F)(F)F)O
+
+97 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC1=CC=C(C=C1)C(=O)N[C@H](C)C(=O)NC2=NC3=CC=CC=C3N2
+
+98 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC1=CC=C(C=C1)S(=O)(=O)NC2=CC=CC=C2CC3=CC=CC=C3
+
+99 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. CC1=CC2=C(S=C(N2)C3=CC=C(C=C3)N=CC4=CC(=C(C=C4)O)OC)C(C=C1)=COC
+
+100 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C2CC(C(C(C2O)Cl)N)Cl
+
+101 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C1=CC=C(C(=C1)SCC(=O)OCC(=O)NC2=C(C=C(C=C2)Br)F)Cl
+
+102 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. [S(R)]-N-[(1S)-2-(二苯基膦)-1-[2-(二环己基膦)苯基]乙基]-2-叔丁基亚磺酰胺
+
+103 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. (S)-(6,6'-Dimethoxybiphenyl-2,2'-diyl)bis(diisopropylphosphine)
+
+104 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. (8S,9S,10R,13S,14S,17S)-10,13-dimethyl-17-[(2S)-6-methyl-2-oxidanyl-heptan-2-yl]-2,4,5,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthrene-3,6-dione
+
+105 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. [2H]C([2H])([2H])NC(=O)C1=CN=C(C=C1NC2=NC=NC3=C2N(CC4=NN(N=C43)C)C)NC(=O)[C@@H]5C[C@@H]5F
+
+106 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. O=C(O)C1=CC2=NC=CS(NC(=O)C3=CN(CCC4CCNC4)C=C3)=C1N2
+
+107 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC1=NN=C(O1)NC2CC(OC3=C2C=CC(=C3)F)(C)C
+
+108 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. CCCNCC1=C(OCC(C)OC)C=CC(=N1)C
+
+109 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. CC(C(C)C)NC(=O)NCCN1CCC(=C2C3=CC=CC=C3CCC4=CC=CC=C42)CC1
+
+110 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. (S)-2,2',3,3'-四氢-6,6'-二(2,4,6-三甲基苯基)-1,1'-螺二[1H-茚]-7,7'-二醇
+
+111 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. C1CCC(C(C1)N)NC(=O)C2=CC=CN2C3CCC3
+
+112 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CN(C)C1=CC(=C(C2=CC3=CC=CC=C3C=C21)C4C(=C(C=N)C#N)C(=C5C6=CC7=CC=CC=C7C=C6C(=CC5=N)N(C)C)C4=O)N
+
+113 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)OC3=CC(=C(C=C3Br)OC4=CC=C(C=C4)C(C)(C)C5=CC=C(C=C5)O)Br
+
+114 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. CC(C)(C)OC(=O)CC1CCN(CC1)c2ccc(cn2)BrF
+
+115 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 2,9-Bis(2,4,6-triisopropylphenyl)-1,10-phenanthroline
+
+116 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. C1=CC(=CN=C1)N(C2CNCCN2)C3=NCCS3
+
+117 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. The molecular's IUPAC name is cyclopentanone; methanoic acid; methyl 10-cyclopentyl-9-ethanoyl-4-methanoyl-perylene-3-carboxylate.
+
+118 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. (E)-2-(3-methylphenyl)-3-(4-nitrophenyl)prop-2-enenitrile
+
+119 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. [(2R)-2-(aminomethyl)pyrrolidin-1-yl]-(2-bromanyl-5-fluoranyl-phenyl)methanone
+
+120 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. N-[1-(4-azanylpyridin-2-yl)ethyl]-5-[4-(trifluoromethyl)phenoxy]naphthalene-2-carboxamide;ethane
+
+121 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. 3-bromo-1,5-pentanediol
+
+122 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. CC(=CC=C1)C1=NN(C2=CC=CC=C21)CC3=CC=CC=C3.[U+2]
+
+123 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. C[C@@H]1CN(CCO1)C2=NC=CC(=N2)C(C)C
+
+124 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC(=O)NCC1(CCCCC1)CN
+
+125 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. CC1(C(N(C2=CC=CC=C3N=C2)C=C1)C)C(=O)N
+
+126 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. CN(CC1=CCOCC1)C(=O)CCCOC2=CC3=CC=C(C2)NC(=O)C3
+
+127 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. CC(C)N1C[C@H](CC1=O)C(=O)N2CCC[C@H](C2)CCC(=O)O
+
+128 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. O=C(NCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCC(=O)O)COCC3=CC=CC=C32C2=CC=CC1=C2C2=C1C=CC=C2
+
+129 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 2-methylsulfanylcyclooctan-1-one
+
+130 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC(=NC)C1=CC=C(C=C1)OC2=CC=CC=C2NC(=O)/C(=C(\C(F)(F)F)/N)/C=NC
+
+131 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CN(CCC1=CC=CC=N1)C[C@@H]2C[C@@H](O[C@@H](O2)C3=CC=C(C=C3)CNC(=O)CCCCCCC(=O)NC4=CC=CC=C4N)C5=CC=C(C=C5)CO
+
+132 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 4,4-bis(fluoranyl)-1-(4-methoxy-2-nitrophenyl)cyclohexan-1-amine
+
+133 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 6-[2-[3-[3,3-dimethyl-1-(3-sulfopropyl)pyrrolo[2,3-b]pyridin-2-ylidene]prop-1-enyl]-3,3-dimethyl-pyrrolo[2,3-b]pyridin-7-ium-7-yl]hexanoic acid
+
+134 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. CC(C)CNC(=O)C1CCN(CC1)C2=CNC3=CC=CC=C23
+
+135 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. N-[bis(chloranyl)-fluoranyl-methyl]sulfanyl-N-(3-iodanylprop-2-ynyl)benzenesulfonamide
+
+136 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. (2S,4R)-N-(2-tert-butylcyclohexyl)-2-methyl-piperidine-4-carboxamide
+
+137 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. 3-[4-(3-methylphenyl)piperazin-1-yl]-1H-indole-2-carboxylic acid
+
+138 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. N-[(3,4-dimethoxyphenyl)methyl]-9b-ethyl-5-aminylidene-2,3-dihydro-[1,3]thiazolo[2,3-a]isoindole-3-carboxamide
+
+139 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. 2,5-diphenyl-1H-pyrazolo[3,4-b]pyridine
+
+140 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. C1C=CC(=C(C1F)/C=N/O)Cl
+
+141 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. O=C(O)CCC1=CC=C(OCC2=CC=C(CCN3CCC4(CC3OC5=CC=CC=N5)OCC4)C=C2)C=C1
+
+142 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC1=CC(=NC(=N1)N2CCCCC2)NC3=CC=C(C=C3)NC(=O)CC4=CC=CC=C4Cl.
+
+143 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. N'-(2,4-dimethylphenyl)-N'-methyl-N-(3-methylcyclohexyl)ethane-1,2-diamine
+
+144 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C1CC1NC(=O)C2=CC=CC=C2NC(=O)CN3CCN(CC3)C(=O)C4=CC=CC5=CC=CC=C54
+
+145 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C1=CC=C2C(=C1)C=CC=C2C3=CC=CC(=C3)C4=CC(=CC=C4)N(C5=CC6=C(C=C5)OC7=CC=CC=C76)C8=C9C1=CC=CC=C1SC9=CC=C8
+
+146 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. CC1=CC=C2C(=CC(=O)OC2=C1)C(=O)OC(C)C
+
+147 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. CCCC1=C(SC(C=C1)C(=O)N(C)CCNC)CC
+
+148 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CCN1C(=O)C2=CC=CC=C2C(=N1)C(=O)NNC(=O)C3=CC=C(C=C3)C
+
+149 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. (4S)-1'-[7-[2,3-bis(fluoranyl)phenyl]-6-methyl-pyrazolo[1,5-a]pyrazin-4-yl]spiro[4,6-dihydrocyclopenta[d][1,3]thiazole-5,4'-piperidine]-4-amine;hydrochloride
+
+150 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. (7R)-N-cyclopentyl-2,5-bis(oxidanylidene)-7-thiophen-2-yl-1,6,7,8-tetrahydroquinoline-3-carboxamide
+
+151 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. (3S,4S)-1-[[5-methyl-1-(4-methylphenyl)-1,2,3-triazol-4-yl]carbonyl]-4-(trifluoromethyl)pyrrolidine-3-carboxylic acid
+
+152 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CCCCCCCCCCCCCCCCCCCC(=O)NCC[NH3+]
+
+153 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. N-methyl-1-[1-[1-[2-methyl-6-[4-(oxetan-3-yl)piperazin-1-yl]pyrimidin-4-yl]indazol-6-yl]cyclobutyl]methanimine
+
+154 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CN1C2=CC=CC=C2C(=O)C3=C1C(=CC=C3)NC(=O)CCC(=O)NC4=CC=CC5=C4N(C6=CC=CC=C6C5=O)C
+
+155 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CNC1CCCN(C1)CC(CF)O
+
+156 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. CCCCCCOC1=CC=C(C=C1)C2=CC(C=O)(C=C2)C3=CC(N=C(N3)N)C4=CN(C)CC=C4
+
+157 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. C1=CC=C2C(=C1)C3=NC(=O)N(C(=O)N3C2SCC(=O)NCC4=CC=CO4)CCC5=CC=C(C=C5)F
+
+158 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. C1CC2=CC(=C(C=C2C3C1=CC4C#CC5(CCCC(CC56CCCC6)C(C4C(C3)O)O)CC)OC7CC(C8=CCNC(=C8CSSCC(C7O)CO)N)CC9=CC=CN9)O
+
+159 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. O=C(C1=CN=C(N=C1)N2CCN(C(C2)C)CC3CN(C(CN3CC(=O)N4CC(C5=C(C(=O)N5C)C=C4)CC6=CC=C(C=C6)F)(C)C)C)OCC
+
+160 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C1CCC(C(C1)C(=O)N)NC(=O)CC2=C(C=C(C=C2)F)F
+
+161 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CCCCCCCCCCOC(=O)C[N+](C)(C)CCCN=C(C12CC3CC(C1)CC(C3)C2)[O-].Cl
+
+162 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 2-[4-(1,3-benzothiazol-2-ylmethyl)piperazin-1-yl]-N-(2-phenoxyethyl)ethanamide
+
+163 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CC1=CC=C(C=C1)CSC2=NN=C3N2C4=CC=CC=C4S3
+
+164 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. COC(=O)CN1C(SC(=O)N(C1=S)C2=CC=C(C=C2)Cl)C3=CC(C(=C(C=C3)Cl)Cl)=O
+
+165 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C1CNC2=C(C=NC3=CC=CC=C32)SC1
+
+166 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. N-[(E)-(2-ethoxyphenyl)methylideneamino]-1,4,5,6-tetrahydrocyclopenta[c]pyrazole-3-carboxamide
+
+167 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. CC(C)N1C=CN=C2C1C(=C(O)C3CCC(CC3)C)C(=C2)N4C=CN=C4S2C(=C2)C(=CN5C=CN=C5)N
+
+168 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. methyl 2-[[1-(naphthalen-2-ylethyl)-4-[2-[(5-nitropyridin-2-yl)amino]ethyl]imidazol-2-yl]sulf任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py任何py可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可见更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用更多可用
+
+169 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. C/C(=C\C1=CC=CC=C1)/C=C\2/C(=O)N(C(=S)S2)CCC(=O)NC3=CC(=C(C=C3)C(=O)O)O
+
+170 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. ethyl 2-(1-ethoxyethylideneamino)benzoate
+
+171 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. C1=CN=C(C=C1)N2C=NC=C2NCCN(S(=O)(=O)C3=CC=C(C=C3)N(=O)=O)
+
+172 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. (2S)-N-[[3-(1-methyl-4-pyridin-4-yl-pyrazol-3-yl)phenyl]methyl]-5-oxidanylidenepyrrolidine-2-carboxamide
+
+173 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 4-[[3-(3,5-dimethoxyphenyl)pyrrolidin-1-yl]methyl]oxan-4-ol
+
+174 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. C=CCN(C=O)/C=C/C1=CC=C(O1)Br
+
+175 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC1=NC2=C(C(=N1)N3CCOCC3)SC(=C2)C4=CC=NC=C4
+
+176 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. Methyl 2-[hydroxy(oxidanyl)amino]-2-oxidanyl-ethanoate
+
+177 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 4,4,4-Tris(fluoranyl)-3-[4-[1,1,1,3,3,3-hexakis(fluoranyl)-2-oxidanylpropan-2-yl]cyclohexyl]-2-methylidene-3-(trifluoromethyl)butanoate
+
+178 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. Propan-2-yl (4S)-4-[(1R,5R,7R,10S,12S,13R,14S,17R)-7,12-diacetyloxy-10,13-dimethyl-1-oxidanyl-3-oxidanylidene-1,2,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydrocyclopenta[a]phenanthren-17-yl]pentanoate
+
+179 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The SMILES representation for tert-butyl 2-[(1-thiophen-3-ylpropan-2-ylamino)methyl]pyrrolidine-1-carboxylate is CC(CC1=CSC=C1)NCC2CCCN2C(=O)OC(C)(C)C.
+
+180 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. N-[(2R)-1-oxidanylidene-1-[(2-phenoxypyridin-4-yl)methylamino]propan-2-yl]furan-3-carboxamide
+
+181 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 2-[(4S)-4-ethyl-2,5-bis(oxidanylidene)-4-phenyl-imidazolidin-1-yl]ethanenitrile
+
+182 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 1-[[5-[(2-phenyl-1,3-thiazol-4-yl)methylsulfanyl]-4-pyridin-2-yl-1,2,4-triazol-3-yl]methyl]pyrrolidin-2-one
+
+183 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The SMILES representation of the molecule with the IUPAC name 2-methyl-4-[[4-[5-[(2-methylpyridin-4-yl)amino]-2,3-dihydro-1H-imidazo[4,5-b]pyridin-2-yl]phenyl]amino]quinoline-6-carbonitrile is CC1=CC(=C2C=C(C=CC2=N1)C#N)NC3=CC=C(C=C3)C4NC5=C(N4)N=C(C=C5)NC6=CC(=NC=C6)C.
+
+184 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 1-(4-fluorophenyl)-2-methyl-6-oxidanylidene-N-[4-[(7-prop-1-en-2-yl-1,5-naphftyridin-4-yl)oxy]phenyl]pyrimidine-5-carboxamide
+
+185 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 4-[4-[[4-azanyl-6-[3-(6-cyclopropyl-8-fluoranyl-1-oxid任何lidene-3,4-dihydroisoquinolin-2-yl)-2-(hydroxymethyl)phenyl]-1,3,5-三azin-2-yl]amino]phenyl]piperazine-1-carbaldehyde
+
+186 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. N-[(Z)-2-[[(Z)-1-[4-[2,2-bis(fluoranyl)ethyl]phenyl]prop-1-enyl]-[[3-methyl-4-[1-(4-methylpiperazin-1-yl)but-1-enyl]phenyl]amino]amino]ethenyl]prop-2-en-1-imine
+
+187 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. (4S)-5-(2,3-dihydro-1,4-benzodioxin-6-ylmethyl)-4-pyrazin-2-yl-1,4,6,7-tetrahydroimidazo[4,5-d]pyridine
+
+188 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. CC1=C(N=C(C(=N1)N2CCC3(CC2)C[C@@H]4=CC=CC=C4[C@H]3N[S@@](=O)C(C)(C)C)CO)SC5=NC(=NC=C5)CC6=C(C=C(C=C6)OC)OC
+
+189 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. C[C@H](O)NC(=N)C1=NC2=CC(=CC=C2N1)Cl
+
+190 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. (1R)-(2'-(Dimethylamino)-5,5',6,6',7,7',8,8'-octahydro-[1,1'-binaphthalen]-2-yl)diphenylphosphine oxide
+
+191 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The SMILES representation for 1-[3-(2,3-dihydrothiophen-2-yl)propyl]piperazine is C1CN(CCN1)CCCC2CC=CS2.
+
+192 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. CC1=CC=C(C=C1)S(=O)(=O)N2C[C@H]3C4=CC=CCC=C4CCN3C(=O)C2
+
+193 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. (4R,5S)-2-(5-溴吡啶-2-基)-4,5-二苯基-4,5-二氢恶唑
+
+194 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C1COCCN1C(=O)C2=CC=C(C=C2)NS(=O)(=O)C3=CC=C(C=C3)Br
+
+195 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. N-[(5-Ethyl-2-methyl-pyrazol-3-yl)methyl]-2-methyl-prop-2-en-1-amine
+
+196 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 2,2,2-Trifluoroacetic acid 3-[4-([1,2,4]triazolo[3,4-b][1,3,4]thiadiazol-6-yl)pyridin-1-ium-1-yl]propyl ester
+
+197 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. CC1=CC(=NN1CC(=O)NCC(=O)CCN2C(=O)C3(CCCCC3)NC2=O)C
+
+198 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC(=O)c1ccc(cc1)N.CC(=O)c1ccc(cc1)NS(=O)(=O)c2ccc(cc2)OC(F)(F)F.C[N+](c1ccccc1)SCC(=O)c2ccc	cc2)NS(=O)(=O)c3ccc(cc3)OC	F)(F)F	CSCC(=O	c1ccc	cc1)NS(=O)(=O	c2ccc	cc2)OC	F)(F	F	c1ccc	cc1C		=	O	CS	NS(=O)(=O	c2ccc	cc2)OC	F)(F	F	c1ccc	cc1C		=	O	CBr	NS(=O)(=O	c2ccc	cc2)OC	F)(F	F	reg}
+
+199 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C10H7F3O2
+
+200 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC1=CC(=C(C=C1)O)C2(C3=CC=CC=C3C(=O)O2)C4=CC=CC=C4
+
+201 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. C1CC(CC1)OC[C@H](CN2CCCC2)O
+
+202 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 5-[bis(furan-2-yl)methyl]furan-2-carbaldehyde.
+
+203 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 1-[3-(aminomethyl)-3-methyl-pyrrolidin-1-yl]-2-(2-methoxyphenyl)-2-methyl-propan-1-one;hydrochloride
+
+204 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. O=C(OCC(=O)Nc1ccccc1S(=O)(=O)Nc2ccccc2OC)Cc3ccccc3
+
+205 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. CC1=CC(=C(C=C1)OC(C(=O)N2C3CCCC2CN3)C)C
+
+206 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. 5-(3-propylimidazol-4-yl)-2-fluoranyl-naphthamide
+
+207 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. CC1=CC=CS1CCS
+
+208 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC(C1=CC=C(C=C1)Cl)N2CCN(CC2)C(=O)CCC3CCNCC3 Cl Cl
+
+209 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. C1CN(C[C@H]([C@H]1F)O)C2=CC(=NC=C2)NC3=C4C(=C(C=C3)C5=CN=C6N5C=CN=C6)CNC4=O
+
+210 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 6-bromanyl-4-oxidanyl-spiro[3,4-dihydrochromene-2,4'-piperidine]-1'-carboxylic acid
+
+211 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC(C(C1C(C(C(C(O1)SCCO)O)O)O)NC(=O)C2CCCN2)OC
+
+212 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. (1R,2R)-1-azanyl-7-fluoranyl-1,2,3,4-tetrahydronaphthalen-2-ol
+
+213 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. C1=CC=NC2=CC=CS1S2
+
+214 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. N-[4-[5-(2-hydroxy-2,4-dimethyl-pentoxy)-4,6-dimethyl-pyridin-2-yl]pyridin-2-yl]carbamate
+
+215 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CCOC(=O)C1=NNC(=N1)CC2=CC=C(C=C2)COC
+
+216 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. C[C@@H](C(=O)N[C@H](CS(=O)C[C@@H](C(=O)N1CCN2CN(C1)NN([C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@@H](CSCC2=O)C(=O)N)C(C)(C)C)CC(=O)O)CC3=CC=C(C=C3)O)CCC(=O)O)CC4=CC=CC=C4)CC(=O)O)C(=O)[C@@H](C)N)C(=O)N[C@H](C)C(=O)N[C@@H](CC(=O)N)C(=O)[N@H](CCC(=O)O)C(=O)N[C@@H](CC5=CC=CC6=CC=CC=C65)C(=O)NC7(CC7=O)C)N
+
+217 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. C1C[C@H](O[C@H]1CN)C(=O)N(C2CCN(CC2)CC3=CC=C(C=C3)F)OClCl
+
+218 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C
+
+219 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. 2-[(5-bromanylpyridin-2-yl)methylimino]-2-(4-methoxyphenyl)ethanoic acid
+
+220 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 4-[(4Z)-4-[1-(4-fluorophenyl)-3-[3-(4-fluorophenyl)-3-oxidanyl-propyl]-4-oxidanylidene-azetidin-2-ylidene]-3-oxidanyl-cyclohexa-1,5-dien-1-yl]phenyl [6-methoxy-3,4,5-tris(oxidanyl)oxan-2-yl]methanesulfonate
+
+221 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. NC12CC3CC(CC(C3)C1)C2Cl
+
+222 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. CC(C)=C1N=CN(C=N1)N(C)C(=S)N(C2=CC=CC=C2)
+
+223 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. CCCC1=C(C(C#C)C(O[P+]1(C)O)C)/C=C\C#CC
+
+224 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. C1=CC=C(C=C1)C[C@H]2[C@H](O2)CO
+
+225 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. N-methyl-N-[1-(6-methylpyridazin-3-yl)azetidin-3-yl]oxane-2-carboxamide
+
+226 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CCOC(=O)OCC1=NC=C(C=C1)CCl
+
+227 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 2-[(2,3-dimethylphenyl)amino]-2-oxidanylidene-ethyl 2-(3,4,5-trimethoxyphenyl)ethanoate
+
+228 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. CCC1=C(N=C(N)S1)NS(=O)(=O)CCC(=O)OC
+
+229 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. (2S)-2-[(4S)-4,5-二氢-4-(苯基羰基)-2-噁唑基]-1-(二萘基膦基)哌啶
+
+230 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. CCCNC(=O)C1=CC(=CC(=C1)C2=NN=C(O2)[C@H](C)(CC3=CC=CC=C3)N)N(CC)S(=O)(=O)C
+
+231 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 2-methyl-5-[(3-methylcyclohexyl)sulfanylmethyl]furan-3-carbohydrazide
+
+232 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. C[C@H](C(=O)O)N[C@H]1[C@@H]2N(C(CS2)=O)C(=C1CSC3=NN=NN3C)C(=O)N[C@@H](C4=CC(=NO4)OC)C(=O)[N+](=O)[O-]
+
+233 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. CC(C)CCNCCCC(=O)C1=CC=CN=C1
+
+234 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. (S)-2,2',3,3'-四氢-6,6'-二(2-苯基)-1,1'-螺二[2H-茚]-7,7'二酮
+
+235 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 10-ethylidenetetracyclo[7.2.1.0^2,4.0^2,8]dodec-5-ene
+
+236 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. CCC(C)CCCCCCCCC(=O)OC[C@H](COP(=O)(O)OC[C@@H](COP(=O)(O)OC[C@@H](COC(=O)CCCCCCCCCCCCC(C)C)OC(=O)CCCCCCCCCCCCC(C)C)O)OC(=O)CCCCCCCCCC(C)C
+
+237 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 4-(Cyclohexylamino)-1-(2-phenylethyl)-6H-[1,2,3]triazolo[4,5-d]pyridazin-7-one
+
+238 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. N#CC1=CN(C(=O)NC(=N1)N)NCC2C(C(C(O2)CO)O)OP(=O)(O)OP(=O)(O)OC
+
+239 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. CCC(C)NC1=NN=CC(=C1)NC(=O)COC2=C(C=C(C=C2)Cl)Cl
+
+240 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 2-(methoxymethyl)-N-methyl-1-[(3-methylquinoxalin-2-yl)methyl]pyrrolidine-2-carboxamide
+
+241 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. [4-(methoxymethyl)piperidin-4-yl]-[4-[(5-methyl-1,2-oxazol-3-yl)methyl]piperazin-1-yl]methanone;dihydrochloride
+
+242 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. CCCOC1=CC=C(C=C1)N(CC(=O)NCCCSCC2=C(C=CC=C2)C)S(=O)(=O)C
+
+243 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: The question ask for a SMILES formula, but the options提供的 are English Names.四个选项 A, B, C, D 都不是SMILES公式。请确认问题并提供SMILES公式的选择。
+
+244 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: This question asked for a conversion from IUPAC names to SMILES representations. However, the optionsprovided are lists of IUPAC names, not SMILES strings. If the intention is to select the option that has theSMILES strings, I cannot provide that without the actualSMILES strings being listed. If the intention wasto select the option with the correct IUPAC names, the question is not worded in a way that allows for a ճԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸԸ[1;32m沉默的代表。
+
+245 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. CC1=CC2=C(C=NN2C)C(=C1Cl)C3=C(N(C=C3)C4=CC(=NN=C4C)C)C5CC6(C5)CN(C6)C(=O)C=C
+
+246 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. C1CC2=CC=CC(C2)=C(C1)/C(=C\C3=CC=CC=C3)/C4=CC=CC=C4
+
+247 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. CN(CC1=CC(=CC=C1Br)CC2=COC=C2)C(=O)N(N)
+
+248 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. CCCCCN(C1=CC=C(C=C1)C(=NNC2=CC=CC=C2)C)C
+
+249 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 1-Ethyl-3,5-diaza-1-azonia-7-phosphatricyclo[3.3.1.1^3,7]decane
+
+250 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. CC1=CC2=CC=C(C=C2C(C1)C3=NC=CC=C3)C4=CC=NC5=CC=CC=C45
+
+251 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. C39H62NO2PS
+
+252 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 1-[2-azanyl-3-(1H-indol-3-yl)propanoyl]-2-methyl-pyrrolidine-2-carboxylate
+
+253 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 2-Methoxypyridin-3-amine
+
+254 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. CC(C(=O)C(C)C(C)(C)C(C)C(=O)OC1CCOC1)O
+
+255 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C[C@@H](/C=C/C1=CC=C(C=C1)Cl)N
+
+256 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. [2-oxoethylidene-2-[(1R,5R)-1,3,3-trimethyl-6-azabicyclo[3.1.2]octan-6-yl]ethyl] 4-bromanylbenzoate
+
+257 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. [Na+].O=S(=O)(O)c1cc2ccccc2c(c1O)N=NC3=CC=C(C=C3)c4ccc(cc4)N=NC5=CC=C2C(=C5)C(=CC(=C2N)N)S(=O)(=O)O
+
+258 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. CC1=NN(C(=C1)NC(=O)[C@H]2CC[C@H](O2)CN)C3=CC(=CC=C3)Br
+
+259 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3)OC4C(C(C(C(O4)CO)O)O)O)O
+
+260 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC1=CC=CC=C1N2C(=O)C3=CC=CC=C3N=C2SCC(=O)NN=CC=CC4=CC=CC=C4
+
+261 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CCC(C(=O)NN)N1C=CC2=C1C=CC(=C2)OC
+
+262 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The SMILES for 4-(1-azanyl-3-methyl-butan-2-yl)piperidin-2-one is CC(C)C(CN)C1CCNC(=O)C1.
+
+263 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC1=NC(=C(C=C1)O)CN2CC(CC2C3=CC(=C(C=C3)F)F)O
+
+264 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. CC1CC(C(NC)C(C1)C2=NN=C(S2)C3=CC=CS3)C
+
+265 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. 3-(2-methyl-6-amino-piperidin-1-yl)propanenitrile
+
+266 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC1CC(=CC(=NP(=O)(C2=CC=CC=C2)C3=CC=CC=C3)C1)C
+
+267 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B.
+
+268 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. C=CCN(CCC(CO)C1=CC=CC=C1)C
+
+269 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. C1=CC(=CC=C1C(=O)N[C@@H](C(C(C(=O)O)(S(=O)(=O)O)S(=O)(=O)O)S(=O)(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N
+
+270 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 1,3,5-tris(chloranyl)-2-isocyanato-4-methyl-benzene
+
+271 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC1=CC(=C2C(=C1)C=C(C=N2)C(=O)C3=CC=CC=N3)C
+
+272 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. C1=CC(=CN=C1)C2=NOC3=C2N=NN3C4=CC=C(C=C4)Br
+
+273 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The SMILES notation for the compound is CO[Ge](C)CCC(=O)O.
+
+274 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. C1CC(=O)NC(=O)C(N2C(=O)C3=C(C2=O)C(=CC=C3)NCC4=CN(N=N4))CCCCCCCCC=O
+
+275 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. C[C@H](C1=NC(=NO1)C2CCC2)N3CCN(CC4=CC(=CC=C4)F)CC3
+
+276 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. CCN1C(S)=C/C(=C\2/C(=NC3=C(C=CC(=CN3C2=O)C)N4CC(C(C4)C)C)/C1=O
+
+277 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CCOC(CC1=CC=C(C=C1)OCCN(CC2CCC2)C(=O)OCC3=CC=C(C=C3)F)C(=O)O
+
+278 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 1,5Di-tert-butyl-3[3tert-butyl-2methyl-5(2methylbutan2yl)phenyl]-2methylbenzene
+
+279 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. (3S)-3-[(E,2R)-6-[(2S)-2-(hydroxymethyl)pyrrolidin-1-yl]-6-oxidanylidene-hex-3-en-2-yl]-1-[(3-iodanylphenyl)methyl]-5-nitro-3-oxidanyl-indol-2-one
+
+280 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 1,4,7,10,13,16,19,22-Octaoxacyclotetracosane
+
+281 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 6-[[(7S)-7-acetamido-1,2,3-trimethoxy-9-oxidanylidene-6,7-dihydro-5H-benzo[a]heptalen-10-yl]amino]-N-[1-(phenylmethyl)piperidin-4-yl]hexanamide
+
+282 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC1=CC(=C(C=C1)NCCCNC(=O)C2(CCCCN2)C)[N+](=O)[O-].Cl
+
+283 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. N1-[2-[4-(trifluoromethyloxy)phenyl]ethyl]-4-[(3R)-3-(trifluoromethyl)piperidin-1-yl]benzene-1,3-disulfonamide
+
+284 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. 291-14-5
+
+285 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 2-[(2R)-1-(3-methylbut-2-enyl)-3-oxidanylidene-piperazin-2-yl]ethanoic acid
+
+286 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. 2-(1,2-dimethylindan-1-yl)propanenitrile;pent-1-ene
+
+287 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. O-[[propyl(propan-2-yloxy)phosphoryl]methyl]hydroxylamine
+
+288 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. CCCCCCOC#CCCCCCBr
+
+289 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. COC1=CC=C(C(=N1)C2=CC=C(C=C2C(F)(F)F)C3=CC=C(C=C3Cl)C4=NC5=CC=C(C(=O)N5C=C4)C=O)C=O
+
+290 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The SMILES structure corresponding to the given IUPAC name is C/C=C\C1=C(C2=C(C=C1)C=CC(=N2)C3=CC4C(=CC=C(N4)C5=CC6=C(C=C5)C=CC(=N6)C7=CC=C(C=C7)C8C=CC9=C(N8)C1=C(C=CC(N1)C1=CC=CC=C1)C=C9)C=C3)N.
+
+291 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 4-azanyl-N-[2-[5-(2-methyl-1,3-thiazol-4-yl)thiophen-2-yl]ethyl]pentanamide;hydrochloride
+
+292 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 2-(5-chloranyl-2-methyl-1H-indol-3-yl)-1-(2-methyl-2,3-dihydroindol-1-yl)ethanone
+
+293 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. Propyl 2-[methyl(benzothiophen-2-ylsulfonyl)amino]benzoate
+
+294 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. CC(C)C1C(=CC(=C1CC(=O)N(C)S(=O)(=O)C2=NCS(C2)(C(C)(C)O))C(C)C)F
+
+295 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. CCC1=C(N=NN=C1C2=CC(=C(C=C2)F)C)CO
+
+296 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 6-(2,3-dimethylimidazol-4-yl)-4-sulfanyl-2-(1,3-thiazol-2-yl)-1,4-dihydropyrimidine-5-carbonitrile
+
+297 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. CCNCC1=C(C=CN=C1Cl)OC(C)C
+
+298 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 3-(4-methoxyphenyl)-6,6-diphenyl-2,5-dihydrothiopyran
+
+299 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. CC(C)CN1C(=CC(N)=C(C(F)F)N1)NCC2=CC=C(C=C2)C(=O)O
+
+300 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. Trimethyl-[3-[3-(3-trimethylsilyloxypropoxy)propoxy]propoxy]silane.
+
+301 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. COC1=CC=C(C=C1)N2C(=O)/C(=C\C3=C(SCC(=C3)Br)OCC4=CC=CC=C4F)/SC2=S
+
+302 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C1CC(CC1CNC(=O)C2=CC=C(C=C2)C3=CC=CC=C3)[NH-]
+
+303 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CCC1=NC=C(O1)C2=CC=C(C=C2)S(=O)(=O)N(CC[C@H](CC3=CC=CC=C3)NC(=O)OC4C5CC6C4COC6OC5)CC(C)C
+
+304 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The SMILES structure is CC1=CN2C(=CC(=N2)N3C=C4C=C(C=C(C4=N3)F)N5CCN(CC5)C(=O)OC(C)(C)C)C(=N1)C.
+
+305 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CN1[C@@H]2C=C[C@@H](C1=O)[C@H]3[C@@H]2C(=O)N(C3=O)C4=CC=C(C=C4)CC5=CC=CC=C5
+
+306 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CCCn1cc(c(=O)c(c1)C(=O)OCC(=O)c2cc(Cl)c([N+](=O)[O-])cc2C)C(=O)C
+
+307 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. N-butyl-3-chloro-propanamine.
+
+308 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C=C(CCNC(=O)C1CC1)N2C=NC3=CN=C4C(=C32)C=CN4
+
+309 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. CC(C)OC(=O)C1=CC=C2SCCC(=O)N(C(=O)C[C@H](C)N(CC3CCCCC3)C)C2=C1
+
+310 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 4-[[4-[(Z)-3-[[2,3-bis(chloranyl)phenyl]amino]-2-cyano-3-oxidanylidene-prop-1-enyl]-2-bromanyl-6-chloranyl-phenoxy]methyl]benzoic acid
+
+311 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 2-(4-bromanyl-2-oxidanyl-phenyl)-N-[1-(2-hydroxyethyl)-5-methyl-pyrazol-3-yl]ethanamide
+
+312 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C1=CC=C2C=C3C(=CC2=C1)C4=CC(=CC5=C4N3C6=CC7=CC=CC=C7C=C65)C8=CC9=C(C=C8)OC1=CC=CC=C19
+
+313 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. C1=CC=C(C=C1)N(C2=CC=CC=C2)C3=CC=C(C4=C(C=C3)C5=CC6=C(C=C5)C7=CC=CC=C7C8=CC=CC=C68)C9=CC=CC=C94
+
+314 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. (1R,2R,6S,7S,10S)-9-[tert-butyl[dimethyl)silyl]oxy-8-methyl-4-phenyl-10-propan-2-yl-4-azatricyclo[5.2.2.02,6]undec-8-ene-3,5-dione
+
+315 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. Ethyl 2-[[(E)-3-(4-methoxy-3-morpholin-4-ylsulfonyl-phenyl)prop-2-enoyl]amino]-4-methyl-1,3-thiazole-5-carboxylate
+
+316 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. N-but-3-yn-2-yl-2-ethoxy-benzene
+
+317 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. The molecular's IUPAC name is 1-(2-phenylcyclopentyl)hexan-1-one.
+
+318 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. C1CN([C@]2([C@@H]1C2)C3=C(C=CC(=C3)F)F)C4=NC5=C(C=NN5C=C4)C6=CN=C(C=C6)CN7CCNCC7
+
+319 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. CC1=CC=CC=C1N(C2=CC3=CC4=NC(C=CC3=C2)C5=CC=C(C=C5)C6=C4C=C7C=NC(=CC7=N6)N8C9=C(C=CC=C9)C1=C8C1=CC=CC=C1)C1=CC=C(C=C1)C1=CC=CC=C1
+
+320 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C[C@@H]1CCC2=C(C1)SC3=C2C(=O)N[C@H](N3)C4=CC(=C(C=C4)O)I
+
+321 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 9-[5-[4-(9,9-dimethyl-1,2,3,4,4a,4b,5,6,7,8,8a,9a-dodecahydrofluoren-2-yl)-1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalen-1-yl]-1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalen-1-yl]-1,2,3,4,4a,4b,5,6,7,8,8a,9,10,10a-tetradecahydrophenanthrene
+
+322 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: The question asks for the SMILES structure corresponding to a given IUPAC name. However, the options提供的 are different IUPAC names rather than SMILES strings. To provide a direct answer to the question as worded, I cannot select A, B, C, or D as they are not SMILES strings. If you meant to ask for the option that matches the given IUPAC name, thenplease clarify the question or provide theSMILES string可以直接对应的选择。
+
+323 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. COC1=CC(Br)=CC=C1C(CO)NCC2=CN=CN2
+
+324 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. [(2R,4S)-4-fluoranylpyrrolidin-2-yl]-[4-(pyridin-2-ylmethyl)piperazin-1-yl]methanone;trihydrochloride
+
+325 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CC(C)(C)NC(=O)N1CCN(C[C@@H]1C(=O)N2CCC[C@H](C2)CN3C=CN=C3)[C@@H]4C5=C(CCC6=C4N=CC(=C6)Br)C=C(C=C5)Cl
+
+326 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. N-(2-prop-ynylsulfanylethyl)-3,4-dihydro-2H-chromen-4-amine
+
+327 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. COCC(O)N1C2=C(C=C(C=C2)C#CCC(C(=O)OC)C(=O)OC)[C@@]3(C1=O)[C@H]([C@@H]4C(=O)OC[C@H]([C@H](N4[C@H]3C5=CC(=CC=C5)OCO)C6=CC=CC=C6)C7=CC=CC=C7)C(=O)N8CCC9=CC(=C(C=C9C8)OC)OC
+
+328 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 1-(1-phenylethyl)-2,3,5,6,7,7a-hexahydroindole
+
+329 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 3-[(2-bromophenyl)carbonylamino]propyl 2-bromanylbenzoate
+
+330 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC(C)(C)N1C(=O)[C@@H]2[C@@H]([NH2+][C@]3([C@@H]2C1=O)C4=CC=CC=C4NC3=O)CC(=O)N
+
+331 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. CCCCCC(CCCCCCCCCC(=O)OH)C(=O)O
+
+332 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC1CCC(C(C1)C)NC2=C(C(=NC(=N2)C)Cl)C
+
+333 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. (2S)-3-(1-bicyclo[1.1.1]pentanyl)-2-(9H-fluoren-9-ylmethoxycarbonylamino)propanoic acid
+
+334 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC1(CN(CCS1)C(=O)C2(CCCNC2=O)C)C
+
+335 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 2,5-bis(bromanyl)-N-(2-hydroxyethyl)-N-(2-methoxyethyl)thiophene-3-sulfonamide
+
+336 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC1=NC2=C(S1)C=C(C=C2)NC(=O)C3=CC=C(C=C3)S(=O)(=O)C(F)(F)F
+
+337 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. C[C@H](C)[C@H](C[C@H](C(=O)O)NC(=O)[C@H](CC(=O)OC)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC3=CC=CO3)NC(=O)C)
+
+338 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. (5S)-1-[3-(diethylamino)propyl]-5-(3-methoxy-4-phenylmethoxy-phenyl)-4-[[4-[(4-methylphenyl)methoxy]phenyl]-oxidanyl-methylidene]pyrrolidine-2,3-dione
+
+339 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. Ethyl 4-methyl-2-(2-keto-5-prop-2-enyl-pyridin-1-yl)butanoate
+
+340 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 4-[2-(2-bromophenoxy)ethoxy]piperidine
+
+341 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. C[C@@H]1CC(N[C@H]1C(=O)N)CC2=CN(N=C2)CC3=CC=CC=C3
+
+342 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. (1'S,2S)-1,2,2'-tricyclopentyl-2-isopropyl-spiro[bicyclo[2.2.2]octane-3,9'-tricyclo[9.1.0.15,8]heptadecane]
+
+343 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 2-[4-(1-benzothiophen-5-yl)-2,6-di(propan-2-yl)phenyl]-N-[4-[(dimethylamino)methyl]phenyl]sulfonyl-ethanamide
+
+344 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. The molecular formula of the chemical is C17H16O5.
+
+345 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CCOC1=CC=CC(=C1O)[C@@H](CC(=O)O)O
+
+346 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. COC1=CC=CC=C1NC2=NC(=NC(=N2)SC)CSC3=NC(=C4C5=C(CCCC5)S4C=N3)N
+
+347 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. N-[2,2-bis(chloranyl)-1-cyano-ethyl]-5-[2-(3,4-dimethylphenyl)ethyl]furan-2-carboxamide
+
+348 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 1-环庚基-3-均三甲苯基-1H-咪唑-3-鎓氯化物
+
+349 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CC1=C(C(=CC=C1)C)SC2=C(C=C3C(=C2)C4=C(C5=C3OC(CC5)(C6=CC=C(C=C6)N7CCOCC7)C8=CC=C(C=C8)[Si](C)(C)C9=CC=C(C=C9)C1(CCC2=C(O1)C1=CC(=C(C=C1C1=C2C2(CC(CC(C2)(C)C)(C)C)C2=C1C=CC(=C2)OC)SC1=C(C=CC=C1C)C)OC)C1=CC=C(C=C1)N1CCOCC1)C1(CC(CC(C1)(C)C)(C)C)C1=C4C=CC(=C1)OC)OC
+
+350 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. Methyl 4,5-dimethyl-2-(1,2-oxazol-5-ylcarbonylamino)thiophene-3-carboxylate
+
+351 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 2,6-二异丙氧基苯基]二环己基膦四氟硼酸盐
+
+352 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. N-(2-cyclohexyloxypyrimidin-4-yl)-3-(3,4-dihydro-2H-1,6-naphothyridin-1-yl)azetidine-1-carboxamide
+
+353 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C1CN(CC2=CN=C(N=C21)C(F)(F)F)[C@H]3CC(NC3)[C@H]4C(CCN4C=O)(F)F
+
+354 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. COC(=O)NC(CC1=CC=NC=C1)C(=O)NCCCCN2C(=O)C(N=C2N)(C3=CC=CC=C3)C4=CC=CC=C4
+
+355 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. C[C@@H](CC1CCCCC1)NC(=O)N2C[C@H]([C@@H](C2)C(F)(F)F)C(=O)O
+
+356 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. C[C@H](CCC1=CC=C(C=C1)OC)N(C=O)NCC(=O)OC
+
+357 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. COC(=O)C1=C(N=C(N=N1)C(=O)OC)N2CCOCC2
+
+358 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: The answer is D. COC1=CC=CC=C1C2=CC=C3N2N=CC(C=N3)NCC4CCCN4C(=O)NC5CCCC5.
+
+359 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. CC(C) CCC(C)C(=O)N(C(C)C)C(=O)O
+
+360 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC(=O)NC1[C@H]([C@@H]2C(COC(O2)C3=CC=CC=C3)O[C@H]1OCC=C)O[C@H]4C([C@H]([C@@H](C(O4)C(=O)[O-])O[C@H]5C([C@H]([C@@H]6C(O5)COC(O6)C7=CC=CC=C7)O[C@H]8C([C@H]([C@@H](C(O8)C(=O)[O-])O[Si](C)(C(C)(C)C)C(C)(C)C)O)O)NC(=O)C)O)O
+
+361 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 1-Ethoxy-3-[[2,3,4-tris(fluoranyl)phenyl]amino]propan-2-ol
+
+362 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC1=C(C(=CC=C1)C)C2=CC(=NC(=N2)NSC3=CN(N=C3)C)OC4=CC=C(C=C4)N5CCOCC5
+
+363 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The IUPAC name is 1-[4-[(2-tert-butyl-1,3-thiazol-5-yl)carbonyl]-1,4-diazepan-1-yl]ethanone.
+
+364 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. (1R,10S,13S)-3'-methoxy-10-methyl-5,8-bis(oxidanylidene)-6-phenylmethoxy-N-[[2,4,5-tris(fluoranyl)phenyl]methyl]spiro[2,9-diazatricyclo[7.4.1.02,7]tetradeca-3,6-diene-13,5'-4H-1,2-oxazole]-4-carboxamide
+
+365 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 1-methyl-N-(1,2,3,4-tetrahydroisoquinolin-1-ylmethyl)benzimidazole-5-carboxamide
+
+366 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CC(=O)C(C(CC#N)C(=O)OC)C(=O)C1=CC=C(C=C1)OC
+
+367 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. CC1=C(C=CC(=C1)N(C(=O)C2=CC=CC=C2)C(=O)N)CC#N
+
+368 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 2-[(3R)-3-[(4-chloranyl-3-methyl-phenoxy)methyl]-1-[[3-(trifluoromethyloxy)phenyl]methyl]piperidin-3-yl]-1-(4-methylpiperazin-1-yl)ethanone
+
+369 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. CNC(=O)C1=CC(=CC=C1)C(=O)NC(CC2=CC=CC=N2)(C3CCCNCC3)
+
+370 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. (2Z)-2-[(Z)-1-(4-chlorophenyl)ethylidenehydrazinylidene]-1,2-diphenyl-ethanone
+
+371 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 4-[[5-(1H-pyrrolo[2,3-b]pyridin-5-yl)thiophen-2-yl]methyl]morpholine
+
+372 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC[C@H](/C=C/C)N1C(=O)C2=CC=CC=C2C1=O
+
+373 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC1=C2C(CC(CC2=NN1)(C)C)CN
+
+374 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. N-(6-bromo-1,3-dimethyl-2-oxo-1,2-dihydrobenzimidazol-5-yl)sulfonyl-2-isopropylpyrimidine-5-carboxamide
+
+375 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C
+
+376 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. C[C@]12CC[C@H]3C([C@H]1CCC[C@@]2(C)O)CCC4=CC(=NOCC(=O)N[C@@H](CC5=CNC6=CC=CC=C65)C(=O)O)C=C[C@H]34C
+
+377 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 6-bromanyl-4-(1-phenylmethoxybutan-2-yl)quinazolin-2-amine
+
+378 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. N-[(E)-(2-cyclopenta-1,3-dien-1-ylphenyl)methylideneamino]-2,4,6-trimethyl-aniline
+
+379 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 2,2-Dimethyl-6-(1,2,4-oxadiazol-3-ylmethoxymethyl)morpholine
+
+380 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. C1C(N(CC1(F)F)C(=O)CNC(=O)C2=CSC(=N2)C=CC3=CC=C(C=C3)Cl)C#N
+
+381 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. 1-[(1R,6S)-3,9-diazatricyclo[3.3.1.1^3,7]decane-9-yl]-2-(5-propanoylthiophen-3-yl)propanone
+
+382 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC[C@@H]1CN(C[C@H](C1)C(=O)N2CCOCC2)Cc3cccc(c3)COC
+
+383 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. O=C(N1CCC(CC1)N2C3=CC=CC=C3NC2=O)C4=CN=CC=C4
+
+384 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CCOC1=CC(=CC(=C1)N)C(=O)NC2CC(C2(C)C)O
+
+385 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. CN1CN(C2=CC=CC=C21)C3=CC(=CC(=C3O)OC4=CC5=C(C=C4)C6=C(N5C7=CC=CC=N7)C=CC(=C6)C#N)C#N
+
+386 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C[C@@H]1[C@H]([C@@H]([C@@H]([C@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3C4CC(OC5C4C(CC(C5)O)OC3C6CC(C(C(C6)O)O)O)C7CCC(CC7)O)O)O)O)O)O)O
+
+387 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 3-[[3-(1-azanylcyclopentyl)-1,2,4-oxadiazol-5-yl]methyl]-7,7,9-trimethyl-1,3-diazaspiro[4.5]decane-2,4-dione;hydrochloride
+
+388 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. (2S,3R,3aS,6R,6aS)-2-dodecoxy-3,6-bis(oxidanyl)-3,3a,6,6a-tetrahydro-2H-furo[3,2-b]furan-5-one
+
+389 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 1-Chloro-2-[(E)-2-chloro-3,3,3-trifluoroprop-1-enyl]benzene
+
+390 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 5-azido-6-propyl-1,3-benzodioxole
+
+391 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. CC1=CC(=CC=C1)SCC(C2CC2)(NC)C(=O)OC
+
+392 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC(CO[N+](=O)[O-])OC(=O)CC(=O)C
+
+393 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. N1C=CN=C1C2=CC=C(C=C2)CCN3CCC(C3)F
+
+394 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C
+
+395 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CC1=CC=C(C=C1)N=N/C=C/C2=CC(=CC=C2)OC
+
+396 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. (2R)-1-[(4-fluorophenyl)methyl-(phenylmethyl)amino]-3-(2-methylpropoxy)propan-2-ol
+
+397 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C1=CC=C(C(=C1)C=O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)COS(=O)(=O)O)O)O)O
+
+398 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. CC(NC(CC#N)C1C2=CC=CC=C2OC(=O)C1C3=CC=C(C=C3)OC)
+
+399 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CN1CCC(C1)CNCC2=NC=CC3=C2N=C(CC3=O)COC4=CC=C(C=C4)CC5=CC=CC=C5
+
+400 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. CN1C(=CO2)C(=CC=N1)COC3=CC=CC=C3N4C(C(C(=C(C4C#N)C5=CC=CC=C5)C(=O)OC)C(=O)OC)N
+
+401 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. tert-butyl N-[1-[2-(7-cyano-2-hydroxy-quinolin-1-yl)ethyl]piperidin-2-yl]carbamate
+
+402 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC(C)(CCO)NC(=O)c1ncc(cc1)C(=O)O
+
+403 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 4-(3-fluoro-4-methoxyphenyl)-2-methylthieno[3,2-d]pyrimidine
+
+404 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 3-[[2-chloranyl-5-(2-phenylmethoxyethoxy)phenyl]methyl]-1-cyclohexyl-pyrrolidin-2-one
+
+405 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. ethyl 2-(3-isocyanatophenyl)sulfanylpyridine-4-carboxylate
+
+406 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. COC1=C(C=CC(=C1)CN2C3=C(C=CC(=C3)NC(=O)OC4CC4)N=N2)C(=O)O
+
+407 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C1CC(CCC1N)OCCNC(=O)NC2=CC=CC=C2
+
+408 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC1=CC(=CC(=C1)NC(=O)C2=CC(=NC3=CC=CC=C32)C4=CN=CC=C4)C
+
+409 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C#C/C=C\CCCC/C=C\C#CC#CCCCC#CC#C[C@H](COS(=O)(=O)O)OS(=O)(=O)O.[Na]
+
+410 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 4-azanyl-1-[3-(2-methylpropyl)piperidin-1-yl]pentan-1-one;hydrochloride
+
+411 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. C1C(C(C1(F)F)CCO)C(=O)O
+
+412 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. N-[3-(aminomethyl)-5-(trifluoromethyl)phenyl]butanamide
+
+413 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. CC(C)C[C@@H]1CN2CC[C@H]3C=CC(=C(C=C3[C@H]2CC[C@@H]1OC(=O)/C=C\C(=O)NC(CC4=CC=CC=C4)C(=O)O)OC)OC
+
+414 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 3,4-dihydro-1H-isoquinolin-2-yl-[4-methyl-2-(5-methylfuran-2-yl)-1,3-thiazol-5-yl]methanone
+
+415 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. (2-氨乙基)二(叔丁基)膦双(四氟硼酸盐)
+
+416 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. CCCCCCN1C=C(C2=C1C=C(C(=C2)C(=O)N3CCN(CC3)CC4=CC=C(C=C4)F)C)C(=O)C(N)(C)=O
+
+417 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. (2E)-N-[2-(3-fluoranylphenoxy)propyl]-2-(3-methyl-4-oxidanylidene-1,3-thiazolidin-2-ylidene)ethanamide
+
+418 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. (3R,4S)-N-[2-(1H-benzimidazol-2-yl)ethyl]-4-(1-methylpyrazol-4-yl)pyrrolidine-3-carboxamide
+
+419 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. 3-ethyl-8-[8-[(1R)-1-ethylpiperidin-2-yl]carbonyl-4,5-dihydropyrido[2,3-b][1,4]dioxin-6-yl]-[1,2,4]triazolo[3,4-a]pyrimidin-5-one
+
+420 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C1=CC(=CC(=C1)F)C(=O)NC2=C(N=CC=C2)Br
+
+421 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. (1R,2S,5R)-5-Methyl-2-(1-methylethyl)cyclohexyl [P(O)]-P-(3′,6′-dihydroxy[1,1′:4′,1′′-terphenyl]-2′-yl)-P-phenylphosphate
+
+422 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 1-[(E)-[5-(4-methoxyphenyl)-2-oxidanylidene-furan-3-ylidene]methyl]benzo[f]chromen-3-one
+
+423 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. (3S,5R)-N-[[2-[(3-chlorophenyl)methoxy]phenyl]methyl]-3,5-dimethyladamantan-1-amine
+
+424 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. CC1=C(C=C2C=CC=C3C2=C2C(C=C(C=C2)C2=CC=CC=C2)O)C2=CC=CC=C12
+
+425 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. 2-(3-oxidanylpentoxy)ethanoic acid
+
+426 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. CCCCCCCCCCCCCCCCCCCCCCCC(=O)O[C@H](COC(=O)CCCCCCCCCCCCCCCC(C)C)COP(=O)(O)OC[C@@H](COP(=O)(O)OC[C@H](COC(=O)CCCCCCCCC)OC(=O)CCCCCCCCCCCCCCCC(C)C)O
+
+427 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 695816-47-8
+
+428 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. C1=CC=C(C=C1)C(=O)NC(=NCCCC2=CN=CN2)NCCSCC3=CN=CC=C3
+
+429 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. CCOC1=C(C=C2C(=C1)C=C(S2)CC(=O)NC(O)C)OCC
+
+430 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 2,2′-Biphenylyylene phosphite
+
+431 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. [K+].[IH2+]
+
+432 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. (2aS,8bR)-8b-pyrrolidin-1-yl-1,2a,3,4-tetrahydronaphtho[2,1-b]thiete 2,2-dioxide
+
+433 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. CC1=CC=C(C=C1)C2=C(C(=CC=C2)S(=O)(=O)C)ON[O-]
+
+434 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. propan-2-yl N-[[3-[6-(2-aminopropan-2-yl)quinolin-8-yl]phenyl]methyl]-N-(4-hydroxylsulfonylphenyl)urethane
+
+435 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. N-[(1R)-1-(4-fluorophenyl)ethyl]-2-[1-(4-methoxyphenyl)-4,6-bis(oxidanylidene)pyrimidin-2-yl]sulfanyl-ethanamide
+
+436 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. C1=CC(=CN=C1NC(=O)N)NC(=O)N
+
+437 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC1=C(C=C(C=C1)NC(=O)N2CCCC2C3=CC(=CC=C3)F)C
+
+438 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. C1(C2=CC=CC=C2N(C3=CC=CC=C31)B)N4C5=CC=CC=C5C(C6=C4C7=C(C=C6)C8=CC=CC=C8C7(C)C)(C)C
+
+439 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. C1=CC(=C(C(=C1NC=O)C#N)Cl)Br
+
+440 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. CC1=CSC(=N1)N2C(=O)C3=C(N(C2=O)CC4=C(C=CF=C4F)F)NC(=C3CCN(DM)C)C5=CC=C(C=C5)N
+
+441 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C1=CC(=CN=C1)CC(=O)NCCCCCCO
+
+442 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C1CCN(CC1)C2=NN=C(C=C2)N3CCN(CC3)C(=O)NC4=CC(=CC(=C4)F)F
+
+443 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CCOC(=O)CCC1(C2=CC=CC=C2N(C1=O)CC3=CC=CC=C3)C
+
+444 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. Ethyl 2-[2-(4-methoxyphenoxy)acetamido]-4-(4-nitrophenyl)thiophene-3-carboxylate
+
+445 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The SMILES for 6-[(Z)-2-[4-(diethylamino)phenyl]ethenyl]-5-nitro-1H-pyrimidine-2,4-dione is CCN(CC)C1=CC=C(C=C1)/C=C\C2=C(C(=O)NC(=O)N2)[N+](=O)[O-].
+
+446 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC1=CC(=NO1)NC(=O)CN(CC2=CC=C(C=C2)Cl)C(=O)C
+
+447 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. 2-oxo-N-[2-(3-methoxyphenyl)imidazo[1,2_a]pyridin-6-yl]ethanamide
+
+448 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC1C2=C(CCN1C(=O)CNC(=O)[C@H](C(C)C)N)C=C(C=C2Cl)Cl
+
+449 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. N-methyl-7-(6-morpholin-4-ylpyridin-3-yl)pyrido[3,4-b]pyrazin-5-amine
+
+450 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CCOC1=C(C=C2C3=C(CCCCC3)OC2=C1)O
+
+451 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. C1(CC(CN1)C2=C(C(C=N2)Cl)C(F)(F)F)OCC3=CNC=C3
+
+452 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 1-(3-bromanyl-4-fluoranyl-phenyl)-N-methyl-N-(2-methylbutan-2-yl)ethane-1,2-diamine
+
+453 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. (2Z)-5-(3-bromophenyl)-3-[(3-ethoxyphenyl)-oxidanyl-methylidene]-1-(pyridin-3-ylmethyl)pyrrolidine-4,5-dione
+
+454 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. The CAS of the chemical is 2646621-98-8.
+
+455 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. CC1=C(C=C(C=C1)C(=O)N(CC2CCOC2)CC3=CC=CO3)C(C)=O
+
+456 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CN(CC1=CC(=CC=C1)F)C(=O)[C@@H]2CCC[C@@H](C2)C(=O)O
+
+457 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. N-[[2,5-bis(chloranyl)phenyl]methyl]-2-[2-methyl-6-oxidanylidene-5-[(phenylmethyl)sulfonylamino]-2,3-dihydropyridin-1-yl]ethanamide
+
+458 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. (6R)-3-methyl-6,7-dihydro-5H-pyrazolo[1,2_a]pyrazol-8-ium-6-ol
+
+459 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. 2-cyclobutyl-2-(cyclobutylamino)-3-(2-ethylthioxy)propanenitrile
+
+460 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. COC(=O)C(CN=C(N)N=C1CC2=C(C=C1)OCCCO2)F
+
+461 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. CC1=CC(=NC(=N1)NC2=CC=C(C=C2)C(=O)C)N(C)C
+
+462 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. N-(1-azabicyclo[3.2.1]octan-3-yl)-5-chloranyl-6-oxidanylidene-1H-pyridine-2-carboxamide
+
+463 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. CC1=C(C(=CC=C1)CC2=C(C=C(C=C2)NC(=O)C=C)C3=CN(C(=O)NC(=C3)N(C)C)C)F
+
+464 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. C1COCCN1C2=NC=CC(=N2)CNC(=O)C3=CC=C(O3)[N+](=O)[O-]
+
+465 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC(=O)N1CCN(C[C@@H]1C2=CC=CC=C2)C(=O)CC3=CC(=CC=C3)F
+
+466 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. N-[5-(2,3-dihydroindol-1-yl)pyridin-2-yl]-3-methylbutanamide
+
+467 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 6-chloranyl-N-ethoxy-2-[(3-ethyl-2-methylidene-3-propyl-pyrrolo[2,3-c]pyridin-1-yl)methyl]benzimidazol-1-amine;methanamine
+
+468 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. N-(furan-2-ylmethyl)-2-(1,2,3,4-tetrahydroisoquinolin-2-ium-2-yl)ethanamide
+
+469 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC1=CC2=C(C=C1)N=C(S2)C3=CC=C(C=C3)N(CC4=CC=CC=C4)CC5=CC=CC=C5
+
+470 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 5,6-dimethyl-3-[[4-[(1S)-1-oxidanylethyl]phenyl]methylamino]pyridazine-4-carbonitrile
+
+471 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C[C@H](C1=CC=CC=C1)NCC2=C(C=CC(=C2)Br)OC(C)C
+
+472 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. 1-(thiophene-2-carbonyl)-N-[(2-ethylphenyl)methyl]-N-(furan-2-ylmethyl)piperidine-4-carboxamide
+
+473 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC[C@H](C)[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CO)C(=O)N[C@@H](CS)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCC(=O)N)C(=O)O)NC(=O)[C@H](CO)N
+
+474 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 2-naphthalen-1-yl-N-phenyl-N-[2-(2-phenyldibenzofuran-1-yl)phenyl]aniline.
+
+475 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. CC1=NC(N=C(N1)N)O
+
+476 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 4-bromanyl-3-chloranyl-6,7,8-tris(fluoranyl)quinoline
+
+477 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. The name of the chemical is 1,1′-Binaphthol, 5,5′,6,6′,7,7′,8,8′-octahydro-2,2′-diethyl ether-, (1R)-
+
+478 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CCCCOC(=O)N1CCC(CC1)C(=O)NCCC2=CC=C(C=C2)N
+
+479 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C1=CC=C(C(=C1)C#N)NC2=NC(=NC=C2C(F)(F)F)NC3=CC=C(C=C3)I
+
+480 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. 5-methyl-N-[2-[[3-[[4-(4-methylpiperazin-1-yl)phenyl]methylidene]-2-oxo-1H-indol-5-yl]carbonyl]phenyl]pyrazine-3-carboxamide
+
+481 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. N-(3-azanylpropyl)-4,5-bis(iodanyl)-N-[(1R)-2-ethyl-1-[1-(phenylmethyl)benzimidazol-2-yl]propyl]thiophene-2-carboxamide
+
+482 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 6-[(3-chloro-2-fluorophenyl)methyl]-8-methoxy-1-hydroxy-4-oxoquinoline-3-carboxylic acid
+
+483 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 2,2,4,4,6,8,9,9-octamethylcyclononane-1,3,5,7-tetrol
+
+484 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. CCC1=C(SC2=C1C=CC=C2)S(=O)(=O)C3=CC=C(C=C3)Br
+
+485 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 3-[[6-[2-[(Z)-C-azanylphosphanylcarbonohydrazonoyl]phenyl]pyridin-3-yl]methyl]-1-butyl-4-(2-methylpropyl)imidazol-2-one
+
+486 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C1COC2=C(C=CC=C2O1)/C=N/O
+
+487 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. C1=CC=C(C=C1)N2C(=NN=C2SCC(=O)NC3=CC(=C(C=C3)Cl)[N+](=O)[O-])C4=CC=CS4
+
+488 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. CC1=NC(=NC(=C1)C2=CC(=CC(=C2)F)F)NCC=C
+
+489 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. CC1CN(CCC1N(C)C2=CC(=C(C=C2)C)N)
+
+490 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 2-(azetidin-3-yl)-5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)pyridine
+
+491 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. (8aR)-1-methyl-2,3,4a,5,6,7,8,8a-octahydropyrido[3,4-b][1,4]oxazine
+
+492 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC(=C)C(=O)OCC(C)(C)COC(=O)CCO
+
+493 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. CC1=CC(=O)C2=C(C(=C1)O)C(=O)C3=C(C=CC(=C3C2)OC)OC
+
+494 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecular weight of C43H42F6NOP is 733.76 g/mol.
+
+495 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. (Z)-N-[(4aS,6aR,6bS,8aR,12aS,14aR,14bS)-11-cyano-2,2,6a,6b,9,9,12a-heptamethyl-10,14-bis(oxidanylidene)-1,3,4,5,6,7,8,8a,14a,14b-decahydropicen-4a-yl]-3-(4-chlorophenyl)-3-cyano-prop-2-enamide
+
+496 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. (4R,4'R,5S,5'S)-2,2'-(1,3-二氢-2H-茚满-2-亚烷基)双[4,5-二氢-4,5-二苯基噁唑]
+
+497 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 6-(3-chloranylphenoxy)-N-[(4-chlorophenyl)methyl]pyrimidin-4-amine
+
+498 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CCCC1C2CCC3(C(C2CCC1(C)CCNC)CCC3C4(COC4)CN5C=C(C=N5)C#CCC)C
+
+499 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. tert-butyl 4-[[2-(1,3-benzodioxol-5-yl)-1H-indol-4-yl]carbonyl]piperazine-1-carboxylate
+
+500 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 2,3-O-Isopropylidene-1,4-bis-O-(methylsulfonyl)-D-threitol
+
+501 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. 3-methyl-1-[(1-methylpyrazolo[3,4-b]pyridin-4-yl)amino]butan-2-onetranslate into SMILES language as: CC(C)CC(CNC1=C2C=NN(C2=NC=N1)C)O.
+
+502 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC(=O)N1CCC(CC1)NC(=O)OC2=CC=C(C=C2)Cl
+
+503 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CC1=C[C-]=C(C=C1)C2=NC=C(C=C2)[Si](C)(C)C(C(C)C)C1=C(C(=CC=C1)C(C)C)N2C3=C(C=CC4=CC=CC=C43)N=C2C5=C[C-]C=CC6=C5OC7=C6C=CC(=N7)C(F)(F)F.[Ir]
+
+504 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C/C(=C\C1=CC2CC(C1C2)CO)/C(=O)OCC3CC4CC3C=C4
+
+505 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC(=O)C1=CC=CC(=C1)C2=CC=CC=C2N3C=C(C(=C3C(=O)OC)N)C#N
+
+506 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC(C)[C@H]1C2=NC3=C(O2)C45C(NC6=C(C=CC=C64)C7=C8C(=CC=C7)NC=C8C9=CN=C3O9)OC2=C5C=C(CC(C(=O)N1)NC(=O)C1CCCCC1)C=C2
+
+507 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. (2R,6S)-N-[(2S)-2-(1H-indol-3-yl)propyl]-2,6-dimethyl-morpholine-4-sulfonamide
+
+508 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CC(C)c1ccccc1C(=O)NCCNCC
+
+509 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. CCC1=Nc2cc(c(cc2N1C3=CC=C(C=C3)CCNS(=O)(=O)C4=CC=C(C=C4)C)Cl)OC(=O)N
+
+510 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. C[C@@H]1CC[C@H]([C@@H](C1)O[P@](=O)(C2=CC=C(C=C2)N(C)C)[C@H](C3=CC=C(C=C3)N(C)C)NC4=CC=CC=C4)C(C)C
+
+511 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CN=C1C(=NC2=C(N1C)C=C(C=C2F)Cl)N3CCN4CCCC4C3
+
+512 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The SMILES formula is CCN1CCN(CC1)S(=O)(=O)C2=C(C=CC(=C2)N)Cl.
+
+513 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The IUPAC name is 3-decylpentadecyl octanoate.
+
+514 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CCC1=CC(=CC=C1)C(C)(CC(C(F)(F)F)(F)F)O
+
+515 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 1-(6-methoxy-5-methyl-pyridin-2-yl)-2-methylidene-but-3-en-1-one
+
+516 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 2-[1-[2-(9H-fluoren-9-ylmethoxycarbonylamino)-1-methyl-cyclopentyl]carbonylazetidin-3-yl]ethanoic acid
+
+517 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. 3-ethyl-4-methylidene-1,2,3-benzotriazine-8-carbonitrile
+
+518 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. 4-(2-methoxyethoxy)-N-[(1S,2S)-2-[2-(trifluoromethyl)phenyl]cyclopropyl]butanamide
+
+519 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 2-[4-(5-azanyl-3-butyl-1,2-oxazol-4-yl)phenyl]-1,1,1,3,3,3-hexakis(fluoranyl)propan-2-ol
+
+520 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. COC(=O)C(OCC(=O)NC2=CC3=CC=CC=C3C=C2)C1=CC=C(C=C1[N+](=O)[O-])OC
+
+521 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. CC(C)(C)[Si](C)(C)OC1=C(C(=C(C=C1)O)C2=NN(C(=C2C(=O)O)C(=O)OC)C3=CC=CC=C3)Br
+
+522 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. N-cycloheptyl-4-[1-[[1-[2-[(3,4-dimethylphenyl)amino]-2-oxidanylidene-ethyl]-1,2,3-triazol-4-yl]methyl]indol-3-yl]butanamide
+
+523 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. CC1=CC(=CC=C1F)COC2=CC=C(C=C2)S(=O)(=O)[C@H]3COC[C@H]3(C(=O)NO)O
+
+524 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. N#CCN(C)CCC1=NC2=CC=CC=C2C1
+
+525 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C1CCN([C@H](C1)CCC(=O)O)CC2=CC=NN2
+
+526 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 4-(5-Ethylfuran-2-yl)carbonylpiperazin-1-yl]-[4-(trifluoromethyl)phenyl]methanone
+
+527 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. C1=CC=C(C=C1)C2=C(C(=C(C=C2)S(=O)(=O)OC3=CC=CC(=C3)NC(=O)C)S(=O)(=O)OC4=CC=CC(=C4)N)S(=O)(=O)OC5=CC=CC(=C5)NC(=O)NC6=CC=CC=C6
+
+528 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. 3-(4,4-dimethylpent-2-ynoylamino)-1-[(1-methylcyclopropyl)methyl]-2,4-diketoquinazoline-6-sulfinic acid
+
+529 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. 2-[[(2S,3R)-2-(9H-fluoren-9-ylethoxycarbonylamino)-3-methoxybutanoyl]amino]hex-5-ynoic acid
+
+530 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 4-fluoranyl-N-[(1-methyl-5-phenoxy-3-phenyl-pyrazol-4-yl)methyl]-N-[[(2S)-oxolan-2-yl]methyl]benzamide
+
+531 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C.[(1R,2R)-2-methylcyclopropyl]-[4-[3,3,3-tris(fluoranyl)propyl]piperazin-1-yl]methanone
+
+532 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C1=CC=C(C=C1)C2=C3C=CC=CC3=C(C4=CC=CC=C42)C5=CC6=C(C=C5)C=C(C=C6)C7=CC8=C(C=C7)C9=CC1=C(C=C9C2=CC=CC=CC28)C2=CC=CC=C2O1
+
+533 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 1-[4-(2,5-dimethylphenoxy)butyl]piperidine
+
+534 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. CC12CC(CC(C1)N(C)CC2)CCC3=CC=C(C=C3)CN(C)C
+
+535 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 5-bromanyl-N-(2,6-diethylphenyl)-3-methyl-1-benzofuran-2-carboxamide
+
+536 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The SMILES notation for 2-[4-[(2-butyl-4-oxidanyl-benzimidazol-1-yl)methyl]phenyl]benzoic acid is O=C(O)c1ccc(cc1)c2ccc	cc2	Cc3nc2ccccc2	n	H	c3CCCC.
+
+537 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. C1=CC2=CC=C(C1Br)C=C2OC(=C2)F_CC(=O)C1=CC2=C(C=C1)O(=C2)F
+
+538 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. O=C1C=CC(=C(C2=CC(=C(C(=C2C(F)(F)F)F)C(F)(F)F)F)C(=C1F)F)C=O
+
+539 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. C=C(C1=CC2=C(C=C1)N(CCO2)C3=CC=C(C=C3)/C(=N/N)/N)N4CCC(CC4)(F)F
+
+540 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. N9',N15'-bis(6-fluor任何ldibenzofuran-4-yl)-10-phenyl-N9',N15'-bis[4-(trifluoromethyl)phenyl]spiro[acridine-9,12'-pentacyclo[11.8.0.0^2,11.0^3,8.0^16,21]henicosa-1(13),2(11),3,5,7,9,14,16,18,20-decaene]-9',15'-diamine
+
+541 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 4-[(2R)-2-Methyl-2,3-dihydro-1H-indol-1-yl]benzene-1-carbonitrile
+
+542 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. The IUPAC name is 1,1,1,5,5,5-hexaethyl-3-oxapentasiloxane.
+
+543 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. COC1=CC(=CC(=C1OC)S(=O)(=O)NC2=CC(C=C2)=NC3CCN(CC3)C4=CC=CC=C4)
+
+544 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. CN1[C@@H]2CC[C@@H]1[C@@H](C2)C3=CN=CC=N3
+
+545 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 4-phenyl-3-[(E)-3-quinolin-2-ylprop-2-enoyl]-1H-quinolin-2-one
+
+546 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC1=C(C(=CC=C1)Cl)S(=O)(=O)OC2=CC=CC(=C2)CN(C[C@H]3CCCO3)C(=O)NC(C)C
+
+547 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 3-thiophen-2-yl-11-thiophen-2-ylcarbonyl-7,11-diazatricyclo[7.3.1.0^2,7]trideca-2,4-dien-6-one
+
+548 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CN1CCN(CC1)C2CCCCC2=O
+
+549 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 2,2'-二喹啉-4,4'-二羧酸
+
+550 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CN(C1=NC=CN=C1)NC2=C3C=CC(=CC3=NC=C2C=O)OC
+
+551 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 2,7-bis(bromanyl)-9,9-dinaphthalen-1-yl-fluorene
+
+552 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC1=CC(=C(C=C1N/C(=C/C(=O)OC)/C(=O)OC)Cl)Br
+
+553 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. (Z)-4-[azanyl-[(2S)-2-ethyl-4-[[3-[5-(trifluoromethyl)pyridin-2-yl]oxyphenyl]methyl]piperazin-1-yl]carbonyl-amino]-2-methyl-pent-3-enoic acid
+
+554 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 2,2-bis(chloranyl)-N'-[2-(4-chloranyl-5-methyl-2-propan-2-yl-phenoxy)ethanoyl]ethanehydrazide
+
+555 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. C1C[C@@H](CCN(C1)C(C2=CC=CC=C2)C3=CC=CC=C3)C(=O)O
+
+556 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 3-[4-[3-[(2-methylpropan-2-yl)oxyamino]propyl]piperazin-1-yl]propan-1-amine
+
+557 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CCOC(CC1=CC=C(C=C1)OCCN(CC2CC2)C(=O)NC3=C(C=C(C(=C3)C)C)C)C(=O)O
+
+558 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. (3S)-1-ethyl-5-oxidanylidene-N-pyridin-2-yl-pyrrolidine-3-carboxamide
+
+559 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 2-(6-Methoxyimidazo[1,5-a]pyridin-3-yl)phenol
+
+560 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 3-methyl-2-phenyl-naphthalene-1-carbaldehyde
+
+561 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC[C@@H]1C2(C([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H](C(=O)O1)C)O[C@H]3C[C@@]([C@H]([C@@H](O3)C)O)(C)OC)C)O[C@H]4[C@@H]([C@H](C[C@H](O4)C)N(C)C)O)(C)O)C)OC(=O)O2)C
+
+562 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. N-[(2,3-dimethylindolizin-1-yl)methyl]-3-thiophen-2-yl-propan-1-amine
+
+563 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. (2R,3R,4S)-4-(1-benzofuran-3-yl)-2-ethoxy-N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-3-(3-oxidanylpropyl)-3,4-dihydro-2H-pyran-6-carboxamide
+
+564 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. CC[C@H]1COCCN1C2=NC(=CC(=N2)C3=NC4=C(C=C3)NC(=C4)CO)C5(CCN(CC5)C)S(=O)(=O)C
+
+565 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. CCCCCCCCN(CCCC(C)C1CCC[C@H]2[C@]1([C@H](C[C@H]3C2[C@@H](CC4[C@]3(CC[C@H](C4)OCCCN)C)OCCCN)OCCCN)C)C(=O)CCCCCNC(=O)C5=CC(=C(C=C5)C6=C7C=CC(=O)C=C7OC8=C6C=CC(=C8)O)C(=O)O
+
+566 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC1=CN=C(N1)[C@H]2COCCN2C(=O)CCC3=CC=CS3
+
+567 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. [6-(Pyridin-2-yl)pyridin-3-yl]methanol
+
+568 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. tert-butyl N-[4-[[4-[bis(fluoranyl)methoxy]-3-chloranyl-phenyl]amino]-4-oxidanylidene-butyl]carbamate
+
+569 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C1=C(SC(=C1C(=O)NCC(C(F)(F)F)O)Br)Br
+
+570 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CCN1C2=CC=CC=C2SC1=CC=C3C4=CC=CC=C4C(=CC=C5N(C6=CC=CC=C6S5)CC)C3=C(C#N)C#N
+
+571 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. C[Si](I)(C)C=CC
+
+572 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. (4E)-1-(6-fluoranyl-1,3-benzothiazol-2-yl)-5-(3-methoxy-4-pentoxy-phenyl)-4-[oxidanyl(phenyl)methylidene]pyrrolidine-2,3-dione
+
+573 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The CAS number of (S)-萘并螺环二酚 is 2687968-77-8.
+
+574 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. CCCCCC1=C(C(=C2/C=C/C(=C/C(=C/3\C(C4=CCCCC(=C4Cl)N3)CCCCCC(=O)CO)/C)C=C2)C(C)(C)N1)C
+
+575 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C[C@H]1CCCN(C1)CC2=C(C(=CC(=C2)C)CN(C)CCOC)C
+
+576 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. [(2R)-1-[[(2R)-3-[[(2R)-2-(15-methylhexadecenoyloxy)-3-(10-methylundecanoyloxy)propoxy]-fluorophosphoryl]oxy-2-fluoropropoxy]-fluorophosphoryl]oxy-3-(17-methyloctadecanoyloxy)propan-2-yl] 22-methyltricosanoate
+
+577 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. 6-(3-fluoranyl-4-isobutyl-phenoxy)-N-(6-bromo-2-pyridinyl)-1,3-benzothiazole-2-sulfonamide
+
+578 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. N-[2-[(2E)-2-[(3-nitrothiophene-2-yl)methylidene]hydrazinyl]-2-oxidanylidene-ethyl]-1,4-benzodioxane-6-carboxamide
+
+579 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C[C@H]1C[C@@H](CS(=C)(=O)NC(=O)C2=CC3=C(C=C2)OC[C@]4(CCCC5=C4C=CC(=C5)Cl)CN3C[C@@H]6CC[C@H]6[C@H](C1)O)C
+
+580 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. C1=CC=NC=C1C(=O)NC2=CC=NC=C2C3CC3
+
+581 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. N-[5-[4-[3-(2-bicyclo[2.2.1]hept-5-enylcarbonylamino)-4-nitro-phenoxy]butoxy]-2-nitro-phenyl]bicyclo[2.2.1]hept-5-ene-2-carboxamide
+
+582 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. N-[[1-[(2-methoxy-5-methyl-phenyl)methyl]cyclohexyl]methyl]ethanamine
+
+583 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. COC1=CC=C(C=C1)C(=O)N2C[C@@H](N(C(=O)C2)CC3=CC=CC=C3OC)CCC4=CC=CC=C4
+
+584 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The SMILES representation for (3-methoxypyrazin-2-yl)-(6-methylpyridin-3-yl)methanol is CC1=NC=C(C=C1)C(C2=NC=CN=C2OC)O.
+
+585 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CCC(C)C(C)C(CC(C)C(C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F))OC(=O)C
+
+586 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. N-(Diphenylphosphinyl)-N-methylglycine
+
+587 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC1)CC(C)C)C(C)CC)C(C)C
+
+588 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CC(C)(C)C1=CC2=C(C=C1)C3=C(C24C5=CC=CC=C5C6=C4C=C(C=C6)N(C7=CC=CC=C7)C8=CC=CC=C8)C=C(C=C3)N(C9=CC=CC=C9)C1=CC=CC=C1
+
+589 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CN1CCN2C(=C(C=N2)CNC(=O)C3=CC=CC(=C3)CN(C)C)C1
+
+590 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. CC1=C(NC(=O)C(C)C)C(=NN1C2=CC=CC=C2)C
+
+591 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. CCC[SH]CCC.CCC[SH]CCC.[Cl-][Pt+2][Cl-]
+
+592 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. C1CCC(CC1)N2C3=NC=NC(=C3C(=N2)C4=CC=C(C=C4)OC5=CC=CC=C5)N(CN)O.C(=CC(=O)O)C(=O)O
+
+593 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CCC[C@@H](C1=CC=CC=C1)NCC2=CC=CS2
+
+594 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C
+
+595 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. 4-acetyloxetane-4-carbonitrile
+
+596 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. Methyl (3S)-1-[(4-bromanyl-2,5-dimethyl-pyrazol-3-yl)methyl]piperidine-3-carboxylate.
+
+597 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CCCCC(CC)CC1=CC(=C(C=C1)C(=O)[O-])N(C)C
+
+598 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. CC1=C(C=CO1)C(=O)N2CC([C@H]3[C@H]2CCCO3)OCC4=CC=CC=N4
+
+599 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. (3S)-4-(3H-benzimidazol-5-ylcarbonyl)-3-propan-2-yl-piperazine-1-carboxylic acid
+
+600 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. C1=CC=C(C=C1)C(NC(=O)C2=CC=C(C=C2)F)=N
+
+601 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. (3,5-dimethylcyclohexyl)-(5,6,7,8-tetrahydro-4H-cyclohepta[b]thiophen-2-yl)methanone
+
+602 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. N-[4-[[5-[(2,3-dimethylphenyl)amino]-1,3,4-thiadiazol-2-yl]sulf任何ymethyl]-1,3-thiazol-2-yl]-N-(2-fluorophenyl)ethanamide
+
+603 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C(C)C ( \[ K \] 286450342342234234234234234234234234234234234234234234234 \[ \] 23423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423423
+
+604 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. CC1=NC(=CN1C(=O)O)NC=O(C)N(C)
+
+605 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC(C)(C)C(=O)OC1=C(C(=C(C2=C1C=CC(=C2)Cl)OC(=O)C(C)(C)C)OC3=CC=CC=C3)OC4=CC=CC=C4
+
+606 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 3-[(2-nitrophenyl)amino]-N-[(3S)-piperidin-3-yl]propanamide;hydrochloride
+
+607 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The IUPAC name is tert-butyl N-[3-[[5-[(2S,2'R,5R)-2'-methyl-6-oxidanyl-7-oxid任何idene-spiro[1,6-diazabicyclo[3.2.1]octane-4,1'-cyclopropane]-2-yl]-1,3,4-oxadiazol-2-yl]methyl]cyclobutyl]carbamate. 
+
+This is theSMILES structure you requested.
+
+608 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 1-[4-(3-azanyl-6-tert-butyl-2H-pyrazolo[3,4-b]pyridin-4-yl)phenyl]-3-[2,4-bis(fluoranyl)phenyl]urea
+
+609 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C1=CC=C(C=C1)N2C3=CC=CC=C3C4=C2C=C(C=C4)C5=NC(=NC6=CC=CC=C65)C7=CC=C(C8=CC=CC=C87)C9=CC1=C(C=C9)C=CC2=C1C1=CC=CC=C1S2
+
+610 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. methyl 2-[[(E)-2-cyano-3-[5-[3-(trifluoromethyl)phenyl]furan-2-yl]prop-2-enoyl]amino]-4,5,6,7-tetrahydro-1-benzothiophene-3-carboxylate
+
+611 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. 1-[(8-chloranyl-2,3-dihydrothiochromen-4-yl)amino]thiourea
+
+612 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. CC1=CN=C(N1)C[C@H]2CN(COC2)C(=O)CC3=CN4N=C(C)C=CC4=N3
+
+613 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. [2H]C(=C=C1C(=CC(=O)CC1(C)C)C([2H])([2H])[2H])/C(=C\COC(=O)C)/C
+
+614 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. (4-氯-2-(1,1,1,3,5,5,5-七甲基三硅氧烷-3-基)苯基)双(4-氯苯基)膦
+
+615 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 1-(6-bromanyl-5-fluoranyl-2-methoxy-pyridin-3-yl)-N-(4,5-dimethyl-1,2-oxazol-3-yl)-2-oxidanylidene-quinoline-6-sulfonamide
+
+616 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. N-(4-methoxy-2-methyl-2-oxidanyl-butyl)-3-[4-(trifluoromethyl)phenyl]propanamide
+
+617 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. CN1N=CC(C=O)(N1)N2CCCC(C2)C(=O)O
+
+618 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CCC1=CC=C(C=C1)N(CCNC(=O)C2=CC(=CC=C2)OC)C(=O)C
+
+619 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC(C)(C)OOC(CBr)(CC1=CC=CC=C1)Br
+
+620 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. COC1=CC=CC(=C1)NC(=O)/C(=C/C2=C(C(=CC=C2)OC)OC(F)F)/C#N
+
+621 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. CC1=CN2C(=NC(=C2C=C1Cl)Br)CCCN(C)C(=O)OCCSi(C)(C)C
+
+622 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. CC1=NC(=CC=C1)C(=O)N2CCC3(OCC2)CC(C3)N4CCN(CC4)C
+
+623 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. COC1=CC=C(C=C1)N2C3=C(C(=CC=C3)OCC#C)N=N2
+
+624 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 4-(1,2,4-triazol-4-yl)-1H-pyridine-2-thione
+
+625 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 1-[(3-Ethoxyphenyl)methyl]pyrrolidin-3-ylmethanamine;hydrochloride
+
+626 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. But-3-enyl (5R,6S,7R)-8-bromanyl-3-[(2R)-3-methyl-1-oxidanyl-butan-2-yl]-4-oxidanylidene-2-[propan-2-yl(prop-2-enyl)carbamoyl]-10-oxa-3-azatricyclo[5.2.1.01,5]decane-6-carboxylate
+
+627 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The SMILES formula is CC1=CC(=C(C=C1)C(=O)N(C)CC2=CC=C(C=C2)C(F)(F)F)O.
+
+628 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. Ethyl 4-(3-chlorophenyl)-6-methyl-1-[[3-[3-(2-methylpiperidin-1-yl)propylcarbamoyl]phenyl]methyl]-2-oxidanylidene-3,4-dihydropyridine-5-carboxylate
+
+629 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. C1=CC=C(C=C1)OCC2=CC=CC(=C2)C3=NC(=NC(=O)C3)C4=CC(=C(C(=C4)F)F)F
+
+630 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 2-[(2R,5S)-5-[[[5-(4,5-dimethyl-1H-pyrazol-3-yl)furan-2-yl]sulfonylamino]methyl]-1-methyl-pyrrolidin-2-yl]-N-methyl-ethanamide
+
+631 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. CC1=CN([C@@H]2CC[C@H](O2)COC(C3=CC=C(C=C3)OC)(C4=CC=CC=C4)C5=CC=C(C=C5)OC)(C(=O)NC1=O)OP(=O)(OCC[Si](C6=CC=CC=C6)C(C7=CC=CC=C7))
+
+632 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C=CCOC(=O)N1CCC(C1)(C2=CC=C(C=C2)Br)C(=O)O
+
+633 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. CC1=CC=C2C(=C1)N(C(=NCC2N[C@H](C)C3=CC(=CC(=C3)N)C(F)(F)F)C4CCCCN4)C5=CC=CC=C5
+
+634 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. Cyclohexylbis(2-ethylphenyl)phosphine CAS number is 1197814-52-0.
+
+635 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. C[C@H]1C[C@H](CCN1)C(=O)NCC2=CN(N=C2C3=CC=CC=C3)CC4=CC=CC=C4Cl
+
+636 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. [2-[4-(4-fluorophenyl)-5-[2-(propylamino)pyrimidin-4-yl]-1H-imidazol-2-yl]-5-methyl-1,3-dioxan-5-yl]piperidin-1-ylmethanone
+
+637 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. COC1=CC=C(C=C1)C2=NC3=C(C=C2)C(=C(S3)C(=O)NC4CCCCCC4)N
+
+638 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. [UH3]
+
+639 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. This compound's IUPAC name is 3-[buta-1,3-dienyl]oxy-2,2-dimethyl-propanal.
+
+640 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. CC(C)OCC(=O)NC(CCN1CCNCC1)C
+
+641 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 4-Nonan-2-yl-4-oxidanyl-cyclohex-2-en-1-one
+
+642 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C
+
+643 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. CC1=CC=C(C2=CC(C)(C)CC=C12)C3=NC(=CC=N3)NC4=C(NC(=C4)NC(=O)C=C)CC(C)C
+
+644 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC(C)N1CCCCC1.C1=CC=C(C=C1)C2=CC=CC=C2
+
+645 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C
+
+646 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. CC1=CC(C(=NC1)C(=O)O)C2=CC=C(C=C2)N(=O)=O
+
+647 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CC1=CC(=NO1)NC(=O)CSC2=NN=C(N2CC3=CC=CC=C3)C4=C(C=C(C=C4)Cl)Cl
+
+648 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The SMILES format for 1-(4-chlorophenyl)-3-thiophen-2-yl-propan-1-one is O=C(Cc1cccs1)c2ccc(Cl)cc2.
+
+649 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CN1C=C(C=N1)C(=O)N2CCCC[C@H]2C3=CC(=O)N4C=CN=C4N3
+
+650 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CCCCOC1=CC2=C(C=C1)C(=C(C=C2)OCCCCl)CC
+
+651 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 6-(4-tert-butylphenyl)sulfanyl-4,5,7-tris(fluoranyl)-1-benzothiophen-2-yl-phenyl-methanone
+
+652 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. 6-bromanyl-N-[2-(3,5-dimethylphenoxy)ethyl]-2-amino-chromene-3-carboxamide
+
+653 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C[C@H](C(=O)N1C(C(=O)OCCO[C@H]2[C@H]([C@@H]([C@H](O[C@@H]2OC)CO)OCC3=CC=CC=C3)OC4=CC=CC=C4][C@](C)(OC1=O)C)[C@@H](OC(=O)C)C(=O)/C=C/c5cc(C)ccc5C
+
+654 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C
+
+655 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C[C@@H]1CC[C@@H]([C@@H](C1)OCC(=O)NCCCC2=NC3=CC=CC=C3N2)C(C)C
+
+656 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The IUPAC name is 3-methyl-N-[2-oxidanylidene-2-[(2Z)-2-[(4-oxid任何uidenechromen-3-yl)methylidene]hydrazinyl]ethyl]benzamide. 
+
+This is the IUPAC name that matches the SMA GES P R and)NCC(=O)N/N=C/C2=COC3=CC=CC=C3C2=O]benzamide.
+
+657 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. C1CC1(C2=CC=CC=C2)C(=O)N[C@@H](CNC(=O)CO[C@@H]3C[C@H](N(C3)C(=O)OCC4=CC=CC=C4)CNC5=CC=CC=N5)C(=O)O
+
+658 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC(=O)SC1CC(=O)N(C1)C2=NC=CC(=N2)Cl
+
+659 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. N-[(4-chlorophenyl)methyl]-2-[(4S)-4-(2-chlorophenyl)-4-methyl-2,5-bis(oxidanylidene)imidazolidin-1-yl]ethanamide
+
+660 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. C1=CC=C(C(=C1)C(=O)N2C=C(C(=C2)Cl)[N+](=O)[O-])N=C(CCl)N
+
+661 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. 2-[3-[6-[[4-[(E)-1-azanyl-3-methylimino-prop-1-en-2-yl]phenyl]methylamino]pyrimidin-4-yl]imidazo[1,2-a]pyridin-7-yl]propanal;propane
+
+662 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C1(=O)NN(C(=N1][Al]I)[Al]
+
+663 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. C1=CC=C2C(=C1)C=NC=C2N3C(=O)C4=CC(=CC=C4C(F)(F)F)N(C3=O)CC=C/C(=O)O
+
+664 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 1-(4-chlorophenyl)-N-[(1R)-1-(4-fluorophenyl)ethyl]-5-methyl-1,2,3-triazole-4-carboxamide
+
+665 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C
+
+666 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C
+
+667 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. N-(3-azanylpropyl)-N-[(1S)-1-(7-chloranyl-4-oxidanylidene-3-phenylazanyl-quinazolin-2-yl)-2-(4-hydroxyphenyl)ethyl]-2,3,4-tris(fluoranyl)benzamide
+
+668 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. CC(C1=CC=CS1)NS(=O)(=O)C2=CN=C(Cl)C(Br)=C2
+
+669 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. The SMILES structure corresponding to this IUPAC name is O=C(O)CCCC(CCCC)C(CCC)CCCCC, which represents 4-methyl-8-ethyl-decanoic acid.
+
+670 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 4-[(4-Azetylquinazolin-2-yl)methyl]piperazin-1-yl-(4-ethoxyphenyl)methanone
+
+671 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 4-[[3-(pyridin-4-ylmethyl)-1H-1,2,4-triazol-5-yl]methyl]pyridine
+
+672 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. (6-methanoyl-3-methylidene-4-oxo-2-oxo-3a,4,5,8,9,11a-hexahydrocyclodeca[b]furan-10-yl)methyl ethanoate
+
+673 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. C[S@@](=O)CC(=O)NCC1=C(C=C(C=C1)NC[C@](C2=CC(=CC(=C2)Br)Br)(C(F)(F)F)O)Br)
+
+674 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. CC1=CSC2=NC(=CC(=O)N12)CN3CCC[C@@H](C3)OC4CC(CO4)C
+
+675 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. CC(CCC(=O)NC(=O)C1=CC=C(O1)COC2=CC=C(C=C2)Br)O
+
+676 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The IUPAC name of the molecule is (E)-1-[6-(ethylamino)-2-(hydroxymethyl)-4,5-bis(oxidanyl)oxan-3-yl]oxy-2-[2-(ethylamino)-6-(hydroxymethyl)-4,5-bis(oxidanyl)oxan-3-yl]peroxy-hex-2-ene-1,3,4,6-tetrol.
+
+677 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. CC1=C(N2C(C(=O)[C@@H](SC1)N3CC(N=C3O)C4CCCCO4)C2)C(=O)OC(C)(C)C
+
+678 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. CC(C)C[C@@H](C(=O)N[C@@H](CCSC)C(=O)N)NC(=O)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)[C@@H]3CCC(=O)N3
+
+679 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. (4-fluoranyl-2-nitro-phenyl)-pyrrolidin-1-yl-methanone
+
+680 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. (2R)-N-ethanoyl-2-(2-oxidanylpyrrolidin-1-yl)butanamide
+
+681 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCN(CCO)CCO
+
+682 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. C1=CC=C(C=C1)N2C(=O)/C(=C\C3=C(C(=CC=C3)OCC4=CC=C(C=C4)N(=O)=O)N(=O)=O)/C(=O)N2
+
+683 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. N'-[(Z)-1,3-benzodioxol-5-ylmethylideneamino]-N-(4-methylphenyl)ethanediamide
+
+684 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CCN(CC)C1=CC(=CC=C1)[As](C2=CC=CC(=C2)N(CC)CC)C3=CC=CC(=C3)N(CC)CC
+
+685 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 6-[5-fluoranyl-2-[(1-methylsulfonylpiperidin-4-yl)amino]pyrimidin-4-yl]-2,4,4-trimethyl-3H-isoquinolin-1-one.
+
+686 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. N2-methyl-N2-(4-methylphenyl)-N1-(5,6,7,8-tetrahydroquinolin-5-yl)propane-1,2-diamine
+
+687 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. [(5R)-5-oxidanyl-5-pyridin-3-yl-3-(trifluoromethyl)-4H-pyrazol-1-yl]-pyridin-4-yl-methanone
+
+688 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. COC1=CC=C(C=C1)OCC2=CC3=C(N2)N=CC=C3Cl
+
+689 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CCOC1=CC(=C(C=C1)N2C(=C3C(=NN=C(C3=N2)C4CCN(CC4)CC5=NC=C(C=C5)Cl)C)C)F
+
+690 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The SMILES representation for 3-methylhexanenitrile is CCC(C)C(C)C#N.
+
+691 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C
+
+692 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. tert-butyl 4-[azanyl-(2,6,6-trimethylheptan-2-yloxycarbonylamino)methyl]benzoate
+
+693 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 2-acetamido-3-[4-[1-[2-[3-methoxy-4-[(2-methylphenyl)carbamoylamino]phenyl]ethanoylamino]-3-methyl-butyl]-1,3-oxazol-2-yl]propanoic acid
+
+694 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. CN1CCO[C@H]([C@@H]1C2=CC=CC=C2)CNC3=CC(=NC=C3)C(=O)N
+
+695 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. C[C@H](C(=O)OC)N1C(=O)/C(=C\C2=CC(=C(C(=C2)OC)O)OC)/SC1=O
+
+696 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. C1=CC(NCC1N2C=NC=N2)=C(C#N)C3=NC=CC=C3
+
+697 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. O=C(N1C[C@@H]2N(C1)CCC2)Cc3cccco3
+
+698 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. CCCCCCCCCCCCCCCCCC(=O)O[C@H](COC(=O)CCCCCCCCCCCCCCCC)CCOC(=O)CCCCCCCCCCCCCCCCC(C)CC
+
+699 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: The question asks for the conversion of aSMILES representation to its IUPAC name, but the options提供的 are IUPAC names.请确认问题的意图。
+
+700 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. tert-butyl(but-3-ynoxy)silane
+
+701 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CS(=O)(=O)N1CCCC(C1)NC(=O)CCNC(=O)/C=C/C2=CC=CO2
+
+702 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. methyl 5-[(Z)-(carbamoylhydrazinylidene)methyl]-1-phenyl-pyrazole-4-carboxylate
+
+703 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CCCC1=CC2=C(C=C(C=C2)C(=O)OCC)N(C1=O)CC3=CC=C(C=C3)C4C(=O)NC(=N)S4
+
+704 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. N-cyclopentyl-2-[(3-methylphenyl)amino]quinoline-4-carboxamide
+
+705 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. C1CC(CCN2CCCC2)CCC1CN(Cl)
+
+706 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. The IUPAC name is tetralithium;[[5-(2-azanylidene-6-oxidanylidene-5H-purin-9-yl)-3,4-bis(oxidanyl)oxolan-2-yl]methoxy-oxidanidyl-phosphoryl]oxy-(phosphonatoamino)phosphinate.
+
+707 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. O=C(CN1CCN(CC1)C2=CC=C(C=C2)Cl)CO
+
+708 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC1CCCC(N1C2=NN=C3N2C=C(C=C3)OC4CCC(C5=CC=CC=C45)NC(=O)NC(=CC(=N)C(C)(C)C)[NH2+]C6=CN(N=C6)CCN7CCOCC7)C
+
+709 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. 3-(4-bromophenyl)-6-indazol-2-yl-10-oxa-4-azabicyclo[5.2.0]nonane
+
+710 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. N'-[5,6-bis(fluoranyl)-1H-indol-3-yl]-N-(spiro[2.5]octan-2-ylmethyl)ethanediamide
+
+711 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. COCCC(=O)N1CCN(CC1)CC2CCOC2CN3CCN(CC3)C(=O)CCOC
+
+712 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. C1COCCN1CCCC(=O)N2CC(C2)NC3=CC(=CC(=N3)N4CCOCC4)N5C6=CC=CC=C6N=C5C(F)F
+
+713 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. The IUPAC name for the given SMILES formula is: 12,22-diphenyl-18,28-dioxa-8,12,22-triaza-1,5-diboranonacyclo[21.11.1.15,13.02,21.04,19.06,11.027,35.029,34.017,36]hexatriaconta-2,4(19),6(11),7,9,13(36),14,16,20,23(35),24,26,29,31,33-pentadecaene.
+
+714 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. N-methyl-2-(1-methyl-2-phenyl-imidazol-4-yl)-2-(4-propan-2-ylpiperazin-1-yl)ethanamine
+
+715 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The molecular weight of C16H20N2O2 is 272.34 g/mol.
+
+716 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. 3-(cyclopropylsulfamoyl)-4-methoxy-N-[4-(1,2,3,4-tetrazol-1-yl)phenyl]benzamide
+
+717 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. CC1=C(C=CC=C1F)C(C2CC=CN2S(=O)(=O)N(C)C)N3C(C(=O)NC3=O)C4=NC=CC=N4
+
+718 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. 3-(6-bromanyl-4-oxidanylidene-quinazolin-3-yl)-N-[3-(4-phenylpiperazin-1-yl)propyl]propanamide
+
+719 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. 3-methyl-N-(2H-indazol-3-yl)-1-(4-(trifluoromethyl)phenyl)-1H-pyrazole-4-carboxamide
+
+720 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CN1CCNCC1C2=NOC(=N2)C3=CC(=C(C=C3)F)S(=O)(=O)NCC=C
+
+721 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. Methyl 2,2-dimethyl-3-(2-oxopiperidin-3-yl)propanoate
+
+722 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC(=O)OCCC1(C2=C(CCC13CCCC3)C=CC(=C2)OC)O
+
+723 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. C1=CC(=CC=C1C2=CC(=C(C=C2)F)Cl)F
+
+724 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. C1C=C(C2=C1OC3=CC=CC=C32)C(=NC4=NC(=N4)C5=C6C7=CC=CC=C7SC6=CC(=C5)N8C9=C(C1=CC=CC=C18)C1=C(C=C9)C2=CC=CC=C2S1)C1=CC=CC=C1
+
+725 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. CC1=CC=C(C=C1)S(=O)(=O)N[C@H](CC2=CC=CC=C2)C(=O)NC(C3=CC=CC=C3)C4=CC=C(C=C4)[C@H]5O[C@H](C[C@H](O5)C6=CC=C(C=C6)CO)CN7CCC(CC7)(C8=CC=C(C=C8)Cl)O
+
+726 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. C1CC(=O)N(C(=S)C1)C2=CC=C(C=C2)S(=O)(=O)NC3=CC=C(C=C3)Cl
+
+727 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. CC.CC_C1=CC=C2C(=C1)C=CC3=C2N=CC3[NH+]
+
+728 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 6-(cyclopropylamino)-N,N-bis(prop-2-enyl)pyridine-2-carboxamide
+
+729 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. COC1=CC(=C(C=C1)/C(=C/C2=CC(=CC=C2)[N+](=O)[O-])/C(=O)O)OC
+
+730 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. CC1=CC(=NC(N1)C)NC2=CC(=C(C=C2)NC(=O)C3=CC(=CC=C3F)OC)C(=O)NC
+
+731 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC(=O)C1=CC=CC(=C1)C[N+](C)(C)C.[I-]
+
+732 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC[C@H](O)[C@@H](C)C(C)C[N+](=O)[O-]
+
+733 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. [(5S,7R)-17-[(E,2R)-7-ethoxy-6-methyl-7-hydroxy-hept-5-en-2-yl]-10,13-dimethyl-spiro[1,2,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydrocyclopenta[a]phenanthrene-3,2'-1,3-dioxolane]-7-yl] benzeneacetate
+
+734 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. tert-butyl N-[7-[5,5-bis(hydroxymethyl)oxolan-2-yl]pyrrolo[2,1-f][1,2,4]triazin-4-yl]carbamate; propane-2,2-diol
+
+735 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. 5,6-bis(chloromethyl)-7-methoxy-9a-methyl-1,2-dihydro-3H-fluoren-3-one
+
+736 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CCOC(=O)CCC1=C2C(=C3C(=C1)C=CO3)OCCNCCSS[C@@H]4C=C[C@]5(O2)[C@]6([C@H]7[C@@H]8C=C[C@H]([C@@]7(C=C[C@H]8[C@@]([C@@H]6O)([C@]4(O5)CO)O)CO)O)O
+
+737 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. CC(C1=C(N=CO1)C2=CC=C(C=C2)Br)OCC3=CC=CC(=C3)OC(=O)C
+
+738 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C=CCN1C(=O)C2=C(C=CC(=C2)Cl)N=C1SCC3=CC=CC=C3F
+
+739 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. 2-[(2-fluoranyl-4-iodanyl-phenyl)amino]-4-imidazo[1,2-a]pyridin-8-yloxy-1-methyl-6-oxidanylidene-pyridine-3-carboxamide
+
+740 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. 7-methoxypyrazolo[1,5-a]pyridine-6-carboxylic acid
+
+741 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The SMILES equivalent for the IUPAC name 2-(4-oxidanylidene-3H-quinazolin-7-yl)-2-phenyl-ethanamide is O=C(Nc1ccc2c(c1)nc(nc2=O)N)C(c1ccccc1)C.
+
+742 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. tert-butyl N-(5-but-1-ynyl-2-methyl-phenyl)carbamate
+
+743 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. C[C@@H](C1=CC=CC=C1)N(CC2=CC=CC=C2)[C@H](CCOCC3=CC=CC=C3)CC(=O)O
+
+744 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. N-[(Z)-[3-bromo-4-[2-(dimethylamino)-2-oxoethyl]phenoxy]-5-methoxyphenyl]methaniminecyclopropanecarboxamide
+
+745 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. The CAS of the chemical is 66121-01-3.
+
+746 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC(C)C1=CC=C(C=C1)C(=O)OCC(=O)C2=CC=CC=C2
+
+747 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. O=C(N[C@H]1CSSC1=O)COc2ccc(cc2)C#N
+
+748 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. (phenylmethyl) 4-(1-methoxy-4-methyl-1-oxidanylidene-pentan-2-yl)-3-oxidanylidene-2-(phenylmethyl)piperazine-1-carboxylate
+
+749 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. C[C@@]12CCC[C@H]([C@H]1CC[C@@]34[C@H]2CC[C@@H](C3)C(=C)[C@H]4O)(C)C(=O)OC
+
+750 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 4-(4-Hydroxy-3,5-diphenylphenyl)sulfetyl-2,6-diphenylphenol
+
+751 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. C(C)(N)CCC1=SC=C(S1)C(CCCOC2=CC(=CC=C2)SC)=O.CCOP(=O)(O)O
+
+752 Correct: True | OUTPUT: A | ANSWER: A | chemgpt: A. The CAS number is 503538-68-9.
+
+753 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. CCCCCCC1=CC=C(C=C1)C(=O)OOC(=O)OCCC(C)(OC)OC
+
+754 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. C[C@]12CC[C@]3(CCCC3[C@H]1CCC4[C@]2(CCC5[C@@]4(CCC(C5(C)C)C6=CC[C@@H](CC6)C(=O)OCC7=CC=CC=C7)C)C)N
+
+755 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. CCC1=C(C=NN1CC2=CC=CC=C2)C(=O)NC3=NC(=CC3=C)C(F)(F)F
+
+756 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. CCC(C)C[SiH2](C)C
+
+757 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. CC1(CCCC(N1OC(C(=O)C2=CC=C(C=C2)OC)(C)C)C)C
+
+758 Correct: False | OUTPUT: C | ANSWER: D | chemgpt: C. CC1=CC=C(C=C1F)NC(=O)CCN(CC2=CC(=CC=C2)S(=O)(=O)C)
+
+759 Correct: False | OUTPUT: A | ANSWER: B | chemgpt: A. CC(C)(C)C1=CC(=C(C=C1)OCC2=CC=CC=C2CN)C3=C(N=CC=N3)N
+
+760 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. 2-cyclopropyl-1-[(3S)-3-methoxy-1-oxa-9-azaspiro[5.5]undecan-9-yl]propanone
+
+761 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC(C)C1=C(N(C(=N1)CCCOC(=O)N)CC(=O)C)SC2=CC(=CC(=C2)F)F
+
+762 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 2-[(4-bromanyl-2-methyl-phenoxy)methyl]quinoline
+
+763 Correct: False | OUTPUT: A | ANSWER: D | chemgpt: A. CN(CCCCCCOC1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC)CC4=CC=CC=C4
+
+764 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. CN1C=C(C=N1)O[C@@H]2CN(C[C@H]2O)C3=CC(=CN=C3)Br
+
+765 Correct: False | OUTPUT: D | ANSWER: B | chemgpt: D. CCCC(CCCC1=CC=NC=C1)C=O
+
+766 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: D. CC1=COC(=N1)CCCCCOC.CC1=COC(=N1)CCCCOC.CC1=COC(=N1)CCCCOCCOC.CC1=COC(=N1)CCCOC.CC1=COC(=N1)CCCOCCCOC.CC1=COC(=N1)CCCOCCOC.CC1=COC(=N1)CCOC.CC1=COC(=N1)CCOCCCOC.CC1=COC(=N1)CCOCCOC.CC1=COC(=N1)COC.CC1=COC(=N1)COCCCCOC.CC1=COC(=N1)COCCCOC.CC1=COC(=N1)COCCOC
+
+767 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. (3,4-dichlorophenyl)-(2,4-dimethylpiperazin-1-yl)methanone
+
+768 Correct: False | OUTPUT: B | ANSWER: C | chemgpt: B. CC1=C(C(=CC=C1)C(=O)N2[C@@H](CC[C@H]2N)C3=CC=CC=C3)FCl
+
+769 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C1=CC=C2C(=C1)C=CC3=C2C4=C(O3)C5=C(C6=CC=CC=C64)C7=CC=CC=C7N5C8=CC9=NC=C(N=C9C=C8)Cl
+
+770 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. CC(C)(C)OC(=O)N1CC(C(C2(CCCNC2)CO)O)CCC(C1)O
+
+771 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. C[C@@H](CCC1=CC=CC=C1)NC(=O)CN2C(=O)C=CC(=N2)C3=C(C=C(C=C3)F)OC
+
+772 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. CN(C)CCN(C)CC1=CC(=C(C=C1)N)C(=O)N
+
+773 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CC(C)(C)OC(=O)N[C@H]1CCN(C1)C2=NC3=CC(=NN3C=C2)C4CCCCN4
+
+774 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. 1-chloranyl-2,3,5,6-tetradeuterio-4-[2,2,2-tris(chloranyl)-1-(4-chloranyl-2,3,5,6-tetradeuterio-phenyl)ethyl]benzene
+
+775 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CC1=C(C=CC(=C1)NC(=O)C2=CC(=CC=C2)S(=O)(=O)CC3CCC(C3)(F)F)F
+
+776 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. Ethyl 2-[[[(2R,3S,4S,5R)-5-acetamido-3,4,6-triacetyloxy-oxan-2-yl]methoxy-phenoxy-phosphoryl]amino]-4-methyl-pentanoate
+
+777 Correct: False | OUTPUT: C | ANSWER: B | chemgpt: C. C1=C(C=NC=N1)NCCC2=NC=C3C=CC(=N3)N2Br
+
+778 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. O=C2N(Cc1cc(Cl)ccc1C)C(=O)C3(O)C(=O)N(CC4)CC3(C)C2(C)S4C5=CCCC5
+
+779 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CCOC(=O)C1=C(CN(CC1)C(=O)OC(C)(C)C)C2=NC=C(C=C2)[N+](=O)[O-]
+
+780 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. COC1=C(C=C(C=C1)[C@H](C2=C(N3N=C(NS3)C2)O)N4CCC(CC4)CC5=CC=CC=C5)OC
+
+781 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. CCS(=O)(=O)CCNC(=O)C1=C(C(=CC=C1)Br)Cl
+
+782 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B
+
+783 Correct: True | OUTPUT: B | ANSWER: B | chemgpt: B. The CAS number for (R)-SITCP is 856407-37-9.
+
+784 Correct: False | OUTPUT: B | ANSWER: A | chemgpt: B. CC(C)(C)C1=CC2=C(C=C1)N(C3=C2C4=NC=CC=C4C5=CC=CC=C5)C6=C(C(=C(C=C6)N(C7=CC=CC=C7)C8=CC=CC=C8)[N+]#[C-])C#N
+
+785 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C[C@H]1CCCCN1C(=O)CSC2=NN=C(N2CC(C)C)C3=CC=C(C=C3)OC
+
+786 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. N-[2-[(5-ethylthiophen-2-yl)sulfonylamino]ethyl]-N-[(4-methylphenyl)methyl]ethanamide
+
+787 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C1C(CC1(F)F)C2=CC(=NO2)N
+
+788 Correct: False | OUTPUT: A | ANSWER: C | chemgpt: A. C1=CC=C(C(=C1)C(F)(F)F)OC2=CC=NC(C=C2)CNC(=O)NCCCC(=O)O
+
+789 Correct: False | OUTPUT: D | ANSWER: C | chemgpt: The correct answer is D. CCCCC1=C(C=CN=C1)C(=O)N(C2=CC=CC3=CC=NC=C32)C(=N)N.
+
+790 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. CCS(=O)(=O)C1=C(N=CC(=C1)C2=CN3C(=NC(=N3)C(F)(F)F)N=C2)C4=CC=C(C=C4)OC(F)(F)F
+
+791 Correct: False | OUTPUT: B | ANSWER: D | chemgpt: B. C1=CC=C(C=C1)NCCOC(=O)C2=CC(=C(C(=C2)Cl)S(=O)(=O)N3CCCC3)NC4=NC=NC(=N4)N
+
+792 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. C1C[C@H](CCNC1)CC2=NN=C(C=C2)C3=CN=C(C=C3)N
+
+793 Correct: True | OUTPUT: C | ANSWER: C | chemgpt: C. C1=CC=C(C=C1)C2=CC=CC3=C2C=CC=C3C4=NC(=NC(=N4)C5=CC=CC=C7N=C6C8=CC=CC=C8)C9=C1C(=CC=C9)OC2=CC3=CC=CC=C3C=C21
+
+794 Correct: False | OUTPUT: D | ANSWER: A | chemgpt: D. CC(CNC(=O)C1=NC(=O)C=C(O)N1)N
+
+795 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: sorry, but without the Chinese names associated with the options, I can't provide the Chinese name for the CAS number you've given. Could you clarify?
+
+796 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. Ethyl 2-[3-[(Z)-N-[(R)-tert-butylsulfinyl]-C-methyl-carbonimidoyl]phenyl]-2-fluoranyl-ethanoate
+
+797 Correct: True | OUTPUT: D | ANSWER: D | chemgpt: D. N-[2,6-Dichlorophenyl]-4-[3,4-dioxopyrrolidin-1-yl]benzenesulfonamide
+
+798 Correct: False | OUTPUT: C | ANSWER: A | chemgpt: C. 2-[(dimethylamino)methyl]-N-(7,7-dimethyl-2-oxabicyclo[3.2.0]heptan-3-yl)-N-methyl-5-methylthiophen-2-yl-pyrimidin-4-amine
+#####################
+#####################
+Overall Accuracy = 494/799 = 0.618

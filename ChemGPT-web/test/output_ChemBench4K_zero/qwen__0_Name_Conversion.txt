@@ -1,0 +1,1611 @@
+
+0 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+1 Correct: False | OUTPUT: A | ANSWER: D | qwen: A. 3,4-bis(fluoromethyl)pyrrolidine-2,5-dione
+
+2 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 7-Oxidanyloct-2-enoic acid
+
+3 Correct: False | OUTPUT: A | ANSWER: C | qwen: A
+
+4 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+5 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 5-methyl-1-phenyl-N-[2-(2,4,5-trimethylimidazol-1-yl)pyrimidin-5-yl]pyrazole-4-carboxamide
+
+6 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. C1COC2=C(O1)C=CC(=C2)NC3=NN=C(C=C3)NC(=O)NC4=CC=CC=C4
+
+7 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+8 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. CC1=CC(=C(C=C1)OC)NC(=O)/C=C/C2=CC=NC=C2
+
+9 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+10 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+11 Correct: False | OUTPUT: B | ANSWER: C | qwen: B
+
+12 Correct: False | OUTPUT: C | ANSWER: A | qwen: C. 1-[cyclohexyl(phenylmethyl)phosphoryl]cyclohexan-1-one
+
+13 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 2-[(2-methylphenyl)methylsulfanyl]-N-[(Z)-(3,4,5-trimethoxyphenyl)methylideneamino]ethanamide
+
+14 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+15 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. Methyl 6-methylthio-5-(tetrahydrofuran-3-yloxy)pyridine-3-carboxylate
+
+16 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+17 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. CCOC(=O)C1=C(C(=C2N1CC(C=C2C)SC)C#N)SCC(=O)C3=CC=C(C=C3)Cl
+
+18 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+19 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 1-Fluoro-4-(2-phenylethoxy)benzene
+
+20 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. (9R)-5-[(2R)-2-(trifluoromethyl)pentyl]-1,6,8-triazatricyclo[7.3.1.02,7]trideca-3,5-diene
+
+21 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+22 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+23 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. O=C(OCC(=O)N1C[C@@H](C[C@@H](C1)C)C)c2cc1cccc(c1nc2CCC)C
+
+24 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+25 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+26 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. [H-].[H-].[H-].[H-].CC(Cl)(Cl)Cl.[Ti+4]
+
+27 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+28 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC1=CC(=CC=C1)/C(=C/CN)/C2=CC=CC=C2
+
+29 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+30 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+31 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+32 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CCN(CC)C1=C(C(=NO1)C2=CC=CC=C2)CN(CC3=CC=CO3)C[C@H](COCC)O
+
+33 Correct: False | OUTPUT: C | ANSWER: B | qwen: C
+
+34 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. C1CC(=O)CCC1C(=O)N2CCSC2C3=CC=C(C=C3)Br
+
+35 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+36 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+37 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. C1=CC(=C(C=C1F)F)OCC(=O)NC2=C(C=C(C=C2)Br)F
+
+38 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. (3R)-3-ethyl-3-[4-[[4-[[4-(4-methylsulfonylphenyl)-1,6-dihydro-2H-pyrrol-1-yl]methyl]phenyl]ethoxy]phenyl]hex-4-ynoic acid
+
+39 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. N1,N1-diethyl-2-methylbenzene-1,4-diamine
+
+40 Correct: False | OUTPUT: D | ANSWER: B | qwen: D
+
+41 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. C1(C(C)(C)C)C=CC=CN=C1
+
+42 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. C1=CC=C(C(=C1)NN)S(F)(F)(F)(F)F
+
+43 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+44 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CCOC1=C(C=C(C=C1)/C=[NH+]/N=C(N)N)OCC
+
+45 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. [(1R,2E,6S)-6-[(4-ethanoylphenyl)methylcarbamoyl]-6-oxidanyl-cyclooct-2-en-1-yl] [2,3,4,5,6-pentakis(fluoranyl)phenyl] carbonate
+
+46 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+47 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+48 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 2,2,2-trifluoroacetic acid
+
+49 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. N-[(2S)-4-methyl-1-hydroxy-1-[(3-hydroxysulfonyl-1-butylsulfonyl-azepan-4-yl)amino]pentan-2-yl]-1-naphthoquinone-2-carboxamide
+
+50 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+51 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+52 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 2,7-bis[3,5-bis(trifluoromethyl)phenyl]-9-[3-(4,6-diphenyl-1,3,5-triazin-2-yl)-4-(4-fluorophenyl)phenyl]carbazole
+
+53 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+54 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. [(2R,4S,5aR,6S)-6-(oxan-2-yl)-3,4,5,5a,7,8,9,10-octahydropyrido[2,3-d][1,4]oxazepin-9-yl]-[(1R,3S)-3-oxabicyclo[3.2.0]heptan-2-yl]methanone
+
+55 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC1=NN(C(=C1/C=C/C(=O)OCCCCN2C(=O)C3=CC=CC=C3C2=O)Cl)CC4=C(C=C(C=C4)Cl)Cl
+
+56 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+57 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+58 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+59 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+60 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. The SMILES representation for 2-diazanylidene-4-methylpentan-1-imine is CC(C)CC(=NN)C=N.
+
+61 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+62 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. COC(=O)[C@H]([C@H]([C@H]([C@@H](C(=O)O)O)O)O)O
+
+63 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. COC1=CC=C(C=C/C=C/C=C/C=C/C2=CC=C(S2)OC)S1
+
+64 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. C1CN(CCN1CC2=CC=C(C=C2)OCO3)C(=O)C4=CC5=C(C=C4)N=C(N5)C6=CC=CC=C6
+
+65 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+66 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+67 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 3-[4-[(4-cyanophenyl)methyl]-1,4-diazepan-1-yl]-N-(3-nitrophenyl)propanamide
+
+68 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. (phenylmethyl) 4-[1-[tert-butyl(dimethyl)silyl]-4-oxidanylidene-azetidin-2-yl]-3-oxidanylidene-butanoate
+
+69 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CC(CC(=O)NC(C(C)NC)C1=CC=CC=C1)F
+
+70 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. CN(C1CCCCC1)S(=O)(=O)C2=CC(=C(N=C2)N)[N+](=O)[O-]
+
+71 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+72 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+73 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. C1CC2=CC=CC=C2CC1C(=O)OCC3=CC=CC=C3
+
+74 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. The CAS number is 94041-16-4.
+
+75 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 4-bromanyl-1-methyl-3H-imidazo[4,5-c]pyridin-2-one
+
+76 Correct: False | OUTPUT: C | ANSWER: A | qwen: C. CCC1=CC(=NC=N1)NC(C)C(=O)CC(C)C
+
+77 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. (9Z,12Z,15Z)-1-[3-[2-(dimethylamino)ethyl]-5-methoxyindol-1-yl]octadeca-9,12,15-trien-1-one
+
+78 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CCOC1=C(C=C(C=C1)I)N2C(=O)C=C3C(=C2N)C(=O)NC3=O
+
+79 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+80 Correct: False | OUTPUT: C | ANSWER: A | qwen: C. C1CNCCC1S(=O)(=O)CH2F
+
+81 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. CCCCCCCCCCCC(CCCCCCCCC[C@@H]1C[C@H]1CCCCCCCC)N
+
+82 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+83 Correct: True | OUTPUT: D | ANSWER: D | qwen: D.
+
+84 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CC(C)N(C)CC(C)N(C)CCOC1=CC=CC(=C1)OC.CO(=O)O
+
+85 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+86 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. C1C[C@H](N(C1)C(=O)C2=CC(=C(C=C2)F)F)C3=NC(=NO3)C4=C(C=C(C=C4)F)F
+
+87 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. CC1=CC=C(C=C1)N(C)OC(=O)CN(C)C(=O)CSC2=NN=C(S2)NC3=CC=C(C=C3)OC
+
+88 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. C1=CC=C(C=C1)C2=CC(=CC(=C2)N3C4=CC=CC=C4C5=CC6=CC7=C(C=C6C=C5)C8=CC=C(C=C38)O7)C9=CC=CC=C9
+
+89 Correct: False | OUTPUT: T | ANSWER: B | qwen: The correct answer is not provided in the options you've listed since there seems to be a confusion in the question setup. The SMILES (Simplified Molecular Input Line Entry System) format and the IUPAC names are related but distinct representations of chemical structures. The given IUPAC name does not correspond to any of the provided SMILES strings, and none of the options A, B, C, or D represent the given IUPAC name.
+
+To clarify, to convert an IUPAC name to a SMILES string, one would typically use a software tool or a function in a chemistry library. The process involves understanding the hierarchical structure implied by the IUPAC name and translating it into a string format that encodes the connectivity of atoms and bonds, as well as atom types.
+
+For assistance with specific SMILES conversion or any other chemistry inquiries, feel free to ask, and I'll be glad to help within the context of my capabilities.
+
+90 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+91 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. C1=CC=C2N=CC=NN2C=C1C3=CC=C(C=C3)C=O
+
+92 Correct: False | OUTPUT: C | ANSWER: D | qwen: C. C1=CC=C(C=C1)C2=CC(=CC=C2OC)CNCC(F)F
+
+93 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. CCNC(CC1=C(C=CS1)Cl)CSC2CCCC2
+
+94 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+95 Correct: False | OUTPUT: C | ANSWER: D | qwen: C
+
+96 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. C1CC(=O)NC(=O)C1N2C(=O)C3=C(C2=O)C(=CC=C3)OCC(=O)N4CCC(CC4)C5CCNCC5.C(=O)(C(F)(F)F)O
+
+97 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. CC1=CC=C(C=C1)C(=O)N[C@@H](C)C(=O)NC2=NC3=CC=CC=C3N2
+
+98 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+99 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. CC1=CC2=C(S=C(N2)C3=CC=C(C=C3)N=CC4=CC(=C(C=C4)O)OC)C(C=C1)=COC
+
+100 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C2CC(C(C(C2O)Cl)N)Cl
+
+101 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+102 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. [S(R)]-N-[(1S)-2-(二苯基膦)-1-[2-(二环己基膦)苯基]乙基]-2-叔丁基亚磺酰胺
+
+103 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. (S)-(6,6'-Dimethoxybiphenyl-2,2'-diyl)bis(diisopropylphosphine)
+
+104 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+105 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+106 Correct: False | OUTPUT: A | ANSWER: D | qwen: A
+
+107 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC1=NN=C(O1)NC2CC(OC3=C2C=CC(=C3)F)(C)C
+
+108 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. CC(C)OCOC1=CC=C(NCCCN)C(C)=C1
+
+109 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. CC(C(C)C)NC(=O)NCCN1CCC(=C2C3=CC=CC=C3CCC4=CC=CC=C42)CC1
+
+110 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+111 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. C1CCC(C(C1)N)NC(=O)C2=CC=CN2C3CCC3
+
+112 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+113 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)OC3=CC(=C(C=C3Br)OC4=CC=C(C=C4)C(C)(C)C5=CC=C(C=C5)O)Br
+
+114 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+115 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 2,9-Bis(2,4,6-triisopropylphenyl)-1,10-phenanthroline
+
+116 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+117 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+118 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. (E)-2-(3-methylphenyl)-3-(4-nitrophenyl)prop-2-enenitrile
+
+119 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. [(2R)-2-(aminomethyl)pyrrolidin-1-yl]-(2-bromanyl-5-fluoranyl-phenyl)methanone
+
+120 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+121 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. 3-bromo-1,5-pentanediol
+
+122 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. [CH-]=CC=[C-]C1=NN(C2=CC=CC=C21)CC3=CC=CC=C3.[U+2]
+
+123 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. C[C@@H]1CN(CCO1)C2=CC=NC(N2)C(C)C
+
+124 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. CC(=O)NCC1(CCCCC1)CN
+
+125 Correct: False | OUTPUT: A | ANSWER: D | qwen: A. N1C(C(C2=CC=CC=C2N1C)=O)C(C)(C)N
+
+126 Correct: False | OUTPUT: B | ANSWER: D | qwen: B
+
+127 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC(C)N1C[C@@H](CC1=O)C(=O)N2CCC[C@@H](C2)CCC(=O)O
+
+128 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+129 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+130 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CC(=NC)C1=CC=C(C=C1)OC2=CC=CC=C2NC(=O)C(=C(\C(F)F)F)/N/C=NC
+
+131 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+132 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+133 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 6-[2-[3-[3,3-dimethyl-1-(3-sulfopropyl)pyrrolo[2,3-b]pyridin-2-ylidene]prop-1-enyl]-3,3-dimethyl-pyrrolo[2,3-b]pyridin-7-ium-7-yl]hexanoic acid
+
+134 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. CC(C)CNC(=O)C1CCN(CC1)C2=CNC3=CC=CC=C23
+
+135 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+136 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+137 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. 5-[4-(3-methylphenyl)piperazin-1-yl]-2,3-dihydro-1H-indol-4-one
+
+138 Correct: False | OUTPUT: A | ANSWER: D | qwen: A
+
+139 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+140 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. C1C=CC(=C(C1F)/C=N/O)Cl
+
+141 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. O=C(O)CCC1=CC=C(OCC2=CC=C(CCN3CCC4(CC3OC5=CC=CC=N5)OCC4)C=C2)C=C1
+
+142 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. The SMILES representation for 2-(2-chlorophenyl)-N-[4-[(6-methyl-2-piperidin-1-yl-pyrimidin-4-yl)amino]phenyl]ethanamide is CC1=CC(=NC(=N1)N2CCCCC2)NC3=CC=C(C=C3)NC(=O)CC4=CC=CC=C4Cl.
+
+143 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+144 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+145 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+146 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CC1=CC=C2C(=CC(=O)OC2=C1)C(=O)OC(C)C
+
+147 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CCCC1=C(C=C(S1)C(=O)N(C)CCNC)CC
+
+148 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. CCN1C(=O)C(NN=C(C2=CC=CC=C2)C3=CC=C(C)C=C3)C2=CC=CC=C21
+
+149 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. (4S)-1'-[7-[2,3-bis(chloranyl)phenyl]-6-methyl-pyrazolo[1,5-a]pyrazin-4-yl]spiro[4,6-dihydrocyclopenta[d][1,3]thiazole-5,4'-piperidine]-4-amine;hydrochloride
+
+150 Correct: False | OUTPUT: A | ANSWER: B | qwen: A
+
+151 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+152 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. CCCCCCCCCCCCCCCCCCCC(=O)NCC[NH3+]
+
+153 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+154 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. CN1C2=CC=CC=C2C(=O)C3=C1C(=CC=C3)NC(=O)CCC(=O)NC4=CC=CC5=C4N(C6=CC=CC=C6C5=O)C
+
+155 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CNC1CCCN(C1)CC(CF)O
+
+156 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. CCCCCCOC1=CC=C(C=C1)C2=CC(=O)(C=C2)C3=CC(N=C(N3)N)C4=CN(C)CC=C4
+
+157 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. C1=CC=C(C=C1)NCC(=O)CCC2=NC3=NC(=O)C(=N3)SCC(=O)NCC4=CC=CO4C2=CC=C(F)C=C5
+
+158 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+159 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+160 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. O=C(C1CCCCC1)NC(NC(=O)CC2=CC=C(C=C2F)F)=O
+
+161 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CCCCCCCCCCOC(=O)C[N+](C)(CCCN=C(C12CC3CC(C1)CC(C3)C2)O)CC.[O-]Cl
+
+162 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 2-[4-(1,3-benzothiazol-2-ylmethyl)piperazin-1-yl]-N-(2-phenoxyethyl)ethanamide
+
+163 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. CC1=CC=C(C=C1)CSC2=NN=C3N2C4=CC=CC=C4S3
+
+164 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. COC(=O)CN1C(SC(=O)N(C1=S)C2=CC=C(C=C2)Cl)C3=CC(C(=C(C=C3)Cl)Cl)=O
+
+165 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. C1CNC2=CC=NC3=C(SC1)C=CC=C32
+
+166 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+167 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CC.CNC1=NC=C(C2=C1SC(=C2)C3=C(C(=CC=C3)N)SN)C4=CN(N=C4)C5CCC(CC5)O
+
+168 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. methyl 2-[[1-(naphthalen-1-ylmethyl)-4-[2-[(5-nitropyridin-2-yl)amino]ethyl]imidazol-2-yl]sulfanylmethyl]benzoate
+
+169 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. C/C(=C\C1=CC=CC=C1)/C=C\2/C(=O)N(C(=S)S2)CCC(=O)NC3=CC(=C(C=C3)C(=O)O)O
+
+170 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. Ethyl 2-(1-ethoxyethylideneamino)benzoic acid
+
+171 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+172 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+173 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+174 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. C=CCNC(=O)/C=C/C1=CC=C(O1)Br
+
+175 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. O=C1NC(=CC2=CC=NC=C2)C3=C1SC=C3C4N(C)CCC4
+
+176 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. Methyl 2-[hydroxy(oxidanyl)amino]-2-oxidanyl-ethanoate
+
+177 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+178 Correct: False | OUTPUT: C | ANSWER: B | qwen: C
+
+179 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+180 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. N-[(2R)-1-oxidanylidene-1-[(2-hydroxypyridin-4-yl)methylamino]ethan-2-yl]furan-3-carboxamide
+
+181 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. 2-[(4R)-4-ethyl-2,5-bis(oxidanylidene)-4-phenyl-imidazolidin-1-yl]ethanenitrile
+
+182 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+183 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+184 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. 1-(4-fluorophenyl)-2-methyl-6-oxo-N-[4-[(7-butyl-1,5-naphthyridin-4-yl)oxy]phenyl]imidazole-5-carboxamide
+
+185 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+186 Correct: False | OUTPUT: N | ANSWER: C | qwen: N-[(Z)-2-[[(Z)-1-[4-[2,2-bis(hydroxanyl)ethyl]phenyl]prop-2-enyl]-[[3-ethyl-4-[1-(4-methylpiperazin-1-yl)but-1-enyl]phenyl]amino]amino]ethenyl]prop-2-en-1-one
+
+187 Correct: False | OUTPUT: B | ANSWER: D | qwen: B
+
+188 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+189 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. C[C@H](O)NC(=N)C1=NC2=CC(=CC=C2N1)Cl
+
+190 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. (1R)-(2'-(Dimethylamino)-5,5',6,6',7,7',8,8'-octahydro-[1,1'-binaphthyl]-2-yl)diethylphosphine oxide
+
+191 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+192 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. CC1=CC=C(C=C1)S(=O)(=O)N2C[C@H]3C4=CC=CCC=C4CCN3C(=O)C2
+
+193 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. (4R,5S)-2-(5-溴吡啶-2-基)-4,5-二苯基-4,5-二氢恶唑
+
+194 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. C1=CC=C(C=C1)S(=O)(=O)NC2=CC=C(C=C2)C(=O)N3CCOCC3Br
+
+195 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. N-[(5-ethyl-2-methyl-pyridazin-3-yl)methyl]-2-methyl-prop-2-en-1-amine
+
+196 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 2,2,2-Trifluoroacetic acid 3-[4-([1,2,4]triazolo[3,4-b][1,3,4]thiadiazol-6-yl)pyridin-1-ium-1-yl]propyl ester
+
+197 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. CC1=NC(=CC=N1CC(=O)NNC(=O)CCN2C(=O)C3(CCCCC3)NC2=O)C
+
+198 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+199 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. C10H7F3O2
+
+200 Correct: False | OUTPUT: A | ANSWER: D | qwen: A. CC1=CC(=C(C=C1)O)C2(C3=CC=CC=C3C(=O)O2)C4=CC=CC=C4
+
+201 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. C1CCC(CC1)OC(C[C@H](CN2CCCC2)O)
+
+202 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 5-[bis(furan-2-yl)methyl]furan-2-carbaldehyde.
+
+203 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 1-[3-(aminomethyl)-3-methyl-pyrrolidin-1-yl]-2-(2-methoxyphenyl)-2-methyl-propan-1-one;hydrochloride
+
+204 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. O=C(OCC(=O)Nc1ccccc1S(=O)(=O)Nc2ccccc2OC)Cc3ccccc3
+
+205 Correct: False | OUTPUT: C | ANSWER: B | qwen: C
+
+206 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+207 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. CC.C1=CSC=C1CCS
+
+208 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. CC(C1=CC=C(C=C1)Cl)N2CCN(CC2)C(=O)CCC3CCNCC3.Cl.Cl
+
+209 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. C1CN(C[C@H]([C@@H]1F)O)C2=CC(=NC=C2)NC3=C4C(=C(C=C3)C5=CN=C6N5C=CN=C6)CNC4=O
+
+210 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. 6-bromanyl-4-oxidanyl-spiro[3,5-dihydrochromene-2,4'-piperidine]-1'-carboxylic acid
+
+211 Correct: False | OUTPUT: B | ANSWER: C | qwen: B
+
+212 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+213 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. C1=CSC2=CC=CN=C1N=S2
+
+214 Correct: False | OUTPUT: D | ANSWER: B | qwen: D
+
+215 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+216 Correct: False | OUTPUT: A | ANSWER: D | qwen: A
+
+217 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. C1C[C@H](O[C@H]1CN)C(=O)N(C2CCN(CC2)CC3=CC=C(C=C3)F)O.Cl.Cl
+
+218 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+219 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+220 Correct: False | OUTPUT: N | ANSWER: A | qwen: None of the provided options A, B, C, or D match the SMILES notation for the IUPAC named compound you've given. The correct SMILES notation is:
+
+```
+COC1C(C(C(C(O1)CS(=O)(=O)OC2=CC=C(C=C2)C3=CC(/C(=C\4/C(C(=O)N4C5=CC=C(C=C5)F)CCC(C6=CC=C(C=C6)F)O)/C=C3)O)O)O)O
+```
+
+So, there is no correct answer within the provided choices.
+
+221 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. NC12CC3CC(CC(C3)C1)C2Cl
+
+222 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. CC(C)=C1N=CN(C=N1)N(C)C(=S)N(C2=CC=CC=C2)
+
+223 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. C1(CCCC)=C(C#CC(O[P+]1(C)O)C)/C=C\C#CC
+
+224 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. C1=CC=C(C=C1)C[C@H]2[C@H](O2)CO
+
+225 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+226 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+227 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+228 Correct: False | OUTPUT: A | ANSWER: D | qwen: A. CCC1=C(NN=CS1)NS(=O)(=O)CCC(=O)OC
+
+229 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. (2S)-2-[(4S)-4,5-二氢-4-(苯基甲基)-2-噁唑基]-1-(二苯基膦基)哌啶
+
+230 Correct: False | OUTPUT: B | ANSWER: C | qwen: B
+
+231 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 2-methyl-5-[(3-methylcyclohexyl)sulfanylmethyl]furan-3-carbohydrazide
+
+232 Correct: False | OUTPUT: C | ANSWER: D | qwen: C
+
+233 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. CC(C)CCNCCC(=O)C1=CC=NC=C1
+
+234 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. (S)-2,2',3,3'-四氢-6,6'-二(1-萘基)-1,1'-螺二[1H-茚]-7,7'二醇
+
+235 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+236 Correct: False | OUTPUT: D | ANSWER: B | qwen: D
+
+237 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+238 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+239 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. CCC(C)NC1=NN=C(C=C1)NC(=O)COC2=C(C=C(C=C2)Cl)Cl
+
+240 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+241 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+242 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+243 Correct: False | OUTPUT: C | ANSWER: B | qwen: C
+
+244 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 1,2,3,5-tetrahydroquinoline;2-azaadamantane;1-(4-chloranyl-2-methylphenyl)piperazine;styrene;1-(1,3-diazepan-1-yl)hexanone;2,3-dihydro-1H-indane;2,4-dimethylmorpholine;4-ethynylmorpholine;4-(2-fluoranylphenyl)piperidine;4-methylsulfanylpiperidine;1-(cyclohexoxymethyl)piperidine;1-(2-phenylbutyl)piperidine;1-(phenylmethanesulfonyl)piperidine;1-(phenylmethyl)pyrazine;1-ethylpiperidine;1-piperazin-2-yl-1-piperidin-2-yl-ethanone;morpholine;1-hexylpiperazine.
+
+245 Correct: False | OUTPUT: A | ANSWER: C | qwen: A
+
+246 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. C1=CC2=C(C=C1)C=CC(=C2)C(=C\C3=CC=CC=C3)/C4=CC=CC=C4
+
+247 Correct: False | OUTPUT: C | ANSWER: A | qwen: C. CN(C(C1=CC(=CC=C1)Br)C2C=COC2)C(=O)NN
+
+248 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. CCCCCNC1=CC=C(C=N1)C(=NC2=CC=CC=C2)C
+
+249 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. 1-ethyl-2,4-diaza-1-azonia-7-phosphatricyclo[3.3.2.13,7]decane
+
+250 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. CC1=CC2=CC=CC=C2C(=C1)C3=CC4=CC=CC=C4C(=N3)CCCC5=NC(=CC=C5)C6=CC=CC=C6
+
+251 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. C39H62NO3PS
+
+252 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+253 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+254 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. CC.CC(C(=O)C(C)C(C)(C)C(C)C(=O)OC1CCOC1)O
+
+255 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+256 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. [2-oxoethylidene-2-[(1R,5R)-1,3,3-trimethyl-6-azabicyclo[3.1.2]octan-6-yl]ethyl] 4-bromanylbenzoate
+
+257 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+258 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC1=NN(C(=C1)NC(=O)[C@@H]2CC[C@@H](O2)CN)C3=CC(=CC=C3)Br
+
+259 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+260 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+261 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+262 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. The SMILES for 4-(1-azanyl-3-methyl-butan-2-yl)piperidin-2-one is CC(C)C(CN)C1CCNC(=O)C1.
+
+263 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. CC1=NC(=C(C=C1)O)CN2CC(CC2C3=CC(=C(C=C3)F)F)O
+
+264 Correct: False | OUTPUT: C | ANSWER: B | qwen: C. CC1=CCC(C(NC)C1)NCC2=CC(NN=C2)=C3SC=CS3
+
+265 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 3-(2-methyl-6-oxidanylidene-piperidin-1-yl)propanenitrile
+
+266 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+267 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+268 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. C=CCN1CCC(CC1)(CO)C2=CC=CC=C2
+
+269 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+270 Correct: False | OUTPUT: C | ANSWER: B | qwen: C
+
+271 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. CC1=CC(=C2C(=N1)C=C(C=N2)C(=O)C3=CC=CC=N3)C
+
+272 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. C1=CC(=CN=C1)C2=NOC3=C2N=NN3C4=CC=C(C=C4)Br
+
+273 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. The SMILES notation for the compound is CO[Ge](C)CCC(=O)O.
+
+274 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. C1CC(=O)NC(=O)C(N2C(=O)C3=C(C2=O)C(=CC=C3)NCC4=CN(N=N4))CCCCCCCCC=O
+
+275 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. C[C@@H](C1=NC(=NO1)C2CC2)N3CCN(CC3)CC4=CC(=CC=C4)F
+
+276 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+277 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+278 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+279 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+280 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. The name of the chemical is Hexakis(ethylene glycol) ditosylate.
+
+281 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 6-[[(7S)-7-acetamido-1,2,3-trimethoxy-9-oxidanylidene-6,7-dihydro-5H-benzo[a]heptalen-10-yl]amino]-N-[1-(phenylmethyl)piperidin-4-yl]hexanamide
+
+282 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+283 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. N1-[2-[4-(trifluoromethyloxy)phenyl]ethyl]-4-[(3R)-3-(trifluoromethyl)piperidin-1-yl]benzene-1,3-disulfonamide
+
+284 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. 7732-18-5
+
+285 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 2-[(2R)-1-(3-methylbut-2-enyl)-3-oxidanylidene-piperazin-2-yl]ethanoic acid
+
+286 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+287 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. O-[[methyl(butan-2-yloxy)phosphoryl]ethyl]hydroxylamine
+
+288 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. CCCCCC#COCCCCCCBr
+
+289 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+290 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+291 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 4-azanyl-N-[2-[5-(2-methyl-1,3-thiazol-4-yl)thiophen-2-yl]ethyl]pentanamide hydrochloride
+
+292 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+293 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+294 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+295 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. CCC1=C(N=NC=N1C2=CC(=C(C=C2)F)C)CO
+
+296 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+297 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. CCNCC1=C(C=CN=C1Cl)OC(C)C
+
+298 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 3-(4-methoxyphenyl)-6,6-diphenyl-2,5-dihydrothiopyran
+
+299 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. CC(C)CN1C(=CC(N)=C(C(F)F)N1)NCC2=CC=C(C=C2)C(=O)O
+
+300 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. Trimethyl-[3-[3-(3-trimethylsilyloxypropoxy)propoxy]propoxy]silane.
+
+301 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+302 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. C1CC(CC1CNC(=O)C2=CC=C(C=C2)C3=CC=CC=C3)[NH-]
+
+303 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+304 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+305 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CN1[C@@H]2CC=[C@@H](C1=O)[C@H]3[C@@H]2C(=O)N(C3=O)C4=CC=C(C=C4)CC5=CC=CC=C5
+
+306 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. [2-(2,5-dimethyl-1-propyl-pyrrol-3-yl)-2-oxo-ethyl] 5-chloranyl-2-nitro-benzoate
+
+307 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. The molecule's IUPAC name is N-butyl-3-chloro-propanamine.
+
+308 Correct: False | OUTPUT: A | ANSWER: D | qwen: A. N-[3-(2,4,7,9-tetrahydrotricyclo[5.4.0.02,6]undeca-1,3,5,7,9-pentaen-3-yl)prop-1-enyl]cyclopentanecarboxamide
+
+309 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC1CCN(CC1)C(=O)[C@H](C)OC(=O)C2=CC3=C(C=C2)SCCC(=O)N3
+
+310 Correct: False | OUTPUT: C | ANSWER: B | qwen: C
+
+311 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 2-(4-bromanyl-2-oxidanyl-phenyl)-N-[1-(2-hydroxyethyl)-5-methyl-pyrazol-3-yl]ethanamide
+
+312 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+313 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+314 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+315 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+316 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. N-but-3-en-2-yl-2-methoxy-aniline
+
+317 Correct: False | OUTPUT: A | ANSWER: B | qwen: A
+
+318 Correct: False | OUTPUT: C | ANSWER: B | qwen: C
+
+319 Correct: False | OUTPUT: A | ANSWER: D | qwen: A
+
+320 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. C[C@H]1CCC2(SC3=C(N(C(=O)C2)C(C3)C4=CC=C(I)C=C4O)C1)C
+
+321 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+322 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. (2S,4R)-2-(5-methyl-1,3-oxazol-2-yl)-4-hydroxypyrrolidine-1-carboxylic acid
+
+323 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. BrC1=C(OC)C=CC(CNCC2=NC=CN2)=C1O
+
+324 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. [(2R,4S)-4-fluoranylpyrrolidin-2-yl]-[4-(pyridin-2-ylmethyl)piperazin-1-yl]methanone;trihydrochloride
+
+325 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+326 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+327 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+328 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 1-(1-phenylethyl)-2,3,5,6,7,7a-hexahydroindole
+
+329 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+330 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+331 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CCCCCCC(CCCCCCCCCC(=O)O)C(=O)O
+
+332 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. CC1CC(C(C(=C1)C)NC2=C(C(=NC(=N2)C)Cl)C)C
+
+333 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+334 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+335 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+336 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. CC1=CC=C2N=C(SC2=C1)NC(=O)C3=CC=C(C=C3)S(=O)(=O)C(F)(F)F
+
+337 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+338 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+339 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+340 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 4-[2-(2-bromophenoxy)ethoxy]piperidine
+
+341 Correct: False | OUTPUT: D | ANSWER: A | qwen: D
+
+342 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. (1'S,2S)-1,2,2'-tricyclopropyl-2-methyl-spiro[bicyclo[3.1.1]heptane-3,9'-tricyclo[8.2.1.12,4]tetradecane]
+
+343 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+344 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. The molecular formula of the chemical is C17H16O5.
+
+345 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+346 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. COC1=CC=CC=C1NC2=NC(=NC(=N2)SC)CSC3=NC(=C4C5=C(CCCC5)S4C=N3)N
+
+347 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+348 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. 1-环庚基-3-对甲苯基-1H-咪唑-3-鎓氯化物
+
+349 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+350 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+351 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 2,6-二异丙氧基苯基]二环己基膦四氟硼酸盐
+
+352 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+353 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. C1CC(NC1C(F)(F)F)[C@H]2CN(CC3=CN=C(N=C23)C(F)(F)F)C4C(CCN4C=O)(F)F
+
+354 Correct: False | OUTPUT: B | ANSWER: C | qwen: B
+
+355 Correct: False | OUTPUT: C | ANSWER: B | qwen: C
+
+356 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+357 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. COC(=O)C1=C(N(C=N1)N=C)C(=O)OC)N2CCOCC2
+
+358 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. COC1=CC=CC=C1C2=CN=C3C2N=CN(C3=C)NCC4CCCN4C(=O)NC5CCCC5
+
+359 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. CC.CCCC.CC1=CC=C(C=C1)C2=C(C=CC(=C2)COCC3=CC=CC(=C3)C4=CC=CC=C4)C(=O)NC(CCNC)C(=O)O
+
+360 Correct: False | OUTPUT: A | ANSWER: D | qwen: A. CC(=O)NC1[C@H]([C@@H]2C(COC(O2)C3=CC=CC=C3)SC@H]1OCC=C)O[C@H]4C([C@H]([C@@H](C(O4)C(=O)[O-])O[C@@H]5C([C@H]([C@@](C(O5)COC(O6)C7=CC=CC=C7)O[C@H]8C([C@H]([C@@H](C(O8)C(=O)[O-])O[Si](C)(C(C)(C)C)C(C)(C)C)O)O)NC(=O)C)O)O
+
+361 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 1-Ethoxy-3-[[2,3,4-tris(fluoranyl)phenyl]amino]propan-2-ol
+
+362 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC1=C(C(=CC=C1)C)C2=CC(=NC(=N2)NSC3=CN(NC3)C)OC4=CC=C(C=C4)N5CCOCC5
+
+363 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. The IUPAC name is 1-[4-[(2-tert-butyl-1,3-thiazol-5-yl)carbonyl]-1,4-diazepan-1-yl]ethanone.
+
+364 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+365 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+366 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. CC(=O)C(C(CC#N)C(=O)OC)C(=O)C1=CC=C(C=C1)OC
+
+367 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+368 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 2-[(3R)-3-[(4-chloranyl-3-methyl-phenoxy)methyl]-1-[[3-(trifluoromethyloxy)phenyl]methyl]piperidin-3-yl]-1-(4-methylpiperazin-1-yl)ethanone
+
+369 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. CNC(=O)C1=CC(=CC=C1C(=O)NCC2=CC=CC=N2)NC3CCCNCC3
+
+370 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+371 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 4-[[5-(1H-pyrrolo[2,3-b]pyridin-5-yl)thiophen-2-yl]methyl]morpholine
+
+372 Correct: False | OUTPUT: D | ANSWER: A | qwen: D
+
+373 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. NCC1CC2=C(C(C)(C)C)NN=C2C=C1
+
+374 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+375 Correct: False | OUTPUT: A | ANSWER: B | qwen: A
+
+376 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+377 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 6-bromanyl-4-(1-phenylmethoxybutan-2-yl)quinazolin-2-amine
+
+378 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+379 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+380 Correct: False | OUTPUT: A | ANSWER: B | qwen: A
+
+381 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 1-[(1S,6R)-3,9-diazabicyclo[4.2.1]nonan-9-yl]-2-(5-ethanoylthiophen-3-yl)ethanone
+
+382 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+383 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+384 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+385 Correct: False | OUTPUT: A | ANSWER: D | qwen: A
+
+386 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+387 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+388 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. (2S,3R,3aS,6R,6aS)-2-dodecoxy-3,6-bis(oxidanyl)-3,3a,6,6a-tetrahydro-2H-furo[3,2-b]furan-5-one
+
+389 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 1-Chloro-2-[(E)-2-chloro-3,3,3-trifluoroprop-1-enyl]benzene
+
+390 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+391 Correct: False | OUTPUT: A | ANSWER: D | qwen: A. CC1=CC(=CC=C1)SCC(C2CC2)(NC)C(=O)OC
+
+392 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC(CO[N+](=O)[O-])OC(=O)CC(=O)C
+
+393 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. N1C=CN=C1C2=CC=C(C=C2)CCN3CCC(C3)F
+
+394 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. COC1=CC=C(C=C1)C23CC4CC(C2)CC(C4)(C3)C(=O)NC5=CC=CC5
+
+395 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. CC1=CC=C(C=C1)N=N/C=C/C2=CC(=CC=C2)OC
+
+396 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. (2R)-1-[(4-fluorophenyl)methyl-(phenylmethyl)amino]-3-(2-methylpropoxy)propan-2-ol
+
+397 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. C1=CC=C(C(=C1)C=O)O[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)COS(=O)(=O)O)O)O)O
+
+398 Correct: False | OUTPUT: C | ANSWER: D | qwen: C
+
+399 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+400 Correct: False | OUTPUT: B | ANSWER: D | qwen: B
+
+401 Correct: False | OUTPUT: A | ANSWER: B | qwen: A
+
+402 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+403 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. 4-(3-fluoranyl-4-ethoxy-phenyl)-2-methyl-thieno[3,2-d]pyrimidine
+
+404 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+405 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. ethyl 2-(3-isocyanatophenyl)sulfanylpyridine-4-carboxylate
+
+406 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+407 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. C1CC(CCC1O)NCCOC(=O)NC2=CC=CC=C2
+
+408 Correct: False | OUTPUT: B | ANSWER: C | qwen: B
+
+409 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+410 Correct: False | OUTPUT: A | ANSWER: D | qwen: A
+
+411 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. C1C(C(C1(F)F)CCO)C(=O)O
+
+412 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+413 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+414 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+415 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. (2-氨乙基)二(叔丁基)膦双(四氟硼酸盐)
+
+416 Correct: False | OUTPUT: A | ANSWER: C | qwen: A
+
+417 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. (2E)-N-[2-(3-fluoranylphenoxy)propyl]-2-(3-methyl-4-oxidanylidene-1,3-thiazolidin-2-ylidene)ethanamide
+
+418 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+419 Correct: False | OUTPUT: C | ANSWER: D | qwen: C
+
+420 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. C1=CC(=CC(=C1)F)C(=O)NC2=CC(=NC=C2)Br
+
+421 Correct: False | OUTPUT: A | ANSWER: B | qwen: A
+
+422 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 1-[(E)-[5-(4-methoxyphenyl)-2-oxidanylidene-furan-3-ylidene]methyl]benzo[f]chromen-3-one
+
+423 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. (3R,5S)-N-[[2-[(3-chlorophenyl)methoxy]phenyl]methyl]-3,5-dimethyl-adamantan-1-amine
+
+424 Correct: False | OUTPUT: A | ANSWER: D | qwen: A. C1=CC=C(C=C1)C1OC2=CC=CC=C2C2=CC=CC=C2C2=C1C=CC=C2
+
+425 Correct: False | OUTPUT: C | ANSWER: A | qwen: C. 2-(3-hydroxyhexyl)ethanoate
+
+426 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+427 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 695816-47-8
+
+428 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. C1=CC=C(C=C1)C(=O)NC(=NCCCC2=CN=CN2)NCCSCC3=CN=CC=C3
+
+429 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. CCOC1=C(C=C2C(=C1)C=C(S2)C(=O)N(C)O)OCC
+
+430 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. The name of the chemical is Biphenyl-2,2′-diol.
+
+431 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. [K].[IH3+]
+
+432 Correct: False | OUTPUT: B | ANSWER: C | qwen: B
+
+433 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CC1=CC=C(C=C1)C2=C(C(=CC=C2)S(=O)(=O)C)ON[O-]
+
+434 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+435 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+436 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. N1C=C(C=NC=C1)NC(=O)NC(=O)N
+
+437 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CC1=C(C=C(C=C1)NC(=O)N2CCNC2C3=CC(=CC=C3)F)C
+
+438 Correct: False | OUTPUT: D | ANSWER: C | qwen: D
+
+439 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. C1=CC(=C(C(=C1N=C=O)C#N)Cl)Br
+
+440 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+441 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. C1=CC(=CN=C1)CC(=O)NCCCCCCO
+
+442 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. C1CCN(CC1)C2=NN=C(C=C2)N3CCN(CC3)C(=O)NC4=CC(=CC(=C4)F)F
+
+443 Correct: False | OUTPUT: C | ANSWER: D | qwen: C
+
+444 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. Ethyl 2-(2-(3-methoxyphenoxy)propanoylamino)-4-(2-nitrophenyl)thiophene-3-carboxylate
+
+445 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. The SMILES for 6-[(Z)-2-[4-(diethylamino)phenyl]ethenyl]-5-nitro-1H-pyrimidine-2,4-dione is CCN(CC)C1=CC=C(C=C1)/C=C\C2=C(C(=O)NC(=O)N2)[N+](=O)[O-].
+
+446 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+447 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+448 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+449 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. N-methyl-7-(6-morpholin-4-ylpyridin-3-yl)pyrido[3,4-b]pyrazin-5-amine
+
+450 Correct: False | OUTPUT: C | ANSWER: A | qwen: C. CCOC1=CC2C3CCC(CC3)OC2=CC1=O
+
+451 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. C1(CC(CN1)C2=C(C(C=N2)Cl)C(F)(F)F)OCC3=CNC=C3
+
+452 Correct: False | OUTPUT: A | ANSWER: B | qwen: A
+
+453 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+454 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. The CAS of the chemical is 2646621-95-4.
+
+455 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. CC1=C(C=C(C=C1)C(=O)N(CC2CCOC2)CC3=CC=CO3)C(C)=O
+
+456 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+457 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. N-[[2,5-bis(chloranyl)phenyl]methyl]-2-[2-methyl-6-oxidanylidene-5-[(phenylmethyl)sulfonylamino]-2,3-dihydropyridin-1-yl]ethanamide
+
+458 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. (6R)-3-methyl-6,7-dihydro-5H-pyrazolo[1,2-a]pyrazol-8-ium-6-ol
+
+459 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. 2-cyclobutyl-2-(cyclobutylamino)-3-(2-ethylthioxy)propanenitrile
+
+460 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+461 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CC1=CC(=NC(=N1)NC2=CC=C(C=C2)C(=O)C)N(C)C
+
+462 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+463 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+464 Correct: False | OUTPUT: C | ANSWER: A | qwen: C. N1(CCOCC1)C2=NC=CC(=N2)CNC(=O)C3=CC=C(O3)[N+](=O)[O-]
+
+465 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CC(=O)N1CCN(C[C@H]1C2=CC=CC=C2)C(=O)CC3=CC(=CF)C=C3
+
+466 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+467 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+468 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+469 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+470 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+471 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. C[C@H](C1=CC=CC=C1)NC(C2=C(C=CC(=C2)Br)OC(C)C)C
+
+472 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 1-(furan-2-ylcarbonyl)-N-[(2-methoxyphenyl)methyl]-N-(thiophen-2-ylmethyl)piperidine-4-carboxamide
+
+473 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+474 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 2-naphthalen-1-yl-N-phenyl-N-[2-(2-phenyldibenzofuran-1-yl)phenyl]aniline.
+
+475 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+476 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. 4-bromanyl-2-chloranyl-6,7,8-tris(fluoranyl)quinoline
+
+477 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. The name of the chemical is 1,1′-Binaphthalene, 5,5′,6,6′,7,7′,8,8′-decahydro-2,2′-diphenyl-diol-, (1R)-
+
+478 Correct: False | OUTPUT: C | ANSWER: D | qwen: C. CCCCOC(=O)C1CCN(CC1)C(=O)CNCCC2=CC=C(C=C2)N
+
+479 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. C1=CC(=CC=C1NC2=NC=C(C=N2)NC3=CC=C(C=C3)I)C(F)(F)F
+
+480 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+481 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. N-(3-azanylpropyl)-4,5-bis(bromanyl)-N-[(1R)-2-methyl-1-[1-(phenylmethyl)benzimidazol-2-yl]propyl]thiophene-2-carboxamide
+
+482 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+483 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+484 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. BrC1=CC=CC=C1S(=O)(=O)C2=CC3=C(SC=C3)CCN2
+
+485 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. 3-[[6-[2-[(E)-C-azanylphosphanylcarbonohydrazonoyl]phenyl]pyridin-3-yl]methyl]-1-butyl-4-(2-methylpropyl)imidazol-2-one
+
+486 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. C1COC2=C(C=CC=C2O1)/C=N/O
+
+487 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. C1=CC=C(C=C1)N2C(=NC=N2SCC(=O)NC3=CC(=C(C=C3)Cl)[N+](=[O-])O)C4=CC=CS4
+
+488 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CC1=NC(C(=N1)NC2=CC(=C(C=C2)F)F)NCC=C
+
+489 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+490 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 2-(azetidin-3-yl)-5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)pyridine
+
+491 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. (8aR)-1-methyl-2,3,4a,5,6,7,8,8a-octahydropyrido[3,4-b][1,4]oxazine
+
+492 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CC(=C)OC(=O)CC(C)(C)COC(=O)CCO
+
+493 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. CC1=C(C(=O)C2=C(C=CC(=C2OC)OC)C3=C1C(=C(C=C3)O)O)O
+
+494 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. The molecular weight of C43H42F6NOP is 733.76 g/mol.
+
+495 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+496 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. (4R,4'R,5S,5'S)-2,2'-(1,3-二氢-2H-茚满-2-亚烷基)双[4,5-二氢-4,5-二苯基噁唑]
+
+497 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 6-(3-chloranylphenoxy)-N-[(4-chlorophenyl)methyl]pyrimidin-4-amine
+
+498 Correct: False | OUTPUT: B | ANSWER: D | qwen: B
+
+499 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+500 Correct: False | OUTPUT: A | ANSWER: D | qwen: A. The name of the chemical is 2,3-O-Isopropylidene-1,4-bis-O-(methylsulfonyl)-L-threitol.
+
+501 Correct: False | OUTPUT: A | ANSWER: D | qwen: A
+
+502 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. CC(=O)N1CCC(CC1)N=C(O)OC2=CC=C(C=C2)Cl
+
+503 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. CC1=C[C-]=C(C=C1)C2=NC=C(C=C2)[Si](C)(C)C.CC(C)C1=C(N=C2C3=CC=CC=C3OC3=CC=CC(C=NN21)=C3)C=C1C(F)(F)F.[Ir]
+
+504 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. C/C(=C\C1=CC2(C1C2)CO)/C(=O)OCC3CC4CC3C=C4
+
+505 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+506 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+507 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+508 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+509 Correct: False | OUTPUT: D | ANSWER: C | qwen: D
+
+510 Correct: False | OUTPUT: C | ANSWER: B | qwen: C
+
+511 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+512 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. The SMILES formula is CCN1CCN(CC1)S(=O)(=O)C2=C(C=CC(=C2)N)Cl.
+
+513 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. This molecule's IUPAC name is 3-decylpentadecane carboxylate.
+
+514 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CCC1=CC(=CC=C1)C(C)(CC(C(F)(F)F)(F)F)O
+
+515 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+516 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 2-[1-[2-(9H-fluoren-9-ylmethoxycarbonylamino)-1-methyl-cyclopentyl]carbonylazetidin-3-yl]ethanoic acid
+
+517 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+518 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 4-(2-methoxyethoxy)-N-[(1S,2R)-2-[2-(trifluoromethyl)phenyl]cyclopropyl]butanamide
+
+519 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+520 Correct: False | OUTPUT: B | ANSWER: C | qwen: B
+
+521 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+522 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+523 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC1=C(C=CC(=C1)F)COC2=CC=C(C=C2)S(=O)(=O)[C@@H]3CCOC[C@@]3(C(=O)NO)O
+
+524 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. N#CCN(C)CCC1=NC2=CC=CC=C2C1
+
+525 Correct: False | OUTPUT: A | ANSWER: D | qwen: A
+
+526 Correct: False | OUTPUT: D | ANSWER: B | qwen: D
+
+527 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. C1=CC=C(C=C1)C2=C(C(=C(C=C2)S(=O)(=O)OC3=CC=CC(=C3)NC(=O)C)S(=O)(=O)OC4=CC=CC(=C4)N)S(=O)(=O)OC5=CC=CC(=C5)NC(=O)NC6=CC=CC=C6
+
+528 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. 3-(4,4-dimethylpent-2-ynoylamino)-1-[(1-methylcyclopropyl)methyl]-2,4-diketoquinazoline-6-sulfinic acid
+
+529 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+530 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+531 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+532 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+533 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. 1-[4-(2,5-dimethylphenyl)ethyl]piperazine
+
+534 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+535 Correct: False | OUTPUT: A | ANSWER: B | qwen: A
+
+536 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+537 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. C1=CC2=CC=C(C1Br)C=C2OC(=C2)F.CC(=O)C1=CC2=C(C=C1)O(=C2)F
+
+538 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. C(=O)C1=CC(=C(C2=CC(=C(C(=C2F)C(F)(F)F)F)C=O)C(=C1F)F)F
+
+539 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. C=C(C1=CC2=C(N=C1)N(CCO2)C3=CC=C(C=C3)/C(=N\N)/N)N4CCC(CC4)(F)Cl
+
+540 Correct: False | OUTPUT: D | ANSWER: B | qwen: D.
+
+541 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 4-[(2R)-2-Methyl-2,3-dihydro-1H-indol-1-yl]benzene-1-carbonitrile
+
+542 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+543 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. COC1=CC(=CC(=C1OC)S(=O)(=O)NC2=CC(C=C2)=NC3CCN(CC3)C4=CC=CC=C4)
+
+544 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. CN1[C@H]2CCC[C@H]1[C@@H](C2)C3=CN=NC=C3
+
+545 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 4-phenyl-3-[(E)-3-quinolin-2-ylprop-2-enoyl]-1H-quinolin-2-one
+
+546 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+547 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+548 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. CN1CCN(CC1)C2CCCCC2=O
+
+549 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 2,2'-二喹啉-4,4'-二羧酸
+
+550 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. CN(C1=NCC=CN=C1)NC2=CC3=C(C=C2)N=CC(=C3)OC
+
+551 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 2,7-bis(bromanyl)-9,9-dinaphthalen-1-yl-fluorene
+
+552 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. CC1=CC(=C(C=C1N/C(=C/C(=O)OC)/C(=O)OC)Cl)Br
+
+553 Correct: False | OUTPUT: D | ANSWER: B | qwen: D
+
+554 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+555 Correct: False | OUTPUT: B | ANSWER: D | qwen: B
+
+556 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+557 Correct: False | OUTPUT: A | ANSWER: D | qwen: A
+
+558 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. (3R)-1-ethyl-5-oxidanylidene-N-pyridin-2-yl-pyrrolidine-3-carboxamide
+
+559 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 2-(6-Methoxyimidazo[1,5-a]pyridin-3-yl)phenol
+
+560 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 3-methyl-2-phenyl-naphthalene-1-carbaldehyde
+
+561 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+562 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+563 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+564 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CC[C@H]1COCCN1C2=NC(=CC(=N2)C3=NC4=C(C=C3)NC(=C4)CO)C5(CCN(CC5)C)S(=O)(=O)C
+
+565 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+566 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC1=CN=C(N1)[C@H]2COCCN2C(=O)CCC3=CC=CS3
+
+567 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. [6-(Pyridin-2-yl)pyridin-3-yl]methylether
+
+568 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+569 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. C1=C(SC(=C1C(=O)NCC(C(F)(F)F)O)Br)Br
+
+570 Correct: False | OUTPUT: A | ANSWER: C | qwen: A
+
+571 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. C[Si](C)(C)C=CI
+
+572 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. (4E)-1-(6-fluoranyl-1,3-benzothiazol-2-yl)-5-(3-methoxy-4-pentoxy-phenyl)-4-[oxidanyl(phenyl)methylidene]pyrrolidine-2,3-dione
+
+573 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. The CAS number of (S)-萘并螺环二酚 is 2687968-77-8.
+
+574 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. CCCCN1C(C2=CC=CC=C2N1CCCCCC(=O)C)C/C=C/C3=CC(=CC=C3Cl)/C=C/C4=C(C5=CC=CC=C45)C(C)C
+
+575 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. C[C@H]1CCCN(C1)CC2=C(C(=CC(=C2)C)CN(C)CCOC)C
+
+576 Correct: False | OUTPUT: C | ANSWER: D | qwen: C
+
+577 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 4-(4-chloranyl-3,5-dimethyl-phenoxy)-3-cyano-N-(5-fluoranylpyridin-2-yl)benzenesulfonamide
+
+578 Correct: False | OUTPUT: C | ANSWER: B | qwen: C
+
+579 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+580 Correct: False | OUTPUT: C | ANSWER: A | qwen: C. C1=CC=C(C=C1)C(=O)NC2=CC(=NC=N2)C3CC3
+
+581 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. N-[5-[4-[3-(2-bicyclo[3.3.1]non-6-enylcarbonylamino)-4-nitrophenoxy]butoxy]-2-nitrophenyl]bicyclo[2.2.1]hept-5-ene-2-carboxamide
+
+582 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. N-[[1-[(2-methoxy-5-methyl-phenyl)methyl]cyclohexyl]methyl]ethanamine
+
+583 Correct: False | OUTPUT: B | ANSWER: C | qwen: B
+
+584 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. The SMILES representation for (3-methoxypyrazin-2-yl)-(6-methylpyridin-3-yl)methanol is CC1=NC=C(C=C1)C(C2=NC=CN=C2OC)O.
+
+585 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+586 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. The name of the chemical is N-(Diphenylphosphoryl)-N-methylalanine.
+
+587 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+588 Correct: False | OUTPUT: A | ANSWER: B | qwen: A
+
+589 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CN1CCN2C(=C(C=N2)CNC(=O)C3=CC=CC(=C3)CN(C)C)C1
+
+590 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. CC1=C(C(=NN1C2=CC=CC=C2)NC(=O)C(C)C)C
+
+591 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. CCC[SH]CCC.CCC[SH]CCC.[Cl-][Pt+2][Cl-]
+
+592 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+593 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. CCC[C@H](C1=CC=CC=C1)NCC2=CC=CS2
+
+594 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+595 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+596 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+597 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CCCCC(CC)CC1=CC(=C(C=C1)C(=O)[O-])N(C)C
+
+598 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. CC1=C(C=CO1)C(=O)N2C[C@H]([C@@H]3[C@H]2CCCO3)OCC4=CC=CC=N4
+
+599 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. (3S)-4-(3H-benzimidazol-5-ylcarbonyl)-3-propan-2-yl-piperazine-1-carboxylic acid
+
+600 Correct: False | OUTPUT: C | ANSWER: D | qwen: C. C1=CC=C(C=C1)C(NC(=O)C2=CC=C(C=C2)F)=N
+
+601 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+602 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. N-[4-[[5-[(2,3-dimethylphenyl)amino]-1,2,4-thiadiazol-2-yl]sulfanylmethyl]-1,3-thiazol-2-yl]-N-(2-fluorophenyl)ethanamide
+
+603 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+604 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+605 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC(C)(C)C(=O)OC1=C(C(=C(C2=C1C=CC(=C2)Cl)OC(=O)C(C)(C)C)OC3=CC=CC=C3)OC4=CC=CC=C4
+
+606 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 3-[(2-nitrophenyl)amino]-N-[(3S)-piperidin-3-yl]propanamide;hydrochloride
+
+607 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. tert-butyl N-[3-[[5-[(2R,2'S,5S)-2'-methyl-6-oxidanyl-7-oxidanylidene-spiro[1,6-diazabicyclo[3.2.1]octane-4,1'-cyclopropane]-2-yl]-1,3,4-thiadiazol-2-yl]methyl]cyclobutyl]carbamate
+
+608 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+609 Correct: False | OUTPUT: A | ANSWER: D | qwen: A
+
+610 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+611 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 1-[(8-chloranyl-2,3-dihydrothiochromen-4-ylidene)amino]thiourea
+
+612 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. CC1=CN=C(N1)C[C@H]2CN(CCO2)C(=O)CC3=C(N=C4C=CC=CN43)C
+
+613 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+614 Correct: False | OUTPUT: A | ANSWER: B | qwen: A
+
+615 Correct: False | OUTPUT: D | ANSWER: A | qwen: D
+
+616 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+617 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. CN1N=CC(C=O)(N1)N2CCCC(C2)C(=O)O
+
+618 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+619 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. CC(C)(C)OOC(CBr)(CC1=CC=CC=C1)Br
+
+620 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. COC1=CC=CC(=C1)NC(=O)/C(=C/C2=C(C(=CC=C2)OC)OC(F)F)/C#N
+
+621 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. CC1=NC2=C(NC(CCN(C)C(=O)OCC[Si](C)(C)C)=N1)C(=C(C=C2)Cl)Br
+
+622 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. CC1=NC(=CC=C1)C(=O)N2CCC3(OCC2)CC(C3)N4CCN(CC4)C
+
+623 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+624 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 4-(1,2,4-triazol-4-yl)-1H-pyridine-2-thione
+
+625 Correct: False | OUTPUT: B | ANSWER: C | qwen: B
+
+626 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+627 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. The SMILES formula is CC1=CC(=C(C=C1)C(=O)N(C)CC2=CC=C(C=C2)C(F)(F)F)O.
+
+628 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+629 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. C1=CC=C2C(=C1)C(=O)NC(=N2)C3=CC=CC(=C3)COC4=CC(=C(C(=C4)F)F)F
+
+630 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 2-[(2R,5S)-5-[[[5-(4,5-dimethyl-1H-pyrazol-3-yl)furan-2-yl]sulfonylamino]methyl]-1-methyl-pyrrolidin-2-yl]-N-methyl-ethanamide
+
+631 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. CC1=C(C(=O)NC(=O)N1)[C@@H]2C[C@@H]([C@H](O2)COC(C3=CC=C(C=C3)OC)(C4=CC=CC=C4)C5=CC=CC=C5)OP(=O)(CC[SiH2]C(C6=CC=CC=C6)C7=CC=CC=C7)O
+
+632 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+633 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC1=NC2=C3CCCC3=C(C=C2C(=N1)N[C@H](C)C4=CC(=CC(=C4)N)C(F)(F)F)C5=CCNCC5
+
+634 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. Cyclohexylbis(2-ethylphenyl)phosphine CAS number is 1197814-52-0.
+
+635 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+636 Correct: False | OUTPUT: N | ANSWER: B | qwen: None of the options A, B, C, or D directly match the SMILES notation provided. The task seems to require translating a given SMILES notation into a specific IUPAC name, which is not directly represented by the answer choices. Therefore, without a clear reference to select from the provided options, the question cannot be answered as an A, B, C, or D choice.
+
+637 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+638 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. [UH3]
+
+639 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. This molecule's IUPAC name is 3-hydroxy-2,2-dimethyl-1-(buta-1,3-diene)propanone.
+
+640 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. CC(C)OCC(=O)NC(CCN1CCNCC1)C
+
+641 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+642 Correct: False | OUTPUT: D | ANSWER: B | qwen: D
+
+643 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. CC1=CC=C(C2=CC=CC=C2)C3=NC(=NC=N3)NC4=C(N=CC(=C4)NC(=O)C=C)CC(C)C
+
+644 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. C1=CC=C(C=C1)C2=CC=CC=C2N1CC(C)CCC1
+
+645 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+646 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+647 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. CC1=NC(=CO1)NC(=O)CSC2=NN=C(N2CC3=CC=CC=C3)C4=C(C=C(C=C4)Cl)Cl
+
+648 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. The SMILES format for 1-(4-chlorophenyl)-3-thiophen-2-yl-propan-1-one is O=C(Cc1cccs1)c2ccc(Cl)cc2.
+
+649 Correct: False | OUTPUT: B | ANSWER: C | qwen: B
+
+650 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. CCCCOC1=CC2=C(C=C1)C(=C(C=C2)OCCCCl)CC
+
+651 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 6-(4-tert-butylphenyl)sulfanyl-4,5,7-tris(fluoranyl)-1-benzothiophen-2-yl-phenyl-methanone
+
+652 Correct: False | OUTPUT: T | ANSWER: D | qwen: The answer is not provided in the options you've given. However, based on the structure you've described, it's important to note that the options seem to be missing the specific details that would align with the structure provided. Without a direct match, it's challenging to accurately select an answer from the given choices. The structure you've provided appears to be for a compound containing a chromene structure with a bromo group, an amino group, and a carboxamide group, among other functional groups. The correct SMILES representation would directly correspond to the structure, which isn't provided in the options.
+
+653 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+654 Correct: False | OUTPUT: D | ANSWER: B | qwen: D
+
+655 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. C[C@@H]1CC[C@H]([C@@H](C1)OCC(=O)NCCCC2=NC3=CC=CC=C3N2)C(C)C
+
+656 Correct: False | OUTPUT: B | ANSWER: C | qwen: B
+
+657 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. C1CC1(C2=CC=CC=C2)C(=O)N[C@@H](COC(=O)CN[C@@H]3C[C@H](NC3C(=O)OCC4=CC=CC=C4)CN[C@H]5=CC=CC=N5)C(=O)O
+
+658 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. CC(=O)SC1CC(=S)N(C1)C2=NC=CC(=N2)Cl
+
+659 Correct: False | OUTPUT: D | ANSWER: A | qwen: D
+
+660 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. C1=CC=C(C(=C1)C(=O)C2=C(C=C(C=C2)Cl)[N+](=O)[O-])NC(=N)CCl
+
+661 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. 2-[3-[6-[[4-[(E)-1-azanyl-3-methylimino-prop-1-en-2-yl]phenyl]methylamino]pyrimidin-4-yl]imidazo[1,2-a]pyridin-7-yl]propanal;propane
+
+662 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+663 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. C1=CC=C2C(=C1)C=NC=C2N3C(=O)C4=C(C=CC(=C4)C(F)(F)F)N(C3=O)C/C=C/C(=O)O
+
+664 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+665 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+666 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+667 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+668 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. CC(C1=NC=CS1)NS(=O)(=O)C2=CC(N=C(Br)C(=C2)Cl)
+
+669 Correct: False | OUTPUT: A | ANSWER: B | qwen: A
+
+670 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 4-[(4-Azanylquinazolin-2-yl)methyl]piperazin-1-yl-(4-ethoxyphenyl)methanone
+
+671 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. 4-[[3-(pyridin-2-ylmethyl)-1H-1,2,4-triazol-5-yl]methyl]pyridine
+
+672 Correct: False | OUTPUT: D | ANSWER: A | qwen: D
+
+673 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+674 Correct: False | OUTPUT: C | ANSWER: B | qwen: C
+
+675 Correct: False | OUTPUT: A | ANSWER: D | qwen: A. CC(CCC(=O)O)NC(=O)C1=CC=C(C=C1)OCC2=CC=C(C=C2)Br
+
+676 Correct: False | OUTPUT: B | ANSWER: C | qwen: B
+
+677 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. CC1=C(N2C(C(=O)[C@@H](SC1)N3CC(N=C3O)C4CCCCO4)C2)C(=O)OC(C)(C)C
+
+678 Correct: False | OUTPUT: D | ANSWER: B | qwen: D
+
+679 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. (4-fluoranyl-2-nitro-phenyl)-pyrrolidin-1-yl-methanone
+
+680 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. (2R)-N-ethanoyl-2-(2-oxidanylpyrrolidin-1-yl)butanamide
+
+681 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCN(CCO)CCO
+
+682 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. C1=CC=C(C=C1)N2C(=O)C(=C\C3=CC(=CC=C3)[N+](=O)[O-])OC(C4=CC=C(C=C4)[N+](=O)[O-])C(=O)N2
+
+683 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. N'-[(Z)-1,3-benzodioxol-5-ylmethylideneamino]-N-(4-methylphenyl)ethanediamide
+
+684 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. CCN(CC)C1=CC(=CC=C1)[As](C2=CC=CC(=C2)N(CC)CC)C3=CC=CC(=C3)N(CC)CC
+
+685 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+686 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. N2-methyl-N2-(4-methylphenyl)-N1-(5,6,7,8-tetrahydroquinolin-5-yl)propane-1,2-diamine
+
+687 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. [(5R)-5-oxidanyl-5-pyridin-3-yl-3-(trifluoromethyl)-4H-pyrazol-1-yl]-pyridin-4-yl-methanone
+
+688 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. COC1=C(C=C(C=C1)OCCl)OCC2=CN3C=CC=NC3=N2
+
+689 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+690 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. The molecular's IUPAC name is 4-methylpentanenitrile, please construct 3 misleading incorrect answers.
+
+691 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+692 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+693 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+694 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CN1CCOC([C@H]([C@@H]1C2=CC=CC=C2)CNC3=CC(=NC=C3)C(=O)N)
+
+695 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. C[C@H](C(=O)OC)N1C(=O)\C(=C\C2=CC(=C(C(=C2OC)OC)O)/SC1=O
+
+696 Correct: False | OUTPUT: A | ANSWER: D | qwen: A. C1CC(NC1N2C=CC=N2)C3=C(C=N)NC=C3C#N
+
+697 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. O=C(N1C[C@@H]2N(C1)CCC2)Cc3cccco3
+
+698 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. CCCCCCCCCCCCCCCCCC(=O)O[C@H](COC(=O)CCCCCCCCCCCCCCCC)CCOC(=O)CCCCCCCCCCCCCCCCC(C)CC
+
+699 Correct: False | OUTPUT: A | ANSWER: B | qwen: A
+
+700 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. tert-butyl(but-3-ynoxy)silane
+
+701 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+702 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+703 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CCCC1=CC2=C(C=C(C=C2)C(=O)OCC)N(C1=O)CC3=CC=C(C=C3)C4C(=O)NC(=N)S4
+
+704 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. N-cyclopentyl-2-[(3-methylsulfanylphenyl)amino]quinoline-4-carboxamide
+
+705 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. CC1CCCC(C1)CN2CCC(C2)CN.Cl
+
+706 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+707 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+708 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+709 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 2-(4-bromophenyl)-5-indazol-1-yl-7-oxa-2-azabicyclo[4.1.0]heptane
+
+710 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. N'-[5,6-bis(fluoranyl)-1H-indol-3-yl]-N-(spiro[2.5]octan-2-ylmethyl)ethanediamide
+
+711 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. COCCC(=O)N1CCN(CCC2COCC2)CC1CN3CCN(CC3)C(=O)CCOC
+
+712 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. C1COCCN1CCCC(=O)N2CC(C2)NC3=CC(=NC(=N3)N4CCOCC4)N5C6=CC=CC=C6N=C5C(F)F
+
+713 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. 12,22-dibenzyl-18,28-dioxa-8,12,22-triaza-1,5-diboranonacyclo[21.11.1.15,13.02,21.04,19.06,11.027,35.029,34.017,36]hexatriaconta-2,4(19),6(11),7,9,13(36),14,16,20,23(35),24,26,29,31,33-pentadecaene
+
+714 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+715 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. The molecular weight of C16H20N2O2 is 272.34 g/mol.
+
+716 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 3-(cyclopropylsulfamoyl)-4-methoxy-N-[4-(1,2,3,4-tetrazol-1-yl)phenyl]benzamide
+
+717 Correct: False | OUTPUT: A | ANSWER: D | qwen: A. CC1=C2N(C(=O)CCC2=CC(=N1)C3=CC=C(C=C3)F)CCN4CCC(C4)S(=O)(=O)N(C)C
+
+718 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 3-(6-bromanyl-4-oxidanylidene-quinazolin-3-yl)-N-[3-(4-phenylpiperazin-1-yl)propyl]propanamide
+
+719 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. 5-phenyl-N-(1H-pyrazol-4-yl)-2-[3-(trifluoromethyl)phenyl]-2,4-diazatricyclo[2.2.1.0^2,6]heptane-3,5-dione
+
+720 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+721 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. Methyl 2,2-dimethyl-3-(2-oxidanylidenepyrrolidin-3-yl)propanoate
+
+722 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. CC(=O)OCCC1(C2=C(CCC13C=CC3)C=CC(=C2)OC)O
+
+723 Correct: False | OUTPUT: A | ANSWER: D | qwen: A. CC1=C(C=C(C=C1)F)C2=CC(=C(C=C2)Cl)F
+
+724 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+725 Correct: False | OUTPUT: C | ANSWER: B | qwen: C
+
+726 Correct: False | OUTPUT: A | ANSWER: B | qwen: A
+
+727 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CC.CC.C1=CC=C2C(=C1)C=CC3=C2N=CC3[NH+]
+
+728 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+729 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+730 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+731 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC(=O)C1=CC=CC(=C1)C[N+](C)(C)C.[I-]
+
+732 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC[C@H](O)[C@@H](C)C(C)C[N+](=O)[O-]
+
+733 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+734 Correct: False | OUTPUT: D | ANSWER: B | qwen: D
+
+735 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. 5,6-bis(chloromethyl)-7-methoxy-9a-methyl-1,2-dihydro-3H-fluoren-3-one
+
+736 Correct: False | OUTPUT: A | ANSWER: B | qwen: A
+
+737 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+738 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. C=CCN1C(=O)C2=C(C=CC(=C2)Cl)N=C1SCC3=CC=CC=C3F
+
+739 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+740 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 7-Methoxypyrazolo[1,5-a]pyrimidine-6-carboxylic acid
+
+741 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+742 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. tert-butyl N-(4-but-2-ynyl-2-methyl-phenyl)carbamate
+
+743 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. C[C@@H](C1=CC=CC=C1)N(CC2=CC=CC=C2)[C@H](CCOCC3=CC=CC=C3)CC(=O)O
+
+744 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+745 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. The CAS of the chemical is 66127-01-4.
+
+746 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. CC(C)C1=CC=C(C=C1)C(=O)OCC(=O)C2=CC=CC=C2
+
+747 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. O=C(N[C@H]1CSSC1=O)COc2ccc(cc2)C#N
+
+748 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. (phenylmethyl) 4-(1-methoxy-4-methyl-1-oxidanylidene-pentan-2-yl)-3-oxidanylidene-2-(phenylmethyl)piperazine-1-carboxylate
+
+749 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. C[C@@]12CCC[C@@]([C@H]1CC[C@@]34[C@@H]2CC[C@H](C3)C(=C)[C@@H]4O)(C)C(=O)OC
+
+750 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 4-(4-Hydroxy-3,5-diphenylphenyl)sulfanyl-2,6-diphenylphenol
+
+751 Correct: False | OUTPUT: A | ANSWER: C | qwen: A
+
+752 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. The CAS number is 503538-68-9.
+
+753 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. CCCCCCC1=CC=C(C=C1)C(=O)OOC(=O)OCCC(C)(OC)OC
+
+754 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. C[C@@]12CC[C@]3(CCCC3[C@H]1CCC4[C@]2(CCC5[C@@]4(CC=C(C5(C)C)C6=CC[C@H](CC6)C(=O)OCC7=CC=CC=C7)C)C)N
+
+755 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. CCC1=C(C=NN1CC2=CC=CC=C2)C(=O)NC3=CC(=CNC3=O)C(F)(F)F
+
+756 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. CC(C)CC[Si](C)C
+
+757 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CC12CCCC1(C)C(N2OCCC(=O)C3=CC=C(C=C3)OC)C
+
+758 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC1=CC(=CC=C1)NC(=O)CCN(CC2=CC=C(C=C2)F)S(=O)(=O)C
+
+759 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+760 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 2-cyclopropyl-1-[(5R)-5-oxidanyl-1-oxa-9-azaspiro[5.5]undecan-9-yl]ethanone
+
+761 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC(C)C1=C(N(C(=N1)CCCOC(=O)N)CC(=O)C)SC2=CC(=CC(=C2)F)F
+
+762 Correct: False | OUTPUT: A | ANSWER: B | qwen: A
+
+763 Correct: False | OUTPUT: A | ANSWER: D | qwen: A. CN(CCCCCCOC1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC)CC4=CC=CC=C4
+
+764 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. CN1C=C(C=N1)O[C@@H]2CN(C[C@H]2O)C3=CC(=CN=C3)Br
+
+765 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. CCCC(CCCC1=CC=NC=C1)C=O
+
+766 Correct: False | OUTPUT: D | ANSWER: C | qwen: D
+
+767 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. (3,4-dichlorophenyl)-(2,3-dimethylpiperazin-1-yl)methanone
+
+768 Correct: False | OUTPUT: B | ANSWER: C | qwen: B
+
+769 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. C1CCC2=CC=C3C(=C2N1)C=CC4=C3C5=CC=C(C=C5O4)C6=CC=CC=C6N7CC8=C(C=CC(=C8)Cl)N=C7
+
+770 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. CC(C)(C)OC(=O)N1CC(C(C2(CCCNC2)CO)O)CCC(C1)O
+
+771 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+772 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. CN(C)CCCN(C)C1=CC(=C(C=C1)N)C(=O)N
+
+773 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CC(C)(C)OC(=O)N[C@H]1CCN(C1)C2=NC3=CC(=NN3C=C2)C4CCCCN4
+
+774 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+775 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+776 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. Ethyl 2-[[[(2R,3S,4S,5R)-5-acetamido-3,4,6-triacetyloxy-oxan-2-yl]methoxy-phenoxy-phosphoryl]amino]-4-methyl-pentanoate
+
+777 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. C1=CC(=CN=C1)CCC2=NC3=C(N2)C=C(C=N3)Br
+
+778 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. O=C2N(Cc1cc(Cl)ccc1C)C(=O)C3(O)C(=O)N(CC4)CC3(C)C2(C)S4C5=CCCC5
+
+779 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CCOC(=O)C1=C(CN(CC1)C(=O)OC(C)(C)C)C2=NC=C(C=C2)[N+](=O)[O-]
+
+780 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. COC1=C(C=C(C=C1)[C@@H](C2=C(N3C(=NC=N3)S2)O)N4CCC(CC4)CC5=CC=CC=C5)OC
+
+781 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+782 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. 4-(chloromethyl)-1-(oxan-2-yl)-1,2,3-triazole
+
+783 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. The CAS number for (R)-SITCP is 856407-37-9.
+
+784 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+785 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+786 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+787 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. C1C(CC1(F)F)C2=CC(=NO2)N
+
+788 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. C1=CC=C(C(=C1)C(F)(F)F)OC2=CNC=C(C=C2)CNC(=O)NCCCC(=O)O
+
+789 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. CCCCC12C(C=NN=C1)C(=O)N(C3=CC=CC4=CC=NC=C43)C(=N2)N
+
+790 Correct: False | OUTPUT: C | ANSWER: D | qwen: C
+
+791 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. C1CCN(C1)S(=O)(=O)C2=C(C=CC(=C2)C(=O)OCC3=NC(=NC(=N3)NC4=CC=CC=C4)N)Cl
+
+792 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. C1C[C@H](CCNC1)CC2=NN=C(C=C2)C3=CN=C(C=C3)N
+
+793 Correct: False | OUTPUT: T | ANSWER: C | qwen: The correct answer is C.
+
+794 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. CC(CNC(=O)C1=C(O)CC(=O)NC1=O)N
+
+795 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 2′′-(二环己基膦基)-N,N-二甲基-3-(三氟甲基)-[1,1′:2′,1′-三联苯]-3′-胺
+
+796 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. Ethyl 2-[3-[(Z)-N-[(R)-tert-butylsulfinyl]-C-methyl-carbonimidoyl]phenyl]-2-fluoranyl-ethanoate
+
+797 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. N-[2,6-bis(chloranyl)phenyl]-4-[2,5-bis(carboxyl)pyrrolidin-1-yl]benzenesulfonamide
+
+798 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. 2-[(dimethylamino)methyl]-N-(7,7-dimethyl-2-oxatricyclo[3.2.1]octan-6-yl)-N-methyl-5-phenyl-thieno[2,3-d]pyrimidin-4-amine
+#####################
+#####################
+Overall Accuracy = 446/799 = 0.558

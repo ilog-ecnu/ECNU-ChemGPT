@@ -1,0 +1,1148 @@
+
+0 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 75%浓度酒精杀灭细菌繁殖
+
+1 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+2 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 可吸入颗粒物
+
+3 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 氮气
+
+4 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 食物腐败是氧气造成的
+
+5 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 铁丝在氧气中燃烧火星四射
+
+6 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 质子数
+
+7 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. 含较多可溶性钙、镁化合物的水
+
+8 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 一定含碳、氢元素，可能含氧元素
+
+9 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+10 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. NO难溶于水
+
+11 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 石灰石和稀盐酸反应
+
+12 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 用燃烧的木条放在集气瓶口
+
+13 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. ②③
+
+14 Correct: False | OUTPUT: C | ANSWER: D | qwen: C
+
+15 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 石油是一种混合物
+
+16 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 液氧是助燃剂
+
+17 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 零落成泥碾作尘，唯有香如故
+
+18 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 因为氧气能支持燃烧，所以可用作燃料
+
+19 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+20 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+21 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+22 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 氮气
+
+23 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+24 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 氧
+
+25 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+26 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 纸张燃烧
+
+27 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 硫
+
+28 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+29 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 生活垃圾进行分类回收处理
+
+30 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 地塞米松由4种元素组成
+
+31 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 千锤万凿出深山
+
+32 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+33 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+34 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+35 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 纸张燃烧
+
+36 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 冰水混合物
+
+37 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 铜
+
+38 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. H、O原子个数比为2：1
+
+39 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. ③④
+
+40 Correct: False | OUTPUT: C | ANSWER: B | qwen: C. 25mL
+
+41 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 提出假设
+C. 实验
+
+42 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. O~2~
+
+43 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 氮气
+
+44 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 火箭新型推进剂H~2~（液氢）
+
+45 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 铝
+
+46 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+47 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 氯化钠是由氯化钠分子构成的化合物
+
+48 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 最外层电子数
+
+49 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 氯化钠是由钠离子和氯离子构成的
+
+50 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. P~2~O~5~
+
+51 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 水是一种常用的溶剂
+
+52 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+53 Correct: False | OUTPUT: D | ANSWER: C | qwen: D
+
+54 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 催化剂
+
+55 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 蔗糖的溶解
+
+56 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+57 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 炼铁铸锚
+
+58 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 活性炭有吸附性，可用于净水
+
+59 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 氧气
+
+60 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 氧循环对维持自然界中物质、能量及生态的平衡有重要意义
+
+61 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+62 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+63 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 纸巾
+
+64 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 遭遇火灾时，用湿毛巾捂住口鼻远离着火区域
+
+65 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 分子间间隔变小了
+
+66 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 2Na^+^------两个钠离子
+
+67 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 铁丝
+
+68 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+69 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. 50g
+
+70 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. CO~2~和H~2~的收集装置完全相同
+
+71 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 形成化学性质稳定的炭层
+
+72 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 碳
+
+73 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 减少化石燃料的使用
+
+74 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 一氧化碳
+
+75 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 1个分子中共含有83个原子
+
+76 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+77 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. "1"表示硫元素的个数
+
+78 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. ⑦②③①④⑤⑥
+
+79 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+80 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+81 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 稀氨水
+
+82 Correct: False | OUTPUT: A | ANSWER: D | qwen: A
+
+83 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 硝酸钾
+
+84 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+85 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 废口罩
+
+86 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+87 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 看颜色
+
+88 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 铜
+
+89 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. X的金属活动性比Y强
+
+90 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 石灰石
+
+91 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+92 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 大力开采稀有金属矿物，以保障金属材料的供应
+
+93 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. 铁锈的主要成分是Fe~3~O~4~
+
+94 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+95 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 溶液一定是混合物
+
+96 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+97 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+98 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 蒸馏水
+
+99 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 二氧化碳
+
+100 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. 金属活动性：M＞Zn＞Cu
+
+101 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 二氧化碳
+
+102 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 白糖
+
+103 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 用湿布擦拭
+
+104 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 澄清石灰水
+
+105 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 可能为紫色
+
+106 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 高锰酸钾
+
+107 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 塑料
+
+108 Correct: False | OUTPUT: C | ANSWER: D | qwen: C
+
+109 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 汞
+
+110 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 硝酸铵
+
+111 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. X＞Z＞Y
+
+112 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 用铜制容器盛盐酸
+
+113 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+114 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. KCl
+
+115 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. KNO~3~
+
+116 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 过磷酸钙
+
+117 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 维生素
+
+118 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 食用新鲜的蔬菜水果
+
+119 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 有机玻璃茶几
+
+120 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 塑料救生圈
+
+121 Correct: False | OUTPUT: C | ANSWER: B | qwen: C. X\>Z\>Y
+
+122 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 升高溶液的温度
+
+123 Correct: False | OUTPUT: A | ANSWER: C | qwen: 这个问题需要根据溶解度曲线来分析。溶解度曲线可以告诉我们不同温度下，物质的最大溶解度。根据题目描述，我们有：
+
+- A点代表的是在某个温度下的溶解度为50g，说明在该温度下，每100g溶剂中溶解了50g甲物质。
+- B点和D点的溶解度小于A点，表示在它们所代表的温度下，甲物质的溶解度更小，但没有明确具体数值。
+- C点代表的是在70℃时的溶解度，题目中提到这对应于甲物质的溶解度曲线，意味着70℃时的溶解度与A点相同，即为50g。
+
+当我们比较溶质的质量分数时，公式为：
+
+\[溶质的质量分数 = \frac{溶质的质量}{溶液的总质量}\]
+
+对于同一温度下的溶液，溶质的质量分数与溶解度成正比。因为题目中提到A点的溶解度为50g，且C点在相同的温度下也对应50g的溶解度，这意味着在相同温度下，A点和C点溶液的溶质质量分数相同。
+
+接下来，比较不同温度下的溶解度，溶解度越高，形成的溶液中溶质的质量分数越高。所以，A点和C点对应的溶液质量分数最高，然后是B点和D点，由题目描述，B和D的溶解度小于A和C，因此它们的质量分数会低于A和C。
+
+因此，比较四个选项：
+
+A. A＞C=D＞B —— 此选项正确，因为A和C的溶解度相同，因此它们的质量分数相同，并且它们高于B和D。B的溶解度最低，所以它的质量分数也最低。
+
+B. A=C＞B=D —— 此选项不正确，因为虽然A和C的溶解度相同，但没有信息表明它们的质量分数高于B和D的溶解分数。
+
+C. A＞B＞D=C —— 此选项不正确，因为没有足够的信息来确定B和D的质量分数和A或C之间的关系。
+
+D. A＞B=D＞C —— 此选项不正确，因为没有信息表明D的质量分数高于C。
+
+因此，正确答案是 A. A＞C=D＞B
+
+124 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 稀盐酸
+
+125 Correct: False | OUTPUT: C | ANSWER: D | qwen: 本题考查化学反应中物质的变化情况。澄清石灰水主要成分是Ca(OH)2，浓硫酸具有吸水性。
+
+澄清石灰水露置在空气中，二氧化碳会与石灰水反应生成碳酸钙沉淀和水，反应式为：CO2 + Ca(OH)2 → CaCO3（沉淀）+ H2O，导致溶液中的溶质Ca(OH)2质量减少，溶剂水的质量也减少，但总体上溶液的质量会减少，同时溶液的浓度会增大。
+
+浓硫酸露置在空气中会吸收空气中的水分，导致其溶剂质量增大，但溶质的质量不变，因此浓硫酸溶液的浓度会降低。
+
+所以，澄清石灰水和浓硫酸露置在空气中一段时间后，发生的共同变化是溶液的质量减少，对应答案是：
+
+A. 溶液的质量减少
+
+126 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+127 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+128 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 米醋(pH≈3)
+
+129 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. 表中的物质、主要成分的化学式及用途三者对应关系正确的是（ D ）
+
+130 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+131 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 40 ℃时的溶液一定为饱和溶液
+
+132 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+133 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 高锰酸钾
+
+134 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 硝酸铵
+
+135 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 延展性
+
+136 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+137 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 用稀盐酸定期清洗金属制品
+
+138 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 菱铁矿
+
+139 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 金
+
+140 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 除去下列各物质中混有的少量杂质，所用除杂试剂及操作方法均正确的是（　　）  ------ ------------ ---------- ------------------------------------------  选项   物质         杂质       除杂试剂及操作方法  A      二氧化碳     一氧化碳   通入氧气，点燃  B      氢气         氯化氢     先通过过量氢氧化钠溶液，再通过过量浓硫酸  C      锌粉         铁粉       加入适量氯化锌溶液，充分反应后过滤  D      氯化钾溶液   碳酸钾     加入过量氯化钙溶液，充分反应后过滤  ------ ------------ ---------- ------------------------------------------
+
+141 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 尿素
+
+142 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+143 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. NH~4~Cl
+
+144 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. NH~4~^+^
+
+145 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+146 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. H~2~0 NaOH HCl
+
+147 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 废口罩
+
+148 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 钙
+
+149 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+150 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+151 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+152 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 尼龙
+
+153 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 回收利用各种废弃塑料
+
+154 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+155 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 白酒
+
+156 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 铝镁合金属于复合材料
+
+157 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 红烧猪肉
+
+158 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 糖类
+
+159 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+160 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 用熟石灰和硫酸铜配制波尔多液
+
+161 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. 甲、乙、丙
+
+162 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+163 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+164 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. NH~4~NO~3~
+
+165 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+166 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 研发人工智能
+
+167 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+168 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 喷药消毒
+
+169 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 炼生铁
+
+170 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 烧制瓷器
+
+171 Correct: True | OUTPUT: C | ANSWER: C | qwen: C.
+
+172 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 呼出气体中氧气的含量比空气中小
+
+173 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+174 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 稀有气体
+
+175 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 氮气
+
+176 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 氖气
+
+177 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+178 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 水分子间隔变大
+
+179 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 铝
+
+180 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 锰 $$MN$$
+
+181 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+182 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 氧气
+
+183 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. $$2$$个镁离子：$$2Mg^{2 +}$$
+
+184 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+185 Correct: False | OUTPUT: C | ANSWER: D | qwen: C
+
+186 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. $$8$$：$$7$$
+
+187 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+188 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 氧气
+
+189 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. $$V/6\ mL$$
+
+190 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+191 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 物质与氧气发生的反应属于氧化反应
+
+192 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 烧杯、玻璃棒
+
+193 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 蒸馏能得到纯净的水
+
+194 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. 茶树
+
+195 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+196 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 不溶于水
+
+197 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 过度施用农药化肥提高产量，如喷洒过量农药杀虫
+
+198 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. NaCl
+
+199 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+200 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+201 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. Na~2~O~2~、NaOH、Na~2~CO~3~
+
+202 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+203 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 熔融的MgCl~2~
+
+204 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. CaCO~3~
+
+205 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. Br^－^→Br~2~
+
+206 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. MgCl~2~溶液
+
+207 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. 3FeCl~2~+4HNO~3~=2FeCl~3~+NO↑+2H~2~O+Fe(NO~3~) ~3~
+
+208 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. ①④⑥⑦⑧
+
+209 Correct: True | OUTPUT: C | ANSWER: C | qwen: 这个问题涉及到化学中电解质的分类。强电解质在水中完全电离，弱电解质部分电离，而非电解质则既不能在水中电离出离子。下面是正确的分类：
+
+强电解质：NaCl（氯化钠）、CaCO~3~（碳酸钙）、HNO~3~（硝酸）
+弱电解质：CH~3~COOH（醋酸）、NH~3~（氨）、H~2~CO~3~（碳酸）、Fe(OH)~3~（氢氧化铁）
+非电解质：蔗糖、C~2~H~5~OH（乙醇）、BaSO~4~（硫酸钡）、H~2~O（水）
+
+因此，正确的分类是：
+
+D. 列各组关于强电解质、弱电解质、非电解质的归类正确的（ ）  ------------- ------------ ------------ ------------ -------------------
+                A            B            C            D
+  强电解质      NaCl         CaCO~3~      HNO~3~      Fe
+  弱电解质      CH~3~COOH    NH~3~        H~2~CO~3~    Fe(OH)~3~
+  非电解质      蔗糖         BaSO~4~      C~2~H~5~OH   H~2~O
+
+210 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 该反应是氧化还原反应,化合价发生改变的只有两种元素
+
+211 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+212 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+213 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. F~2~、K、HCl
+
+214 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. Na~2~SO~3~===Na＋SO
+
+215 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. 原子数
+
+216 Correct: False | OUTPUT: A | ANSWER: C | qwen: 这个题目实际上包含了几个化学概念的考察，让我们逐一分析：
+
+A. 1 mol氢约含有6.02×10^23^个微粒
+- 这个说法是正确的，因为阿伏伽德罗常数（N_A）定义为1 mol任何物质所含有的微粒（原子、分子、离子等）的数量，约等于6.02×10^23。不过，这里说的是“氢”，而氢可以指氢原子（H），也可以是氢分子（H_2）。如果题目指的是氢原子，那么这个说法是正确的；如果指氢分子，那么实际包含的微粒数量应该是N_A/2。
+
+B. H~2~的摩尔质量是2 g
+- 这个说法是正确的。氢气（H_2）的相对原子质量是1（因为氢的原子质量单位是1），所以1摩尔氢气的质量是1 g * 2 = 2 g。
+
+C. 1 mol O~2~的质量是32 g，含有的氧原子数为2*N*~A~
+- 这个说法也是正确的。氧气（O_2）的相对分子质量是16 * 2 = 32 g/mol。而一个氧分子由两个氧原子组成，所以1 mol O_2 含有2*N_A 个氧原子。
+
+D. 2*N*~A~个H~2~SO~4~分子的摩尔质量为196 g/mol
+- 这个说法是错误的。摩尔质量是指1 mol某物质的质量，单位是 g/mol。硫酸（H_2SO_4）的相对分子质量是1 * 2 + 32 + 16 * 4 = 98 g/mol。因此，任何数量的硫酸分子（包括2*N_A个）的摩尔质量都是98 g/mol，并不会因为分子数量的增加而改变。
+
+综上所述，正确的选项是 **B、C**。但是题目要求选择一个单选题，所以如果要选择一个最符合题意的选项，需要根据题目的意图和给出选项的具体情况来判断。如果题目意图让学生选出全部正确的选项，答案应该是 **B 和 C**；如果只能选一个，题目可能存在误导或者表述不明确。根据通常理解，直接回答可能是无法准确满足题目的要求，因为题目的表述可能期望学生选择一个或多个正确的选项，但实际答案应包含 **B 和 C**。
+
+217 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+218 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 将水蒸气通过灼热的铁粉，粉末变红
+
+219 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 最终生成红褐色沉淀
+
+220 Correct: False | OUTPUT: C | ANSWER: D | qwen: C. 电子数
+
+221 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 同一元素各核素的质量数不同，但它们的化学性质几乎完全相同
+
+222 Correct: False | OUTPUT: C | ANSWER: A | qwen: C. ①③
+
+223 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. K层
+
+224 Correct: False | OUTPUT: A | ANSWER: D | qwen: A. ①②③
+
+225 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+226 Correct: True | OUTPUT: B | ANSWER: B | qwen: 根据题干信息，首先分析向甲中加入淀粉溶液和新制的氯水后变为橙色。我们知道，碘离子（I^-）与氯水反应会生成碘单质，碘单质遇淀粉会变蓝。因此，甲中含有的X^-为碘离子（I^-）。
+
+接着，将甲中的溶液倒入丙中，颜色无明显变化。这说明丙中含有亚碘酸盐或者碘酸盐等能够将碘还原的物质，使得由甲加入的碘单质被还原回碘离子，故丙中含有的X^-为溴离子（Br^-）。
+
+最后，乙中含有的X^-则为氯离子（Cl^-），因为它是剩余的选项。
+
+综上所述，甲、乙、丙中依次含有的离子为I^-、Br^-、Cl^-，对应选项为：
+
+C. I^-、Br^-、Cl^-
+
+227 Correct: False | OUTPUT: C | ANSWER: D | qwen: C
+
+228 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. ①④
+
+229 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. K~2~S
+
+230 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 微粒半径：H^＋^\>H\>H^－^
+
+231 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. Fe~2~(SO~4~)~3~溶液
+
+232 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 第八周期第ⅠA族
+
+233 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 原子半径：X＞Y，离子半径：X^＋^＞Z^2－^
+
+234 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. SO~2~
+
+235 Correct: False | OUTPUT: A | ANSWER: D | qwen: 题目要求找出只有过氧化氢还原性的反应。我们需要理解过氧化氢在不同反应中的角色。
+
+A. \(2H_2O_2=2H_2O+O_2↑\)：这是过氧化氢分解生成水和氧气，体现的是过氧化氢的分解性，而不是还原性。
+
+B. \(H_2O_2+SO_2=H_2SO_4\)：这个反应中过氧化氢和二氧化硫反应生成硫酸，体现出的是过氧化氢的氧化性，因为过氧化氢在此条件下被还原为水。
+
+C. \(H_2O_2+HI=I_2+2H_2O\)：在这个反应中，过氧化氢和碘化氢反应生成碘和水，体现出的是过氧化氢的还原性，因为它还原了碘化氢中的碘，被氧化为水。
+
+D. \(5 H_2O_2+2KMnO_4+3H_2SO_4=2MnSO_4+K_2SO_4+5O_2↑+8H_2O\)：这个反应中过氧化氢被高锰酸钾氧化生成氧气，体现出过氧化氢的氧化性，而不是还原性。
+
+因此，只有选项C是正确答案，因为它是在反应中体现过氧化氢还原性的唯一选项。答案是：C。
+
+236 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. I~2~
+
+237 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. 二氧化碳与水反应
+
+238 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 焰色试验中需用盐酸洗净铂丝
+
+239 Correct: False | OUTPUT: C | ANSWER: D | qwen: C. 氨水
+
+240 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 活性炭使红墨水褪色
+
+241 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 氯化钙溶液
+
+242 Correct: False | OUTPUT: A | ANSWER: B | qwen: 这个问题考查的是化学基本概念，需要理解每个选项的物理意义和化学原理。
+
+A. 1molO~2~含有氧原子数为N~A~：正确。氧分子由两个氧原子组成，因此1molO~2~含有2N~A~个氧原子。
+
+B. Fe的摩尔质量是56g/mol：正确。铁（Fe）的原子量大约是55.85，因此其摩尔质量约为56g/mol。
+
+C. 常温常压下，1molN~2~体积为22.4L：错误。这是理想气体的摩尔体积，在标准状况（0°C和101.325kPa）下，1mol任何气体的体积为22.4L，但在题目中并没有明确指出是标准状况。
+
+D. 1mol/LMgCl~2~溶液中Cl^－^的浓度为1mol/L.：错误。MgCl~2~是强电解质，在水中完全电离，产生两个Cl^－^离子和一个Mg^2+离子，因此在1mol/L的MgCl~2~溶液中，Cl^－^的浓度为2mol/L。
+
+因此，正确答案是A和B。但是，根据题目要求，只能选择一个答案，而在给出的四个选项中，A和B都是正确的。如果题目要求选择一个与其余选项不同的正确答案，那么这道题的表述可能存在问题，因为按照现代化学的理解，A和B都是正确的陈述。如果必须选择一个，可能需要更多信息或重新审视题目要求。
+
+243 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 100mL容量瓶
+
+244 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 称取62.5 g CuSO~4~•5H~2~O，在烧杯中加适量水溶解，最终在250mL的容量瓶中配成250 mL溶液
+
+245 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 1000mL，117.0g
+
+246 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. BaCl~2~的物质的量为0.2N~A~
+
+247 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. 水
+
+248 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. SiO~2~→H~2~SiO~3~
+
+249 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+250 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 列实验中，对应的现象以及结论都正确且两者具有因果关系的是（ ）  --- ------------------------------------------------------ -------------------------------------------------- ------------------------      实验                                                   现象                                               结论  C   将铁粉加入到FeCl~3~溶液中                              溶液颜色由黄色变为浅绿色                           Fe^3+^具有氧化性  --- ------------------------------------------------------ -------------------------------------------------- ------------------------
+
+251 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 钢
+
+252 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 生铁
+
+253 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. 简单离子半径的大小Z \> Y \> W \> X
+
+254 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. 是金属元素
+
+255 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 将打磨过的镁条和铝条分别和热水作用，并滴入酚酞溶液
+
+256 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 表中,对陈述Ⅰ、Ⅱ的正确性及两者间是否具有因果关系的判断都正确的是  ------ ----------------------------------------------------- --------------------------------------- ------------  选项   陈述Ⅰ                                                 陈述Ⅱ                                   判断  A      碳酸钠溶液可用于治疗胃病                              Na~2~CO~3~可与盐酸反应                  Ⅰ对,Ⅱ对,有  B      向Na~2~O~2~与H~2~O反应后的溶液中滴入酚酞,溶液变红色   Na~2~O~2~与水反应生成氢氧化钠           Ⅰ对,Ⅱ错,无  C      金属钠应保存在煤油中隔绝空气                          常温下,金属钠在空气中会生成过氧化钠     Ⅰ对,Ⅱ对,有  D      过氧化钠可用作航天员的供氧剂                          Na~2~O~2~能和CO~2~、H~2~O反应生成O~2~   Ⅰ对,Ⅱ对,有  ------ ----------------------------------------------------- --------------------------------------- ------------
+
+257 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+258 Correct: False | OUTPUT: B | ANSWER: D | qwen: 首先，我们知道硫酸根离子（SO4^2-）与钡离子（Ba^2+）反应生成硫酸钡（BaSO4），镁离子（Mg^2+）与氢氧根离子（OH^-）反应生成氢氧化镁（Mg(OH)2）。
+
+对于硫酸根离子完全沉淀的情况，反应为：
+\[Ba^{2+} + SO_4^{2-} \rightarrow BaSO_4\]
+
+对于镁离子完全沉淀的情况，反应为：
+\[Mg^{2+} + 2OH^- \rightarrow Mg(OH)_2\]
+
+由于硫酸根离子和镁离子完全沉淀，我们可以知道硫酸根离子与钡离子的摩尔比为1:1，镁离子与氢氧根离子的摩尔比为1:2。
+
+由于溶液被分成两等份，那么每份溶液中硫酸根离子的摩尔数为 *a* mol / 2，镁离子的摩尔数为 *b*/2 mol。
+
+对于钾离子（K+）来说，考虑到钾离子存在于原溶液中且不参与上述沉淀反应，因此钾离子的总摩尔数等于原溶液中钾离子的摩尔数。由于溶液被分成两等份，那么每份溶液中钾离子的摩尔数为原溶液中钾离子的总摩尔数的一半。
+
+设原溶液中钾离子的总摩尔数为 *x* mol，则每份溶液中钾离子的摩尔数为 *x*/2 mol。
+
+溶液的体积变为原来的1/2，设原溶液的体积为 *V*L，则每份溶液的体积为 *V*/2 L。
+
+钾离子的浓度为钾离子的摩尔数除以溶液的体积，因此每份溶液中钾离子的浓度为 \((x/2) / (V/2) = x/V\) mol/L。
+
+根据题目的选项格式，我们将其转换为标准形式，即：
+
+C. \(x/V\) mol·L^-1^
+
+259 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+260 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. Fe~2~O~3~―→Fe
+
+261 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. Fe(OH)~3~胶体
+
+262 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 氧化铁与稀盐酸混合：Fe~2~O~3~＋6H^＋^===2Fe^3＋^＋3H~2~O
+
+263 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+264 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+265 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 熔融氯化钾
+
+266 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. Al~2~(SO~4~)~3~===2Al^3＋^＋3SO~4~^2－
+
+267 Correct: False | OUTPUT: C | ANSWER: B | qwen: C
+
+268 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+269 Correct: True | OUTPUT: C | ANSWER: C | qwen: C.
+
+270 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 表中，对陈述Ⅰ、Ⅱ的正确性及两者间是否具有因果关系的判断都正确的是()
+
+  选项   陈述Ⅰ                                                      陈述Ⅱ                                判断
+  C      Na~2~CO~3~溶液中混有少量NaHCO~3~杂质，可加入适量NaOH除去   NaHCO~3~可与NaOH反应生成Na~2~CO~3~   Ⅰ对，Ⅱ对，有
+
+271 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. G、Y、Q、Z、X
+
+272 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. ①②③④
+
+273 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 加入10 mol·L^－1^盐酸0.6*V* L，再将溶液稀释至2*V* L
+
+274 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+275 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. 该溶液中一定含有SCN^－^
+
+276 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+277 Correct: False | OUTPUT: C | ANSWER: A | qwen: C. ①③
+
+278 Correct: False | OUTPUT: C | ANSWER: D | qwen: 答案是 C. mol
+
+279 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. 0.80×10^－10^m
+
+280 Correct: False | OUTPUT: A | ANSWER: B | qwen: 这个问题实际上是一个假题，因为每个选项都是基于元素周期律和化学事实合理的推测。在现实的元素周期律和化学知识应用中，选项A、B、C、D的推测都是基于已知的化学规律和事实作出的合理假设。
+
+- 选项A基于钙和钡的碳酸盐难溶于水，推测锶的碳酸盐也难溶于水，这是基于同一周期元素性质相似性作出的合理推测。
+- 选项B提到硅是半导体材料，其同族的锗也是半导体材料，因此推测第ⅣA族元素的单质都可做半导体材料，这是基于同一族元素性质相似性的合理推测。
+- 选项C提到氯化氢在1500℃分解，氢碘酸在230℃分解，推测溴化氢的分解温度介于二者之间，这是基于卤族元素性质相似性（即分解温度随着原子半径增大而减小）的合理推测。
+- 选项D提到硅和硫都能与氢气反应，因此推测磷也能与氢气反应，这是基于同一族元素性质相似性的合理推测。
+
+因此，基于给出的信息，这个问题没有不合理的推测。这可能是一个陷阱题或者是对元素周期律和化学性质理解的测试。在实际情况中，这四个选项都是基于元素周期律和化学原理的合理推测。
+
+281 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+282 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. ④组中的HCl既作还原剂，又起到酸的作用。
+
+283 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 同一主族元素，最外层电子数一定相同
+
+284 Correct: False | OUTPUT: C | ANSWER: D | qwen: C
+
+285 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. CaO
+
+286 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 分散质微粒直径的大小不同
+
+287 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 钠在空气中燃烧，生成淡黄色的过氧化钠
+
+288 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. FeSO~4~溶液与K~3~\[Fe（CN）~6~\]溶液
+
+289 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+290 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+291 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. NH~3~分子加热难分解
+
+292 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+293 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. 7.78 g
+
+294 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. NaHCO~3~溶液中滴加NaOH溶液
+
+295 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. ①③⑤⑥
+
+296 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 石墨烯是一种能导电的有机高分子材料
+
+297 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. ①③④
+
+298 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+299 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 大量氯气泄漏时，迅速离开现场并尽量应往低处去
+
+300 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+301 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+302 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+303 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 向Na~2~CO~3~和NaHCO~3~固体中分别滴加等浓度的盐酸，后者反应更剧烈
+
+304 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 保存FeCl~3~溶液时需加入少量Fe粉
+
+305 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 盐
+
+306 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+307 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. HCl
+
+308 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 稳定性：HF＞HCl
+
+309 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 稀释浓硫酸时，将水沿烧杯内壁倒入浓硫酸中
+
+310 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. Fe~2~O~3~→Fe
+
+311 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 与酸性氧化物SO~2~反应生成硫酸钠
+
+312 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 4个
+
+313 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. NaHCO~3~＝Na^+^+H^+^+CO~3~^2﹣^
+
+314 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 一定含Na^+^，也可含K^+^
+
+315 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+316 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. B
+
+317 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+318 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 纯碱------治疗胃酸过多
+
+319 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+320 Correct: False | OUTPUT: A | ANSWER: C | qwen: A. 2NaOH+H2SO4 =Na2SO4+2H2O
+
+321 Correct: False | OUTPUT: C | ANSWER: A | qwen: C. C
+
+322 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. Al~2~O~3~
+
+323 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. +6
+
+324 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. SO~2~＞I^-^＞Fe^2+^＞Cl^-^
+
+325 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. CO~2~
+
+326 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 过量的铜与浓硫酸
+
+327 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 用湿毛巾或蘸有肥皂水的毛巾捂住口鼻撤退
+
+328 Correct: False | OUTPUT: C | ANSWER: B | qwen: C. ④⑤⑥
+
+329 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 原子序数：X＞Y＞Z
+
+330 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+331 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 硫是一种黄色的能溶于水的固体
+
+332 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 蒸发皿中出现大量固体时即停止加热
+
+333 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 向氯水中通入少量SO~2~：Cl~2~＋SO~2~＋2H~2~O===4H^＋^＋2Cl^－^＋SO~4~^2－^
+
+334 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. ①④⑤
+
+335 Correct: False | OUTPUT: C | ANSWER: B | qwen: C. NH~4~Cl
+
+336 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 氨气极易溶于水，烧瓶内外形成压强差
+
+337 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. 列有关实验操作、现象和解释或结论都正确的是(　　)+------+--------------------------+--------+---------------------------+| 选项 | 实验操作                 | 现象   | 解释或结论                |+------+--------------------------+--------+---------------------------+| A    | 过                       | 溶液呈 | 稀HNO~3~将Fe氧化为Fe^3＋^ ||      | 量的Fe粉中加入稀HNO~3~， |        |                           ||      | 充分反应后，滴入KSCN溶液 | 红色   | Fe与稀HNO~3~反应生成Fe(NO3)3，Fe(NO3)3与KSCN反应生成血红色的配合物Fe(SCN)3 |
+
+338 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+339 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 滴一滴硝酸在币的表面，观察现象
+
+340 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 计算机芯片
+
+341 Correct: False | OUTPUT: C | ANSWER: D | qwen: C. ②④
+
+342 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. 乙、甲、丙、丁
+
+343 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. v(B)=0.03 mol·L^-1^·s^-1^
+
+344 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 氯水呈黄绿色，溶液显酸性
+
+345 Correct: False | OUTPUT: D | ANSWER: A | qwen: 回答：D. ②③
+
+346 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. ①和②
+
+347 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+348 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. ①②③④
+
+349 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 尼龙绳
+
+350 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 无水硫酸铜
+
+351 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 水和苯
+
+352 Correct: False | OUTPUT: C | ANSWER: D | qwen: C. ④
+
+353 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+354 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 电解法
+
+355 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 铝具有还原性，发生铝热反应时放出大量热
+
+356 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+357 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 铜离子和石灰乳使菌体蛋白质变性
+
+358 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 用小苏打来作焙制糕点的发酵粉成分
+
+359 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 碘酸钾
+
+360 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. 臭氧空洞
+
+361 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+362 Correct: False | OUTPUT: D | ANSWER: A | qwen: D
+
+363 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 4种
+
+364 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+365 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. SO~2~、H~2~SO~3~、H~2~SO~4~、H~2~S、S
+
+366 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 氧
+
+367 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. 溶液的pH不断减小
+
+368 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 0～4minZ的平均反应速率为mol•L^-1^•min^-1^
+
+369 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+370 Correct: True | OUTPUT: C | ANSWER: C | qwen: 由于问题中提供了不完整的信息和缺失的数值（如C的初始浓度、D的初始浓度、A和B的初始浓度等），我们无法直接计算出确切的答案。然而，如果假设我们有足够信息来解决这个问题，我们需要使用化学动力学的原理，特别是对于可逆反应的速率等式和平衡常数的概念。
+
+在可逆反应中，速率等式通常表示为速率对各反应物或产物的浓度的导数。然而，由于信息不全，我们无法直接应用这些原理来确定正确的选项。
+
+在没有具体数值的情况下，我们无法确定末时A和B的浓度之比、末时B的浓度、或A的消耗浓度。因此，我们需要更多的信息来解决这个问题。
+
+正确答案：无法确定，因为问题信息不全。
+
+371 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. NO~2~是无色，有刺激性气味的有毒气体
+
+372 Correct: False | OUTPUT: C | ANSWER: A | qwen: C. ①④
+
+373 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. ②⑤⑦
+
+374 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+375 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+376 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. d＞a＞b＞c
+
+377 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+378 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 二氧化硅制成的光导纤维，由于导电能力强而被用于制造光缆
+
+379 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. ②④
+
+380 Correct: False | OUTPUT: C | ANSWER: A | qwen: C. Cu和HNO~3~溶液
+
+381 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. 甲烷分子中的化学键是极性键
+
+382 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 易失去最外层的电子形成离子
+
+383 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 烷烃的卤代反应很难得到纯净的产物
+
+384 Correct: False | OUTPUT: C | ANSWER: A | qwen: C. 硫化过程使橡胶的结构由平面网状转化为立体网状
+
+385 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 全部
+
+386 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 植物油可与氢气在一定条件下发生加成反应
+
+387 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. ②---a、③---c、①---b
+
+388 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 蒸馏
+
+389 Correct: False | OUTPUT: B | ANSWER: D | qwen: B
+
+390 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+391 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+392 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 工业常用的静电除尘装置是利用胶体带电的性质设计的
+
+393 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 燃煤脱硫
+
+394 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 含硫化石燃料的大量燃烧
+
+395 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 酸雨
+
+396 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. S
+
+397 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 镁
+
+398 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 碳酸氢钠可做食品膨松剂
+
+399 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+400 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 氢气
+
+401 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. ①③④⑥
+
+402 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+403 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+404 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+405 Correct: False | OUTPUT: B | ANSWER: A | qwen: B. 甲作负极，丙是硫酸溶液
+
+406 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. ②④
+
+407 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+408 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 加入少量硫酸氢钠固体
+
+409 Correct: True | OUTPUT: A | ANSWER: A | qwen: A.  ①②③
+
+410 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. C
+
+411 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. 431kJ
+
+412 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 加入蒸馏水
+
+413 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+414 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. Al
+
+415 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 升高温度
+
+416 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 用酒精萃取碘水中的碘
+
+417 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 银
+
+418 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. Z元素的非金属性比N元素的非金属性强
+
+419 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. C
+
+420 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+421 Correct: False | OUTPUT: B | ANSWER: A | qwen: B
+
+422 Correct: False | OUTPUT: C | ANSWER: D | qwen: C
+
+423 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+424 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. 
+
+根据题干给出的反应式和已知的焓变值，我们可以通过计算得出ΔH~3~的值。
+
+从题干中，我们有：
+- 反应Ⅰ：CH~4~（g）+H~2~O（g）⇌CO（g）+3H~2~（g） ΔH~1~＝+205.9kJ•mol^﹣1^
+- 反应Ⅱ的前半部：CO（g）+H~2~O（g）⇌CO~2~（g）+H~2~（g） ΔH~2~＝﹣41.2kJ•mol^﹣1^
+
+反应Ⅱ的后半部与反应Ⅰ的前半部是相反的反应，因此它们的焓变是互为相反数，即ΔH~2~ = -ΔH~1~/3。
+
+根据上述信息，我们可以计算出ΔH~3~：
+ΔH~3~ = ΔH~1~ + ΔH~2~（将反应Ⅱ的两部分合并）
+
+将已知的ΔH~1~和ΔH~2~值代入：
+ΔH~3~ = +205.9kJ•mol^﹣1^ + (-41.2kJ•mol^﹣1^) / 3
+ΔH~3~ = +205.9kJ•mol^﹣1^ - 13.7kJ•mol^﹣1^
+ΔH~3~ = +192.2kJ•mol^﹣1^
+
+由于选项中没有直接给出这个值，我们需要再计算一次，确保我们的理解没有错误。根据原始的反应Ⅱ，其总焓变与前面提供的ΔH~3~值应该是一致的，但我们的计算结果与提供的选项不匹配，说明在解释过程中的描述可能需要调整。正确的计算应该是直接结合给定的反应及其焓变值，而不是基于这样的间接计算方式。
+
+实际上，反应Ⅱ的总焓变应该直接基于反应式来计算，而不是通过与反应Ⅰ的比较来间接推导。正确的计算应该是：
+ΔH~3~ = ΔH1 + ΔH2 = +205.9 kJ•mol^﹣1^ + (−41.2 kJ•mol^﹣1^) = +164.7 kJ•mol^﹣1^
+
+因此，正确的选择是 C. +164.7 kJ•mol^﹣1^。
+
+425 Correct: False | OUTPUT: D | ANSWER: C | qwen: D.
+
+426 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 实验3时，先把Na~2~S~2~O~3~溶液和H~2~SO~4~溶液混合，然后用60℃水浴加热
+
+427 Correct: False | OUTPUT: A | ANSWER: D | qwen: A. 25
+
+428 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+429 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 导电能力：相同
+
+430 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 加热
+
+431 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. NaHCO~3~
+
+432 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 升高温度，水的电离程度增大
+
+433 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. 1.0×10^-13^mol·L^-1^
+
+434 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+435 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+436 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 纯水
+
+437 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. ②③④①
+
+438 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+439 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+440 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. ﹣74.8 kJ•mol^﹣1^
+
+441 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+442 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+443 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 醋酸中加水后，溶液的pH升高
+
+444 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 雨水淋湿的自行车，先用布擦净后再用带油的布擦
+
+445 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+446 Correct: False | OUTPUT: C | ANSWER: D | qwen: C. 9种
+
+447 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 蒸馏
+
+448 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 蒸馏
+
+449 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 分子式符合C~n~H~2n~的烃不一定是烯烃
+
+450 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. C~3~H~8~
+
+451 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+452 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. 苯的一氯代物只有1种
+
+453 Correct: False | OUTPUT: D | ANSWER: A | qwen: D.
+
+454 Correct: False | OUTPUT: A | ANSWER: B | qwen: A. 每个能层中的能级数都等于该能层序数
+
+455 Correct: False | OUTPUT: B | ANSWER: D | qwen: B. 原子的吸收光谱
+
+456 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 在同一原子轨道上的不同电子的电子云是相同的
+
+457 Correct: False | OUTPUT: C | ANSWER: D | qwen: C. 泡利原理
+
+458 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 能量守恒原理
+
+459 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+460 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+461 Correct: True | OUTPUT: D | ANSWER: D | qwen: D
+
+462 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 卤化氢分子中，卤素的非金属性越强，共价键的极性越大，稳定性也越强
+
+463 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. 元素的基态原子核外电子排布都遵循构造原理
+
+464 Correct: True | OUTPUT: C | ANSWER: C | qwen: C
+
+465 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+466 Correct: False | OUTPUT: D | ANSWER: B | qwen: D. 三氧化硫
+
+467 Correct: False | OUTPUT: B | ANSWER: C | qwen: B. 金属键是金属阳离子和自由电子之间存在的强烈的静电吸引作用
+
+468 Correct: True | OUTPUT: D | ANSWER: D | qwen: D.
+
+469 Correct: False | OUTPUT: C | ANSWER: B | qwen: C
+
+470 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+471 Correct: False | OUTPUT: C | ANSWER: A | qwen: C
+
+472 Correct: True | OUTPUT: B | ANSWER: B | qwen: B
+
+473 Correct: False | OUTPUT: D | ANSWER: A | qwen: D. 12g金刚石中含有的C---C数目为1.5*N~A~*
+
+474 Correct: False | OUTPUT: D | ANSWER: C | qwen: D. ②④①③
+
+475 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. 2s^2^2p^5^
+
+476 Correct: True | OUTPUT: C | ANSWER: C | qwen: C. ②④
+
+477 Correct: False | OUTPUT: C | ANSWER: B | qwen: C. 3项
+
+478 Correct: True | OUTPUT: D | ANSWER: D | qwen: D. HBr
+
+479 Correct: False | OUTPUT: D | ANSWER: C | qwen: D
+
+480 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. "天宫二号"航天器使用的质量轻强度高的材料------钛合金
+
+481 Correct: True | OUTPUT: A | ANSWER: A | qwen: 答案是 A
+
+482 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+483 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 纯铁比生铁易生锈
+
+484 Correct: True | OUTPUT: B | ANSWER: B | qwen: B. 纳米Fe~3~O~4~能与酸反应，可用作铁磁性材料
+
+485 Correct: True | OUTPUT: A | ANSWER: A | qwen: A
+
+486 Correct: True | OUTPUT: A | ANSWER: A | qwen: A. 氢键，离子键和共价键都属于化学键
+
+487 Correct: True | OUTPUT: C | ANSWER: C | qwen: 首先，根据题干信息和选项，逐步解析：
+
+1. **元素信息**：X、Y、Z和W为原子序数依次增大的前20号元素，W为金属元素。
+
+2. **X原子信息**：基态X原子s轨道上的电子数和p轨道上的电子数相等。这说明X原子的价层电子排布是ns^2 np^2，即X是碳（C）元素。
+
+3. **X、Y、Z原子未成对电子数之比为2：1：3**。由于X是碳（2个未成对电子），可以确定Y、Z的未成对电子数。设Y的未成对电子数为x，则有：
+
+   - C: 2个未成对电子
+   - Y: x个未成对电子
+   - Z: 3x个未成对电子
+
+   根据原子序数依次增大的原则，且W为金属元素，可推断Z为氧（O，未成对电子数为6），X为碳（C，未成对电子数为2），再根据未成对电子数的比例，Y应为氮（N，未成对电子数为1）元素。因此，W为金属元素、原子序数大于氧的元素，可以判断W为钙（Ca）元素。
+
+4. **选项分析**：
+
+   - **A. 电负性：X\>Y\>Z\>W**。电负性从左到右递增，从上到下递减。碳（C）>氮（N）>氧（O），符合元素周期表的递变规律，而钙（Ca）的电负性较低，与氧接近，故A正确。
+   - **B. 原子半径：X\<Y\<Z\<W**。碳（C）>氮（N）>氧（O）>钙（Ca），原子半径从左到右减小，从上到下增大，故B错误。
+   - **C. Y和W的单质都能与水反应生成气体**。氮气（N2）与水反应不生成气体，钙与水反应产生氢气，故C错误。
+   - **D. Z元素最高价氧化物对应的水化物具有强氧化性**。氧元素最高价氧化物对应的水化物是H2O2（过氧化氢），具有弱氧化性，不是强氧化性，故D错误。
+
+综上所述，正确答案是 **A**。
+#####################
+#####################
+Overall Accuracy = 399/488 = 0.818
